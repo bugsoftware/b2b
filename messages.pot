@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-09 09:00-0400\n"
+"POT-Creation-Date: 2020-10-09 11:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -659,12 +659,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 380
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 398
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 405
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 54
 # File: module/b2b/view/b2b/btob/details.phtml, line: 324
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 54
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
 # File: module/b2b/view/b2b/btob/index.phtml, line: 34
 # File: module/b2b/view/b2b/btob/index.phtml, line: 35
@@ -681,24 +676,6 @@ msgstr ""
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 6
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 107
 msgid "Please wait..."
-msgstr ""
-#
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 34
-# File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 20
-# File: module/b2b/view/b2b/custom/topmenu.old.2.phtml, line: 21
-msgid "REPORTES"
-msgstr ""
-#
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 44
-# File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 30
-# File: module/b2b/view/b2b/custom/topmenu.old.2.phtml, line: 31
-msgid "CTM MAYORISTA"
-msgstr ""
-#
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 52
-# File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 38
-# File: module/b2b/view/b2b/custom/topmenu.old.2.phtml, line: 39
-msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/confirm.phtml, line: 8
@@ -818,14 +795,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 95
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 426
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 191
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 22
 # File: module/b2b/view/b2b/booking/index.phtml, line: 287
 # File: module/b2b/view/shared/nav.phtml, line: 58
 # File: module/b2b/view/shared/nav.phtml, line: 71
@@ -887,14 +856,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 428
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 193
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 23
 # File: module/b2b/view/b2b/booking/index.phtml, line: 293
 # File: module/b2b/view/shared/nav.phtml, line: 58
 msgid "Children"
@@ -1999,14 +1960,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 138
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 48
 # File: module/b2b/view/layout/admin.phtml, line: 274
 msgid "Search"
 msgstr ""
@@ -2294,14 +2247,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 74
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 45
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 74
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 13
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 13
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 86
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 127
@@ -2314,14 +2259,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 75
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 46
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 75
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 14
 msgid "Roundtrip"
 msgstr ""
 #
@@ -2329,14 +2266,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 77
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 48
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 77
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 15
 msgid "Multi-City"
 msgstr ""
 #
@@ -2348,46 +2277,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 80
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 51
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 80
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 17
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 27
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 31
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 35
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 39
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 17
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 27
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 31
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 35
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 39
 msgid "Flying from"
 msgstr ""
 #
@@ -2399,46 +2288,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 81
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 52
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 81
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 40
 msgid "Flying to"
 msgstr ""
 #
@@ -2451,59 +2300,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 12
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 8
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 12
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 57
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 57
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 57
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 57
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 57
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 20
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 53
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 20
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 53
 msgid "Departing"
 msgstr ""
 #
@@ -2512,27 +2308,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 9
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 56
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 58
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 56
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 58
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 56
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 58
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 56
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 58
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 56
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 58
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 54
 msgid "Returning"
 msgstr ""
 #
@@ -2543,14 +2318,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 256
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 430
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 196
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 24
 msgid "Infants"
 msgstr ""
 #
@@ -2570,26 +2337,10 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 429
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 103
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 196
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 24
 msgid "Infant"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 92
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 43
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 43
 msgid "Add another flight"
 msgstr ""
 #
@@ -5381,11 +5132,6 @@ msgstr ""
 msgid "Please input body message!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/edit.phtml, line: 1
-# File: module/b2b/view/b2b/newsletters/edit.phtml, line: 3
-msgid "Date sent"
-msgstr ""
-#
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 8
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 30
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
@@ -7920,17 +7666,6 @@ msgstr ""
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 92
 # File: module/b2b/view/b2b/customers/index.phtml, line: 201
 msgid "customers"
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 47
-# File: module/b2b/view/b2b/btob/airlines.old.2.phtml, line: 47
-msgid "Compare GDS"
 msgstr ""
 #
 # File: module/b2b/view/b2b/btob/details.phtml, line: 8
