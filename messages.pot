@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-12 07:48-0400\n"
+"POT-Creation-Date: 2020-10-12 13:33-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -519,8 +519,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 95
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 100
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 216
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 221
 # File: module/b2b/view/b2b/btob/details.phtml, line: 242
 # File: module/b2b/view/b2b/btob/details.phtml, line: 247
 # File: module/b2b/view/b2b/agents/add.phtml, line: 164
@@ -535,7 +533,7 @@ msgid "Title is required. Please select title to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 106
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 227
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 216
 # File: module/b2b/view/b2b/btob/details.phtml, line: 253
 # File: module/b2b/view/b2b/agents/add.phtml, line: 175
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 678
@@ -545,7 +543,6 @@ msgid "First name is required. Please input your first name to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 112
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 233
 # File: module/b2b/view/b2b/btob/details.phtml, line: 259
 # File: module/b2b/view/b2b/agents/add.phtml, line: 181
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 684
@@ -559,7 +556,6 @@ msgid "Agency name is required. Please input agency name to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 124
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 241
 # File: module/b2b/view/b2b/btob/details.phtml, line: 265
 # File: module/b2b/view/b2b/agents/add.phtml, line: 187
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 690
@@ -569,7 +565,6 @@ msgid "Email is required. Please input agency email to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 130
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 248
 # File: module/b2b/view/b2b/btob/details.phtml, line: 271
 # File: module/b2b/view/b2b/agents/add.phtml, line: 193
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 696
@@ -579,7 +574,7 @@ msgid "Password is required. Please input password name to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 136
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 255
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 223
 # File: module/b2b/view/b2b/btob/details.phtml, line: 277
 # File: module/b2b/view/b2b/agents/add.phtml, line: 199
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 702
@@ -589,7 +584,6 @@ msgid "Phone number is required. Please input agency phone number to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 142
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 262
 # File: module/b2b/view/b2b/btob/details.phtml, line: 283
 # File: module/b2b/view/b2b/agents/add.phtml, line: 205
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 708
@@ -600,8 +594,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 148
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 154
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 268
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 274
 # File: module/b2b/view/b2b/btob/details.phtml, line: 289
 # File: module/b2b/view/b2b/btob/details.phtml, line: 295
 # File: module/b2b/view/b2b/agents/add.phtml, line: 211
@@ -617,8 +609,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 160
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 166
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 280
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 286
 # File: module/b2b/view/b2b/btob/details.phtml, line: 301
 # File: module/b2b/view/b2b/btob/details.phtml, line: 307
 # File: module/b2b/view/b2b/agents/add.phtml, line: 223
@@ -634,8 +624,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 172
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 178
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 292
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 298
 # File: module/b2b/view/b2b/btob/details.phtml, line: 313
 # File: module/b2b/view/b2b/btob/details.phtml, line: 319
 # File: module/b2b/view/b2b/agents/add.phtml, line: 235
@@ -695,7 +683,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 380
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 398
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 405
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 309
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 235
 # File: module/b2b/view/b2b/btob/details.phtml, line: 324
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
@@ -3276,8 +3264,8 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 151
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 325
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 30
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 322
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 380
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 248
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 306
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 92
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 150
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
@@ -5269,8 +5257,8 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 647
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 151
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 325
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 322
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 380
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 248
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 306
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 92
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 238
@@ -5284,8 +5272,8 @@ msgid "Showing"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 89
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 322
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 380
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 248
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 306
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 92
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 238
@@ -6634,7 +6622,7 @@ msgid "Cancelled"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 678
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 356
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 282
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 845
 msgid "Pending"
 msgstr ""
@@ -7831,7 +7819,7 @@ msgid "Updating in progress. Please wait..."
 msgstr ""
 #
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 83
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 314
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 240
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 519
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 803
 msgid "Warning, system is updating customer record. Please wait..."
@@ -7867,73 +7855,68 @@ msgstr ""
 msgid "Profile Updated"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 240
-# File: module/b2b/view/b2b/customers/edit.phtml, line: 726
-msgid "Invalid email address!"
-msgstr ""
-#
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 322
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 248
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 374
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 811
 msgid "promotional city pairs"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 335
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 261
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 824
 msgid "Bounced/Returned"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 338
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 264
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 827
 msgid "Processed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 340
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 266
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 829
 msgid "Delivered"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 342
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 268
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 831
 msgid "Clicked"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 346
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 272
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 835
 msgid "Opened"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 350
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 276
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 839
 msgid "Deferred"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 358
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 284
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 847
 msgid "Sent"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 360
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 286
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 849
 msgid "Same Email - Review customer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 362
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 288
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 851
 msgid "Customer email invalid - Review customer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 364
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 290
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 853
 msgid "Bounced - Change customer email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 366
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 292
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 855
 msgid "Duplicate"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 380
+# File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 306
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 869
 msgid "promotion(s) sent"
 msgstr ""
@@ -8577,6 +8560,10 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 574
 msgid "Add Additional Promotional City Pairs"
+msgstr ""
+#
+# File: module/b2b/view/b2b/customers/edit.phtml, line: 726
+msgid "Invalid email address!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/customers/import.phtml, line: 8
