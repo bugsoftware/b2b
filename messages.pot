@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-12 13:33-0400\n"
+"POT-Creation-Date: 2020-10-13 04:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -657,7 +657,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/searching.phtml, line: 45
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 281
 # File: module/b2b/view/b2b/cruises/searching.phtml, line: 45
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 669
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 678
 # File: module/b2b/view/b2b/password/index.phtml, line: 77
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 13
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 400
@@ -1687,8 +1687,8 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 287
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 436
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 273
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 785
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 788
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 794
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 797
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 619
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 622
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 261
@@ -1698,8 +1698,8 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 288
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 437
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 277
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 790
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 799
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 808
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 624
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 633
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 263
@@ -6314,17 +6314,23 @@ msgstr ""
 msgid "Passenger(s)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 671
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 666
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 556
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 246
+msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
+msgstr ""
+#
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 680
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 574
 msgid "Invalid coupon/promotion code."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 672
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 681
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 575
 msgid "This coupon/promotion code can only be used with a minimum spend of"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/checkout.phtml, line: 794
+# File: module/b2b/view/b2b/cart/checkout.phtml, line: 803
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 628
 msgid "Tax Recovery Charges & Service Fees"
 msgstr ""
@@ -7295,11 +7301,6 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 535
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 539
 msgid "Customer's Total"
-msgstr ""
-#
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 556
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 246
-msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 163
