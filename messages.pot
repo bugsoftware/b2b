@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-13 08:23-0400\n"
+"POT-Creation-Date: 2020-10-13 09:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -762,12 +762,12 @@ msgstr ""
 msgid "Activity info"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 36
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 40
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 160
 msgid "Paxes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 42
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 46
 # File: module/b2b/view/b2b/activities/results.phtml, line: 30
 # File: module/b2b/view/b2b/activities/results.phtml, line: 204
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 30
@@ -829,7 +829,7 @@ msgstr ""
 msgid "Adults"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 43
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 47
 # File: module/b2b/view/b2b/activities/results.phtml, line: 31
 # File: module/b2b/view/b2b/activities/results.phtml, line: 205
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 31
@@ -891,8 +891,8 @@ msgstr ""
 msgid "Children"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 51
-# File: module/b2b/view/b2b/activities/checkout.phtml, line: 275
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 55
+# File: module/b2b/view/b2b/activities/checkout.phtml, line: 279
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 345
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 73
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 193
@@ -1662,7 +1662,7 @@ msgstr ""
 msgid "Activity details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/checkout.phtml, line: 266
+# File: module/b2b/view/b2b/activities/checkout.phtml, line: 270
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 73
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 186
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 691
@@ -1673,7 +1673,7 @@ msgstr ""
 msgid "Adults:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/checkout.phtml, line: 270
+# File: module/b2b/view/b2b/activities/checkout.phtml, line: 274
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 74
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 187
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 695
@@ -1684,7 +1684,7 @@ msgstr ""
 msgid "Children:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/checkout.phtml, line: 287
+# File: module/b2b/view/b2b/activities/checkout.phtml, line: 291
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 436
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 273
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 892
@@ -1695,7 +1695,7 @@ msgstr ""
 msgid "Terms & Conditions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/checkout.phtml, line: 288
+# File: module/b2b/view/b2b/activities/checkout.phtml, line: 292
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 437
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 277
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 897
