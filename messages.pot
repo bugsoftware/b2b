@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-15 08:51-0400\n"
+"POT-Creation-Date: 2020-10-16 04:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1599,7 +1599,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1237
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 119
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 252
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1172
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1176
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 278
 msgid "Non Refundable"
@@ -1715,7 +1715,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 338
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 354
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1147
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1207
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1211
 msgid "Book"
 msgstr ""
 #
@@ -7195,22 +7195,22 @@ msgid "Arrives"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1235
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1170
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1174
 msgid "Price:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1243
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1178
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1182
 msgid "FREE cancellation before"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1245
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1180
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1184
 msgid "PARTIAL cancellation before"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1247
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1182
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1186
 msgid "Booking conditions and cancellation policies will be displayed in checkout."
 msgstr ""
 #
