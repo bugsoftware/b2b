@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-16 17:08-0400\n"
+"POT-Creation-Date: 2020-10-19 16:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -690,6 +690,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 398
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 405
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
 # File: module/b2b/view/b2b/btob/details.phtml, line: 324
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
@@ -827,6 +828,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 95
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 426
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 191
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 23
 # File: module/b2b/view/b2b/booking/index.phtml, line: 287
@@ -890,6 +892,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 428
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 193
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 25
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
 # File: module/b2b/view/b2b/booking/index.phtml, line: 293
@@ -1998,6 +2001,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 138
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 49
 # File: module/b2b/view/layout/admin.phtml, line: 274
@@ -2289,6 +2293,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 74
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 45
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 74
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 14
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
@@ -2303,6 +2308,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 75
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 46
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 75
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 15
 msgid "Roundtrip"
@@ -2312,6 +2318,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 77
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 48
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 77
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 16
 msgid "Multi-City"
@@ -2325,6 +2332,11 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 80
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 51
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 80
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 18
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 28
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 32
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 36
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 40
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 18
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 28
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 32
@@ -2346,6 +2358,11 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 81
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 52
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 81
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 19
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 29
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 33
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 37
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 41
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 19
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 29
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 33
@@ -2368,6 +2385,13 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 12
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 8
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 12
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 21
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 30
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 34
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 38
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 42
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 55
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 57
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 21
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 34
@@ -2389,6 +2413,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 9
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 15
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 22
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 56
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 58
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 22
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 56
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 58
@@ -2404,6 +2431,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 256
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 430
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 196
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
 msgid "Infants"
@@ -2425,12 +2453,14 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 429
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 103
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 196
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
 msgid "Infant"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 92
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 44
 msgid "Add another flight"
@@ -8083,6 +8113,12 @@ msgstr ""
 msgid "customers"
 msgstr ""
 #
+# File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 48
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 48
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 48
+msgid "Compare GDS"
+msgstr ""
+#
 # File: module/b2b/view/b2b/btob/details.phtml, line: 8
 msgid "My Details"
 msgstr ""
@@ -8161,11 +8197,6 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 8
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 29
 msgid "Add Specialty"
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 48
-msgid "Compare GDS"
 msgstr ""
 #
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 69
