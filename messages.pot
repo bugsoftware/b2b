@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-23 11:34-0400\n"
+"POT-Creation-Date: 2020-10-27 05:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -709,6 +709,18 @@ msgstr ""
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 6
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 107
 msgid "Please wait..."
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 37
+msgid "REPORTES"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 47
+msgid "CTM MAYORISTA"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 55
+msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/confirm.phtml, line: 8
