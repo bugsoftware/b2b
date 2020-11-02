@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-02 15:01-0500\n"
+"POT-Creation-Date: 2020-11-02 15:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,7 +235,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 642
 # File: module/b2b/view/b2b/flights/results.phtml, line: 501
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 369
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 579
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 576
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 66
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 87
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 105
@@ -266,7 +266,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 643
 # File: module/b2b/view/b2b/flights/results.phtml, line: 502
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 370
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 580
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 577
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 67
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 88
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 106
@@ -316,7 +316,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 170
 # File: module/b2b/view/b2b/flights/results.phtml, line: 503
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 371
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 581
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 578
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 77
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 268
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 32
@@ -375,7 +375,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 169
 # File: module/b2b/view/b2b/flights/results.phtml, line: 504
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 372
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 582
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 579
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 269
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 36
@@ -1803,7 +1803,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 657
 # File: module/b2b/view/b2b/flights/results.phtml, line: 508
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 586
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 583
 # File: module/b2b/view/b2b/customers/index.phtml, line: 257
 # File: module/b2b/view/b2b/customers/index.phtml, line: 293
 msgid "Close"
@@ -5188,7 +5188,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 647
 # File: module/b2b/view/b2b/flights/results.phtml, line: 505
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 583
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 580
 # File: module/b2b/view/b2b/customers/index.phtml, line: 248
 # File: module/b2b/view/b2b/customers/index.phtml, line: 282
 # File: module/b2b/view/b2b/customers/index.phtml, line: 317
@@ -6113,8 +6113,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 367
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 440
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 577
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 586
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 574
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 583
 msgid "Send Quote"
 msgstr ""
 #
@@ -7635,7 +7635,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 5
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 88
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 151
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 479
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 476
 msgid "Non-Stop"
 msgstr ""
 #
@@ -7645,7 +7645,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 89
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 152
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 272
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 480
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 477
 msgid "1 Stop"
 msgstr ""
 #
@@ -7847,7 +7847,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/flights/results.phtml, line: 403
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 7
-# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 481
+# File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 478
 msgid "Stops"
 msgstr ""
 #
