@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-06 05:42-0500\n"
+"POT-Creation-Date: 2020-11-06 07:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -685,10 +685,10 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 17
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 395
 # File: module/b2b/view/b2b/flights/searching.phtml, line: 32
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 403
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 410
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 428
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 435
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 405
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 412
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 430
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 437
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
 # File: module/b2b/view/b2b/btob/details.phtml, line: 324
@@ -1712,7 +1712,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 895
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 619
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 622
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 291
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 293
 msgid "Terms & Conditions"
 msgstr ""
 #
@@ -1723,8 +1723,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 906
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 624
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 633
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 293
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 306
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 295
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 308
 msgid "I Agree"
 msgstr ""
 #
@@ -6342,8 +6342,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 746
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 535
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 539
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 260
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 264
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 262
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 266
 msgid "Customer's Total"
 msgstr ""
 #
@@ -6431,7 +6431,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 760
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 556
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 276
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 278
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
@@ -7893,11 +7893,11 @@ msgstr ""
 msgid "By selecting to complete this booking I acknowledge the fares and conditions rules for this flight."
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 296
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 298
 msgid "Fare Rules"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/checkout.phtml, line: 300
+# File: module/b2b/view/b2b/flights/checkout.phtml, line: 302
 msgid "Rule #"
 msgstr ""
 #
