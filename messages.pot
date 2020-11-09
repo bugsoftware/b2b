@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-09 09:21-0500\n"
+"POT-Creation-Date: 2020-11-09 09:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2779,23 +2779,23 @@ msgstr ""
 msgid "Insurance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 5
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
 msgid "Traveler assistance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 5
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
 msgid "Travel Peacefully. Travel Protected."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 7
 msgid "Travel protected to any part of the world with the best medical travel assistance."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 7
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 8
 msgid "Select Insurance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 10
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 11
 msgid "No Insurance"
 msgstr ""
 #
