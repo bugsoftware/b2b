@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-16 16:06-0500\n"
+"POT-Creation-Date: 2020-11-17 04:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1813,7 +1813,7 @@ msgid "Saturday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 243
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 70
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 78
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 446
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 505
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 745
@@ -5419,12 +5419,12 @@ msgid "Guarantee"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 22
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 35
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 36
 msgid "Deck"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 38
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 47
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 48
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 311
 # File: module/b2b/view/b2b/hotels/list.phtml, line: 410
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 359
@@ -5496,20 +5496,28 @@ msgstr ""
 msgid "Searching cruises"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 25
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 27
 msgid "Choose a Cabin"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 29
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 30
 msgid "Select your cabin"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 34
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 35
 msgid "Cabin"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 44
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 45
 msgid "view deck plan"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 53
+msgid "Max Occupancy:"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 99
+msgid "Cabin Number"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 59
