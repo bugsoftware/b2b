@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-17 05:01-0500\n"
+"POT-Creation-Date: 2020-11-17 05:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1813,7 +1813,7 @@ msgid "Saturday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 243
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 78
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 75
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 446
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 505
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 745
@@ -5424,7 +5424,7 @@ msgid "Deck"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 38
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 48
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 45
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 311
 # File: module/b2b/view/b2b/hotels/list.phtml, line: 410
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 359
@@ -5508,15 +5508,15 @@ msgstr ""
 msgid "Cabin"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 45
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 43
 msgid "view deck plan"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 53
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 50
 msgid "Max Occupancy:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 99
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 96
 msgid "Cabin Number"
 msgstr ""
 #
