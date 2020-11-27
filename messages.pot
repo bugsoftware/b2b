@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 12:34-0500\n"
+"POT-Creation-Date: 2020-11-27 12:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -164,6 +164,10 @@ msgstr ""
 msgid "All"
 msgstr ""
 #
+# File: module/b2b/src/Controller/NewslettersController.php, line: 129
+msgid "All Countries"
+msgstr ""
+#
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 2
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 57
 msgid "Confirmation"
@@ -303,7 +307,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 74
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 83
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 93
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 60
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 70
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 45
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 440
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 86
@@ -367,7 +371,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 73
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 82
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 92
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 62
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 72
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 441
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 85
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 129
@@ -433,7 +437,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 46
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 37
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 61
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 71
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/btob/details.phtml, line: 44
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 75
@@ -466,6 +470,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 13
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 11
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 49
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 73
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 43
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 42
 # File: module/b2b/view/b2b/btob/details.phtml, line: 48
@@ -1284,6 +1289,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 226
 # File: module/b2b/view/b2b/tours/results.phtml, line: 142
 # File: module/b2b/view/b2b/cars/results.phtml, line: 171
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 47
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 32
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 79
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 478
@@ -3814,7 +3820,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/b2bmenu_edit.phtml, line: 19
 # File: module/b2b/view/b2b/admin/b2bfootermenu.phtml, line: 16
 # File: module/b2b/view/b2b/admin/content_edit.phtml, line: 13
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 64
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 75
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 45
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 62
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 548
@@ -5358,7 +5364,18 @@ msgstr ""
 msgid "Body"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 59
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 51
+msgid "Country Filter"
+msgstr ""
+#
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 53
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 74
+# File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 32
+# File: module/b2b/view/b2b/customers/index.phtml, line: 145
+msgid "City Pair"
+msgstr ""
+#
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 69
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 756
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 757
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 786
@@ -5367,13 +5384,7 @@ msgstr ""
 msgid "Customer Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 63
-# File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 32
-# File: module/b2b/view/b2b/customers/index.phtml, line: 145
-msgid "City Pair"
-msgstr ""
-#
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 65
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 76
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 63
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 554
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 272
@@ -5386,11 +5397,11 @@ msgstr ""
 msgid "Action"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 95
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 107
 msgid "customer(s)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 100
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 112
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 80
 # File: module/b2b/view/b2b/customers/index.phtml, line: 258
 # File: module/b2b/view/b2b/customers/index.phtml, line: 294
@@ -5398,15 +5409,15 @@ msgstr ""
 msgid "Send"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 109
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 121
 msgid "Please input subject!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 115
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 127
 msgid "Please wait.."
 msgstr ""
 #
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 119
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 131
 msgid "Please select at least one customer to send promotion!"
 msgstr ""
 #
