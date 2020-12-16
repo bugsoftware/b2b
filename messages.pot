@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 15:29-0500\n"
+"POT-Creation-Date: 2020-12-16 05:23-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -742,11 +742,11 @@ msgstr ""
 msgid "REPORTES"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 51
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 61
 msgid "CTM MAYORISTA"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 59
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 70
 msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
