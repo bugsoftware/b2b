@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 18:05-0500\n"
+"POT-Creation-Date: 2020-12-17 19:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -192,7 +192,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 36
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 23
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 36
 # File: module/b2b/view/b2b/agents/add.phtml, line: 24
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 32
 # File: module/b2b/view/b2b/customers/add.phtml, line: 23
@@ -1013,7 +1012,6 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 65
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 66
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 60
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 43
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 72
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 51
 # File: module/b2b/view/b2b/booking/index.phtml, line: 495
@@ -3864,7 +3862,7 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 555
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 263
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 52
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 33
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 32
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 39
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 124
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 144
@@ -9050,16 +9048,16 @@ msgstr ""
 msgid "Payment Reference"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 37
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 35
 msgid "Cash"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 39
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 41
 msgid "Wire Transfer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 41
-msgid "Payment Type"
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 44
+msgid "Amount Paid"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 66
