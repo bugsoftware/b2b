@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-30 17:58-0500\n"
+"POT-Creation-Date: 2020-12-31 06:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,8 +229,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 42
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 73
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 15
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 44
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 18
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 87
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 34
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 28
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 438
@@ -261,8 +261,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 43
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 74
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 16
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 45
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 19
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 88
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 35
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 29
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 439
@@ -298,8 +298,8 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 45
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 192
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 76
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 18
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 51
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 21
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 94
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 62
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 42
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 51
@@ -363,8 +363,8 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 47
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 191
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 75
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 17
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 47
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 20
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 90
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 61
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 41
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 73
@@ -434,7 +434,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 60
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 62
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 105
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 37
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 71
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 31
@@ -464,7 +464,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 61
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 77
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 59
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 102
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 11
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 13
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 11
@@ -494,7 +494,7 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 63
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 49
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 80
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 61
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 104
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 16
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 15
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 16
@@ -669,8 +669,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 88
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 103
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 239
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 331
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 282
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 374
 # File: module/b2b/view/b2b/tours/results.phtml, line: 404
 # File: module/b2b/view/b2b/tours/results.phtml, line: 425
 # File: module/b2b/view/b2b/tours/searching.phtml, line: 48
@@ -881,8 +881,8 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 42
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 60
 # File: module/b2b/view/b2b/booking/index.phtml, line: 287
-# File: module/b2b/view/shared/nav.phtml, line: 58
-# File: module/b2b/view/shared/nav.phtml, line: 71
+# File: module/b2b/view/shared/nav.phtml, line: 57
+# File: module/b2b/view/shared/nav.phtml, line: 70
 msgid "Adults"
 msgstr ""
 #
@@ -951,7 +951,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 45
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 63
 # File: module/b2b/view/b2b/booking/index.phtml, line: 293
-# File: module/b2b/view/shared/nav.phtml, line: 58
+# File: module/b2b/view/shared/nav.phtml, line: 57
 msgid "Children"
 msgstr ""
 #
@@ -1020,11 +1020,11 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 569
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 99
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 362
-# File: module/b2b/view/shared/nav.phtml, line: 83
-# File: module/b2b/view/shared/nav.phtml, line: 95
-# File: module/b2b/view/shared/nav.phtml, line: 107
-# File: module/b2b/view/shared/nav.phtml, line: 116
-# File: module/b2b/view/shared/nav.phtml, line: 185
+# File: module/b2b/view/shared/nav.phtml, line: 82
+# File: module/b2b/view/shared/nav.phtml, line: 94
+# File: module/b2b/view/shared/nav.phtml, line: 106
+# File: module/b2b/view/shared/nav.phtml, line: 115
+# File: module/b2b/view/shared/nav.phtml, line: 184
 msgid "Total"
 msgstr ""
 #
@@ -1113,7 +1113,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 86
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 206
 # File: module/b2b/view/b2b/booking/index.phtml, line: 291
-# File: module/b2b/view/shared/nav.phtml, line: 58
+# File: module/b2b/view/shared/nav.phtml, line: 57
 msgid "Child"
 msgstr ""
 #
@@ -1572,7 +1572,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 186
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 203
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 38
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 81
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 50
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 77
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 29
@@ -1607,7 +1607,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 187
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 204
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 39
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 82
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 51
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 78
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 30
@@ -1642,7 +1642,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 206
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 41
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 84
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 53
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 80
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 12
@@ -1777,7 +1777,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 184
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 171
 # File: module/b2b/view/b2b/booking/index.phtml, line: 476
-# File: module/b2b/view/shared/nav.phtml, line: 103
+# File: module/b2b/view/shared/nav.phtml, line: 102
 msgid "Adults:"
 msgstr ""
 #
@@ -1788,7 +1788,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 185
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 172
 # File: module/b2b/view/b2b/booking/index.phtml, line: 480
-# File: module/b2b/view/shared/nav.phtml, line: 103
+# File: module/b2b/view/shared/nav.phtml, line: 102
 msgid "Children:"
 msgstr ""
 #
@@ -2260,7 +2260,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 51
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 82
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 63
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 106
 msgid "ZIP Code/Postal Code"
 msgstr ""
 #
@@ -2994,48 +2994,57 @@ msgstr ""
 msgid "Supplier"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 12
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 29
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 15
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 33
 msgid "Customer information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 12
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 29
-# File: module/b2b/view/shared/nav.phtml, line: 199
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 15
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 33
+# File: module/b2b/view/shared/nav.phtml, line: 198
 msgid "Who are you selling to?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 19
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 65
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 22
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 108
 # File: module/b2b/view/b2b/btob/details.phtml, line: 56
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 86
 msgid "Social Security Number/Tax Identification Number/RUC"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 20
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 66
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 23
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 109
 msgid "National/State ID Card/Driver's License/DNI"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 21
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 54
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 24
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 97
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 msgid "Account Id/ERP Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 22
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 25
 msgid "Reset Customer information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 33
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 38
+# File: module/b2b/view/shared/nav.phtml, line: 205
+msgid "Phone number, Email, Tax Id/DNI"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 76
 msgid "Do not input your email address or phone number in the customer's information section. If you do not know the customer's email address or phone number leave it blank."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 34
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 77
 msgid "This information will be used to issue the customer's invoice."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 56
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 77
+msgid "Filling the information bellow will create a new customer."
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 99
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 50
 # File: module/b2b/view/b2b/agents/add.phtml, line: 57
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 88
@@ -3045,43 +3054,43 @@ msgstr ""
 msgid "Account Id"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 59
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 102
 msgid "Choose country"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 60
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 103
 msgid "Choose zone/state/region"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 60
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 103
 msgid "Zone/State/Region"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 61
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 104
 msgid "Choose city"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 268
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 311
 msgid "Account Id not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 296
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 339
 msgid "Email not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 324
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 367
 msgid "Phone not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 353
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 396
 msgid "Customer available"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 354
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 397
 msgid "Customer is already available. Do you want to use this customer?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 358
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 401
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/topmenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/mapping.phtml, line: 44
@@ -3098,7 +3107,7 @@ msgstr ""
 msgid "No"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 359
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 402
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 58
 # File: module/b2b/view/b2b/admin/topmenu.phtml, line: 56
@@ -3216,8 +3225,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 188
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 63
-# File: module/b2b/view/shared/nav.phtml, line: 194
-# File: module/b2b/view/shared/nav.phtml, line: 213
+# File: module/b2b/view/shared/nav.phtml, line: 193
+# File: module/b2b/view/shared/nav.phtml, line: 212
 msgid "OK"
 msgstr ""
 #
@@ -5038,7 +5047,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 174
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 567
 # File: module/b2b/view/b2b/booking/index.phtml, line: 442
-# File: module/b2b/view/shared/nav.phtml, line: 90
+# File: module/b2b/view/shared/nav.phtml, line: 89
 msgid "Pick up"
 msgstr ""
 #
@@ -5048,7 +5057,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 177
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 570
 # File: module/b2b/view/b2b/booking/index.phtml, line: 446
-# File: module/b2b/view/shared/nav.phtml, line: 91
+# File: module/b2b/view/shared/nav.phtml, line: 90
 msgid "Drop off"
 msgstr ""
 #
@@ -5722,8 +5731,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 251
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 374
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 204
-# File: module/b2b/view/shared/nav.phtml, line: 58
-# File: module/b2b/view/shared/nav.phtml, line: 71
+# File: module/b2b/view/shared/nav.phtml, line: 57
+# File: module/b2b/view/shared/nav.phtml, line: 70
 msgid "Adult"
 msgstr ""
 #
@@ -5822,7 +5831,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 347
 # File: module/b2b/view/b2b/booking/index.phtml, line: 278
 # File: module/b2b/view/b2b/booking/index.phtml, line: 287
-# File: module/b2b/view/shared/nav.phtml, line: 53
+# File: module/b2b/view/shared/nav.phtml, line: 52
 msgid "Nights"
 msgstr ""
 #
@@ -6246,8 +6255,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 168
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 175
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 178
+# File: module/b2b/view/shared/nav.phtml, line: 89
 # File: module/b2b/view/shared/nav.phtml, line: 90
-# File: module/b2b/view/shared/nav.phtml, line: 91
 msgid "at"
 msgstr ""
 #
@@ -6318,7 +6327,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 347
 # File: module/b2b/view/b2b/booking/index.phtml, line: 278
 # File: module/b2b/view/b2b/booking/index.phtml, line: 287
-# File: module/b2b/view/shared/nav.phtml, line: 53
+# File: module/b2b/view/shared/nav.phtml, line: 52
 msgid "Night"
 msgstr ""
 #
@@ -6333,7 +6342,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 340
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1147
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1149
-# File: module/b2b/view/shared/nav.phtml, line: 54
+# File: module/b2b/view/shared/nav.phtml, line: 53
 msgid "Room"
 msgstr ""
 #
@@ -6415,14 +6424,14 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 222
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 57
 # File: module/b2b/view/shared/nav.phtml, line: 30
-# File: module/b2b/view/shared/nav.phtml, line: 89
+# File: module/b2b/view/shared/nav.phtml, line: 88
 msgid "Car Rental"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 312
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 26
 # File: module/b2b/view/shared/nav.phtml, line: 33
-# File: module/b2b/view/shared/nav.phtml, line: 77
+# File: module/b2b/view/shared/nav.phtml, line: 76
 msgid "Transfer"
 msgstr ""
 #
@@ -6561,7 +6570,7 @@ msgid "Create Newsletter"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 12
-# File: module/b2b/view/shared/nav.phtml, line: 118
+# File: module/b2b/view/shared/nav.phtml, line: 117
 msgid "Checkout"
 msgstr ""
 #
@@ -6872,7 +6881,7 @@ msgid "Password successfully changed."
 msgstr ""
 #
 # File: module/b2b/view/b2b/password/index.phtml, line: 35
-# File: module/b2b/view/shared/nav.phtml, line: 160
+# File: module/b2b/view/shared/nav.phtml, line: 159
 msgid "Change password"
 msgstr ""
 #
@@ -6933,8 +6942,8 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 342
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 662
 # File: module/b2b/view/b2b/booking/index.phtml, line: 502
-# File: module/b2b/view/shared/nav.phtml, line: 178
-# File: module/b2b/view/shared/nav.phtml, line: 194
+# File: module/b2b/view/shared/nav.phtml, line: 177
+# File: module/b2b/view/shared/nav.phtml, line: 193
 msgid "Cancel"
 msgstr ""
 #
@@ -7532,7 +7541,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 593
 # File: module/b2b/view/b2b/hotels/list.phtml, line: 403
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 354
-# File: module/b2b/view/shared/nav.phtml, line: 166
+# File: module/b2b/view/shared/nav.phtml, line: 165
 msgid "More"
 msgstr ""
 #
@@ -9959,48 +9968,44 @@ msgstr ""
 msgid "Cart Items"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 64
+# File: module/b2b/view/shared/nav.phtml, line: 63
 msgid "Departure:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 66
+# File: module/b2b/view/shared/nav.phtml, line: 65
 msgid "Return:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 118
+# File: module/b2b/view/shared/nav.phtml, line: 117
 msgid "Cart Details"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 120
+# File: module/b2b/view/shared/nav.phtml, line: 119
 msgid "Your basket is currently empty."
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 158
+# File: module/b2b/view/shared/nav.phtml, line: 157
 msgid "Cart"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 159
+# File: module/b2b/view/shared/nav.phtml, line: 158
 msgid "Markup:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 161
+# File: module/b2b/view/shared/nav.phtml, line: 160
 msgid "Logout"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 172
+# File: module/b2b/view/shared/nav.phtml, line: 171
 msgid "Change Account Commission"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 183
+# File: module/b2b/view/shared/nav.phtml, line: 182
 msgid "Fixed Markup/Service Fee"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 186
+# File: module/b2b/view/shared/nav.phtml, line: 185
 msgid "Per Person"
-msgstr ""
-#
-# File: module/b2b/view/shared/nav.phtml, line: 206
-msgid "Phone number, Email, Tax Id/DNI"
 msgstr ""
 #
 # File: module/b2b/view/login/index.phtml, line: 95
