@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-31 06:06-0500\n"
+"POT-Creation-Date: 2020-12-31 06:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,8 +229,9 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 42
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 73
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 18
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 87
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 16
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 40
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 109
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 34
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 28
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 438
@@ -261,8 +262,9 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 43
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 74
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 19
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 88
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 17
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 41
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 110
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 35
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 29
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 439
@@ -298,8 +300,9 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 45
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 192
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 76
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 21
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 94
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 19
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 43
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 116
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 62
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 42
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 51
@@ -363,8 +366,9 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 47
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 191
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 75
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 20
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 90
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 18
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 42
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 112
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 61
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 41
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 73
@@ -434,7 +438,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 60
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 105
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 127
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 37
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 71
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 31
@@ -464,7 +468,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 61
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 77
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 102
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 124
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 11
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 13
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 11
@@ -494,7 +498,7 @@ msgstr ""
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 63
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 49
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 80
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 104
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 126
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 16
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 15
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 16
@@ -669,8 +673,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 88
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 103
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 282
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 374
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 304
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 396
 # File: module/b2b/view/b2b/tours/results.phtml, line: 404
 # File: module/b2b/view/b2b/tours/results.phtml, line: 425
 # File: module/b2b/view/b2b/tours/searching.phtml, line: 48
@@ -1572,7 +1576,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 186
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 203
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 81
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 103
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 50
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 77
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 29
@@ -1607,7 +1611,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 187
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 204
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 82
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 104
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 51
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 78
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 30
@@ -1642,7 +1646,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 206
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 84
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 106
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 53
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 80
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 12
@@ -2260,7 +2264,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 51
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 82
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 106
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 128
 msgid "ZIP Code/Postal Code"
 msgstr ""
 #
@@ -2994,57 +2998,69 @@ msgstr ""
 msgid "Supplier"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 15
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 33
-msgid "Customer information"
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 13
+msgid "Agent information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 15
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 33
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 13
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 37
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 55
 # File: module/b2b/view/shared/nav.phtml, line: 198
 msgid "Who are you selling to?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 22
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 108
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 20
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 44
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 130
 # File: module/b2b/view/b2b/btob/details.phtml, line: 56
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 86
 msgid "Social Security Number/Tax Identification Number/RUC"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 23
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 109
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 21
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 45
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 131
 msgid "National/State ID Card/Driver's License/DNI"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 24
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 97
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 22
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 46
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 119
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 msgid "Account Id/ERP Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 25
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 23
+msgid "Reset Agent information"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 37
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 55
+msgid "Customer information"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 47
 msgid "Reset Customer information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 38
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 60
 # File: module/b2b/view/shared/nav.phtml, line: 205
 msgid "Phone number, Email, Tax Id/DNI"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 76
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 98
 msgid "Do not input your email address or phone number in the customer's information section. If you do not know the customer's email address or phone number leave it blank."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 77
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 99
 msgid "This information will be used to issue the customer's invoice."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 77
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 99
 msgid "Filling the information bellow will create a new customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 99
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 121
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 50
 # File: module/b2b/view/b2b/agents/add.phtml, line: 57
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 88
@@ -3054,43 +3070,43 @@ msgstr ""
 msgid "Account Id"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 102
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 124
 msgid "Choose country"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 103
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 125
 msgid "Choose zone/state/region"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 103
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 125
 msgid "Zone/State/Region"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 104
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 126
 msgid "Choose city"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 311
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 333
 msgid "Account Id not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 339
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 361
 msgid "Email not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 367
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 389
 msgid "Phone not found. Please continue and system will create customer."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 396
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 418
 msgid "Customer available"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 397
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 419
 msgid "Customer is already available. Do you want to use this customer?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 401
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 423
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/topmenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/mapping.phtml, line: 44
@@ -3107,7 +3123,7 @@ msgstr ""
 msgid "No"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/customer.phtml, line: 402
+# File: module/b2b/view/b2b/shared/customer.phtml, line: 424
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/footermenu.phtml, line: 58
 # File: module/b2b/view/b2b/admin/topmenu.phtml, line: 56
