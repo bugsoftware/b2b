@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-02 09:32-0500\n"
+"POT-Creation-Date: 2021-01-02 10:43-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1269,6 +1269,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 64
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 78
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 105
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 17
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 78
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 90
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 130
@@ -2111,6 +2112,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 73
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 87
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/results.phtml, line: 138
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
@@ -8012,7 +8014,7 @@ msgstr ""
 msgid "Room information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 316
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 26
 msgid "Confirmed Departures"
 msgstr ""
 #
