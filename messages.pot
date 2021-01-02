@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-02 07:39-0500\n"
+"POT-Creation-Date: 2021-01-02 09:32-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8010,6 +8010,10 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 338
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1147
 msgid "Room information"
+msgstr ""
+#
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 316
+msgid "Confirmed Departures"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 21
