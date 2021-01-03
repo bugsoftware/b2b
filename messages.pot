@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-03 09:47-0500\n"
+"POT-Creation-Date: 2021-01-03 09:50-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5940,6 +5940,7 @@ msgid "Suite"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 318
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 86
 msgid "view details"
 msgstr ""
 #
@@ -8020,7 +8021,7 @@ msgstr ""
 msgid "Confirmed Departures"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 85
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 84
 msgid "spaces"
 msgstr ""
 #
