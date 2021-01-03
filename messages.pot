@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-03 09:50-0500\n"
+"POT-Creation-Date: 2021-01-03 14:15-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1264,6 +1264,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/results.phtml, line: 115
 # File: module/b2b/view/b2b/dp/index.phtml, line: 246
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 67
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 16
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 91
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 86
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 64
@@ -2112,6 +2113,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 73
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 87
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 13
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/results.phtml, line: 138
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
@@ -5160,7 +5162,9 @@ msgid "Taxes & Fees payable at pick up:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/results.phtml, line: 317
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 69
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 620
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 70
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 367
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 420
 msgid "BOOK"
@@ -5320,6 +5324,7 @@ msgid "Flights"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 20
+# File: module/b2b/view/shared/nav.phtml, line: 338
 msgid "Hotels"
 msgstr ""
 #
@@ -5664,6 +5669,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 9
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 24
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 218
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 66
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 67
 msgid "Departing from"
 msgstr ""
@@ -5900,6 +5906,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 212
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 20
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 258
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 60
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 61
 # File: module/b2b/view/b2b/btob/index.phtml, line: 48
@@ -5940,7 +5947,8 @@ msgid "Suite"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 318
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 86
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 78
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 79
 msgid "view details"
 msgstr ""
 #
@@ -7341,6 +7349,23 @@ msgstr ""
 msgid "cancel"
 msgstr ""
 #
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 25
+# File: module/b2b/view/shared/nav.phtml, line: 333
+msgid "Packages"
+msgstr ""
+#
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 62
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 63
+# File: module/b2b/view/b2b/transfers/results.phtml, line: 339
+# File: module/b2b/view/b2b/transfers/results.phtml, line: 403
+msgid "per person"
+msgstr ""
+#
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 76
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 77
+msgid "spaces"
+msgstr ""
+#
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 33
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 33
 msgid "Hotel Confirmation"
@@ -8018,11 +8043,8 @@ msgid "Room information"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 26
+# File: module/b2b/view/shared/nav.phtml, line: 328
 msgid "Confirmed Departures"
-msgstr ""
-#
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 84
-msgid "spaces"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 21
@@ -9892,11 +9914,6 @@ msgstr ""
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 299
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 300
 msgid "transfers from"
-msgstr ""
-#
-# File: module/b2b/view/b2b/transfers/results.phtml, line: 339
-# File: module/b2b/view/b2b/transfers/results.phtml, line: 403
-msgid "per person"
 msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 339
