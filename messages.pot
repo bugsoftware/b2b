@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-03 08:51-0500\n"
+"POT-Creation-Date: 2021-01-03 09:47-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5664,6 +5664,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 9
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 24
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 218
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 67
 msgid "Departing from"
 msgstr ""
 #
@@ -5900,6 +5901,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 20
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 258
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 61
 # File: module/b2b/view/b2b/btob/index.phtml, line: 48
 # File: module/b2b/view/b2b/btob/index.phtml, line: 49
 # File: module/b2b/view/b2b/btob/index.phtml, line: 50
@@ -8016,6 +8018,10 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 26
 msgid "Confirmed Departures"
+msgstr ""
+#
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 85
+msgid "spaces"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 21
