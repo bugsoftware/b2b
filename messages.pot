@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-03 15:13-0500\n"
+"POT-Creation-Date: 2021-01-04 04:29-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5164,7 +5164,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/results.phtml, line: 317
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 69
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 620
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 70
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 69
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 367
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 420
 msgid "BOOK"
@@ -5948,7 +5948,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 318
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 78
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 79
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 78
 msgid "view details"
 msgstr ""
 #
@@ -7362,7 +7362,7 @@ msgid "per person"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 76
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 77
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 76
 msgid "spaces"
 msgstr ""
 #
