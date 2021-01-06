@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-04 05:54-0500\n"
+"POT-Creation-Date: 2021-01-06 07:50-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2409,6 +2409,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 119
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 210
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 659
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 65
 # File: module/b2b/view/b2b/flights/results.phtml, line: 74
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 45
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 74
@@ -6438,6 +6439,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 210
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 659
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 65
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 86
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 323
