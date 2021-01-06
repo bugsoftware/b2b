@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-06 07:50-0500\n"
+"POT-Creation-Date: 2021-01-06 07:55-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -243,6 +243,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 501
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 369
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 527
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 66
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 87
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 105
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 66
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 87
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 105
@@ -276,6 +279,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 502
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 370
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 528
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 67
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 88
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 106
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 67
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 88
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 106
@@ -329,6 +335,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 503
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 371
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 529
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 77
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 77
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 268
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 32
@@ -390,6 +397,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 504
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 372
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 530
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 76
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 269
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 36
@@ -708,6 +716,10 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 17
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 344
 # File: module/b2b/view/b2b/flights/searching.phtml, line: 32
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 417
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 424
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 442
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 449
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 417
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 424
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 442
@@ -875,6 +887,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 60
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 95
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 375
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 204
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 204
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 23
@@ -944,6 +957,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 73
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 104
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 377
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 206
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 206
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 24
@@ -1010,6 +1024,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 497
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 893
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 218
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 248
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 249
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 248
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 249
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 271
@@ -1114,6 +1130,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 352
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 253
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 376
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 86
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 206
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 86
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 206
 # File: module/b2b/view/b2b/booking/index.phtml, line: 291
@@ -1505,6 +1523,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 19
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 15
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 124
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 41
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 41
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 159
 msgid "Please enter a valid email address."
@@ -1515,6 +1534,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 57
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 34
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 136
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 47
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 47
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 161
 msgid "We respect your customers and are committed to protecting your data. This is your customer, this is your data. We take your privacy seriously and will not use this data for any other purposes."
@@ -1525,6 +1545,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 60
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 37
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 139
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 50
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 50
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 164
 msgid "This information will not be used or shared with anyone. It will be used to generate your reservation and send service-related emails under your brand, under your name, under your company."
@@ -1535,6 +1556,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 63
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 40
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 142
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 53
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 53
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 167
 msgid "Guest's first name, last name, email address, and phone number are required. This information will not be shared or used by anyone."
@@ -1603,6 +1625,9 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 63
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 163
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 182
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 68
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 89
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 107
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 68
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
@@ -1638,6 +1663,9 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 64
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 164
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 183
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 68
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 89
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 107
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 68
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
@@ -1672,6 +1700,9 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 66
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 166
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 185
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 68
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 89
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 107
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 68
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
@@ -1766,6 +1797,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 302
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 182
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 315
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 136
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 136
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 296
 msgid "COMPLETE BOOKING"
@@ -1806,6 +1838,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 895
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 619
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 622
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 305
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 305
 msgid "Terms & Conditions"
 msgstr ""
@@ -1818,6 +1851,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 906
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 624
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 633
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 307
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 320
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 307
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 320
 msgid "I Agree"
@@ -2551,6 +2586,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 355
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 256
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 379
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 209
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 209
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 25
@@ -2573,6 +2609,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 83
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 112
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 378
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 104
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 209
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 104
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 209
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
@@ -3617,6 +3655,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 48
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 27
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 146
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 57
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 57
 msgid "Please tell us who will be checking in and who are the guest names"
 msgstr ""
@@ -3628,6 +3667,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 172
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 193
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 211
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 69
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 90
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 108
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 69
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 90
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 108
@@ -3639,6 +3681,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 194
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 212
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 70
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 91
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 109
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 70
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 91
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 109
@@ -3650,6 +3695,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 194
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 212
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 70
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 91
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 109
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 70
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 91
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 109
@@ -3661,6 +3709,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 174
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 195
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 213
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 71
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 92
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 110
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 71
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 92
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 110
@@ -3674,6 +3725,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 175
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 196
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 214
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 72
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 93
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 111
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 72
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 93
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 111
@@ -3685,6 +3739,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 197
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 215
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 73
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 94
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 112
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 73
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 94
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 112
@@ -3696,6 +3753,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 177
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 198
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 216
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 74
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 95
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 113
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 74
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 95
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 113
@@ -3707,6 +3767,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 177
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 198
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 216
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 74
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 95
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 113
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 74
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 95
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 113
@@ -3720,6 +3783,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 250
 msgid "Coupons"
@@ -3750,6 +3814,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 144
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 168
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 301
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 118
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 118
 msgid "Special Request Information"
 msgstr ""
@@ -3770,6 +3835,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 139
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 116
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 249
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 121
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 121
 # File: module/b2b/view/b2b/booking/index.phtml, line: 299
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 264
@@ -3795,6 +3861,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 300
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 180
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 313
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 130
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 130
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 294
 msgid "By selecting to complete this booking I acknowledge that I have read and accept the terms & conditions and privacy policy."
@@ -5315,6 +5382,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 363
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 264
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 387
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 223
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 234
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 242
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 223
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 234
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 242
@@ -5375,6 +5445,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 466
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 469
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 346
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 156
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 177
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 156
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 177
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 561
@@ -5548,6 +5620,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
 msgid "Promotions"
 msgstr ""
@@ -5761,6 +5834,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 350
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 251
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 374
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 204
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 204
 # File: module/b2b/view/shared/nav.phtml, line: 57
 # File: module/b2b/view/shared/nav.phtml, line: 70
@@ -6080,6 +6154,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 282
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 760
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 556
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 290
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 290
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
@@ -6238,6 +6313,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 155
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 197
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 131
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 141
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 141
 # File: module/b2b/view/b2b/booking/index.phtml, line: 225
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 218
@@ -6257,6 +6333,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 215
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 146
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 164
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 154
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 175
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 154
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 175
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 559
@@ -6276,6 +6354,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 216
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 147
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 165
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 155
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 176
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 155
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 560
@@ -6309,6 +6389,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 188
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 222
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 176
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 196
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 196
 msgid "Cost per adult"
 msgstr ""
@@ -6318,6 +6399,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 189
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 224
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 179
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 198
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 198
 msgid "Cost per child"
 msgstr ""
@@ -6336,6 +6418,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 365
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 369
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 187
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 222
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 222
 msgid "Taxes"
 msgstr ""
@@ -6629,6 +6712,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
 msgid "Do you have a Coupon/Promotion Code?"
 msgstr ""
@@ -6636,6 +6720,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
 msgid "Please type your coupon/promotion code here"
 msgstr ""
@@ -6643,6 +6728,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 31
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
 msgid "Invalid coupon/promotion code"
 msgstr ""
@@ -6656,6 +6742,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 168
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 207
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 65
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 86
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 104
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 65
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 86
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 104
@@ -6665,6 +6754,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 194
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 212
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 70
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 91
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 109
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 70
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 91
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 109
@@ -6672,6 +6764,7 @@ msgid "National identification number"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 178
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 75
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 75
 msgid "Frequent Flyer Number"
 msgstr ""
@@ -6742,6 +6835,7 @@ msgid "We need your full flight number (including airline code, for example: ABC
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 296
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 126
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 126
 msgid "Review and book your trip"
 msgstr ""
@@ -6768,6 +6862,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 728
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 517
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 521
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 254
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 258
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 254
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 258
 msgid "Agent's Service Fee (Per Pax)"
@@ -6780,6 +6876,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 525
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 529
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 201
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 262
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 266
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 262
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 266
 msgid "Agent's Service Fee"
@@ -6791,6 +6889,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 746
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 535
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 539
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 274
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 278
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 274
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 278
 msgid "Customer's Total"
@@ -6800,6 +6900,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 190
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 227
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 182
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 201
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 201
 msgid "Cost per infant"
 msgstr ""
@@ -6814,6 +6915,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 390
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 394
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 185
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 214
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 218
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 214
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 218
 msgid "Booking Fee"
@@ -6824,6 +6927,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 357
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 258
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 381
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 230
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 230
 msgid "Commission"
 msgstr ""
@@ -6832,6 +6936,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 435
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 260
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 268
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 234
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 242
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 234
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 242
 msgid "Bonus Web"
@@ -8422,26 +8528,32 @@ msgstr ""
 msgid "Hand baggage is included"
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 30
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 30
 msgid "Flight Checkout"
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 56
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 56
 msgid "Who's traveling?"
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 118
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 118
 msgid "We will forward any special requests or information that you would like sent upon confirmation of this reservation. Special requests are not guaranteed."
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 134
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 134
 msgid "By selecting to complete this booking I acknowledge the fares and conditions rules for this flight."
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 310
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 310
 msgid "Fare Rules"
 msgstr ""
 #
+# File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 314
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 314
 msgid "Rule #"
 msgstr ""
