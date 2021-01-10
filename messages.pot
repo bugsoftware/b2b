@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-10 08:32-0500\n"
+"POT-Creation-Date: 2021-01-10 09:48-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5880,7 +5880,7 @@ msgid "Cruises / Search"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 63
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 96
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 90
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 30
 # File: module/b2b/view/b2b/flights/results.phtml, line: 82
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 53
@@ -8159,7 +8159,7 @@ msgstr ""
 msgid "Confirmed Departures"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 101
+# File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 95
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 35
 # File: module/b2b/view/b2b/flights/results.phtml, line: 83
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 54
