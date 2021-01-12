@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-12 13:09-0500\n"
+"POT-Creation-Date: 2021-01-12 15:13-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1218,7 +1218,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 126
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 316
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1051
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1052
 msgid "View"
 msgstr ""
 #
@@ -2073,7 +2073,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/index.phtml, line: 157
 # File: module/b2b/view/b2b/cars/index.phtml, line: 158
 # File: module/b2b/view/b2b/dp/index.phtml, line: 260
-# File: module/b2b/view/b2b/btob/index.phtml, line: 907
+# File: module/b2b/view/b2b/btob/index.phtml, line: 908
 # File: module/b2b/view/b2b/transfers/index.phtml, line: 157
 msgid "Starting from"
 msgstr ""
@@ -3232,7 +3232,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 145
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 62
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 314
-# File: module/b2b/view/b2b/btob/index.phtml, line: 510
+# File: module/b2b/view/b2b/btob/index.phtml, line: 511
 msgid "nights"
 msgstr ""
 #
@@ -6017,12 +6017,12 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 60
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 59
-# File: module/b2b/view/b2b/btob/index.phtml, line: 48
 # File: module/b2b/view/b2b/btob/index.phtml, line: 49
 # File: module/b2b/view/b2b/btob/index.phtml, line: 50
 # File: module/b2b/view/b2b/btob/index.phtml, line: 51
 # File: module/b2b/view/b2b/btob/index.phtml, line: 52
-# File: module/b2b/view/b2b/btob/index.phtml, line: 510
+# File: module/b2b/view/b2b/btob/index.phtml, line: 53
+# File: module/b2b/view/b2b/btob/index.phtml, line: 511
 msgid "from"
 msgstr ""
 #
@@ -8207,7 +8207,7 @@ msgid "Room information"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 24
-# File: module/b2b/view/b2b/btob/index.phtml, line: 47
+# File: module/b2b/view/b2b/btob/index.phtml, line: 48
 # File: module/b2b/view/shared/nav.phtml, line: 346
 msgid "Confirmed Departures"
 msgstr ""
@@ -9049,7 +9049,7 @@ msgstr ""
 msgid "Charters"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1051
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1052
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
