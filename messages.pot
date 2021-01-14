@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-14 10:00-0500\n"
+"POT-Creation-Date: 2021-01-14 12:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1459,7 +1459,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/results.phtml, line: 356
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 404
-# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 93
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 95
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 369
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 126
 # File: module/b2b/view/b2b/flights/results.phtml, line: 274
@@ -1480,7 +1480,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/results.phtml, line: 356
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 404
-# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 93
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 95
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 369
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 126
 # File: module/b2b/view/b2b/flights/results.phtml, line: 274
@@ -7553,11 +7553,11 @@ msgstr ""
 msgid "SALE!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 86
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 87
 msgid "pax/double"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 93
+# File: module/b2b/view/b2b/packages/listpackages.phtml, line: 95
 msgid "No packages shown, try clearing some filters to see more availability."
 msgstr ""
 #
