@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-18 07:11-0500\n"
+"POT-Creation-Date: 2021-01-18 08:02-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7574,7 +7574,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/packages/view.phtml, line: 242
 #, php-format
-msgid "Why wait? Save up to 15% by booking early. Plan ahead and book at least 15 days in advance. You could save up to 15% on the cost of your package when you advance purchase."
+msgid "Why wait? Save up to 15% by booking early. Plan ahead and book at least 15 days in advance. You could save up to 15% on the cost of your package when you purchase in advance."
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 33
