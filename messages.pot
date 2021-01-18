@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-18 08:02-0500\n"
+"POT-Creation-Date: 2021-01-18 10:57-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1980,7 +1980,7 @@ msgid "Reserve"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 251
-# File: module/b2b/view/b2b/packages/view.phtml, line: 244
+# File: module/b2b/view/b2b/packages/view.phtml, line: 238
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 134
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 225
 msgid "Continue"
@@ -7562,17 +7562,17 @@ msgstr ""
 msgid "No packages shown, try clearing some filters to see more availability."
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 161
+# File: module/b2b/view/b2b/packages/view.phtml, line: 155
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 110
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 201
 msgid "Highlights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 241
+# File: module/b2b/view/b2b/packages/view.phtml, line: 235
 msgid "Book Now"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 242
+# File: module/b2b/view/b2b/packages/view.phtml, line: 236
 #, php-format
 msgid "Why wait? Save up to 15% by booking early. Plan ahead and book at least 15 days in advance. You could save up to 15% on the cost of your package when you purchase in advance."
 msgstr ""
