@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-20 05:51-0500\n"
+"POT-Creation-Date: 2021-01-20 05:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7743,7 +7743,7 @@ msgid "No packages shown, try clearing some filters to see more availability."
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 27
-msgid "Packages Checkout"
+msgid "Package Checkout"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 36
