@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-20 05:12-0500\n"
+"POT-Creation-Date: 2021-01-20 05:14-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -436,7 +436,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 338
 # File: module/b2b/view/b2b/packages/view.phtml, line: 43
 # File: module/b2b/view/b2b/packages/view.phtml, line: 212
-# File: module/b2b/view/b2b/packages/view.phtml, line: 342
+# File: module/b2b/view/b2b/packages/view.phtml, line: 341
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 35
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 26
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 145
@@ -2130,7 +2130,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/advancedsettings_add.phtml, line: 16
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 29
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 56
-# File: module/b2b/view/b2b/packages/view.phtml, line: 320
+# File: module/b2b/view/b2b/packages/view.phtml, line: 319
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 53
 msgid "Description"
 msgstr ""
@@ -7147,8 +7147,6 @@ msgid "Bonus Web"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 450
-# File: module/b2b/view/b2b/packages/checkout.phtml, line: 47
-# File: module/b2b/view/b2b/packages/checkout.phtml, line: 320
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 282
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 47
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 320
@@ -7693,18 +7691,20 @@ msgid "No packages shown, try clearing some filters to see more availability."
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 27
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 27
-msgid "Hotel Checkout"
+msgid "Packages Checkout"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 36
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 36
-msgid "Hotel Room is SOLD OUT"
+msgid "Package is SOLD OUT"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 38
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 38
 msgid "The selected rate is no longer available. We regret to inform you but the price you selected is no longer available. Please select another rate or restart your search..."
+msgstr ""
+#
+# File: module/b2b/view/b2b/packages/checkout.phtml, line: 47
+msgid "Package details"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 201
@@ -7820,6 +7820,10 @@ msgstr ""
 msgid "Review and book your package"
 msgstr ""
 #
+# File: module/b2b/view/b2b/packages/checkout.phtml, line: 320
+msgid "PAckage details"
+msgstr ""
+#
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 402
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 364
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 402
@@ -7889,15 +7893,15 @@ msgstr ""
 msgid "years"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 325
+# File: module/b2b/view/b2b/packages/view.phtml, line: 324
 msgid "Inclusions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 329
+# File: module/b2b/view/b2b/packages/view.phtml, line: 328
 msgid "Exclusions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 336
+# File: module/b2b/view/b2b/packages/view.phtml, line: 335
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 75
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 54
 msgid "Cancellation Policy"
@@ -8408,6 +8412,14 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 176
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 309
 msgid "Review and book your hotel"
+msgstr ""
+#
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 27
+msgid "Hotel Checkout"
+msgstr ""
+#
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 36
+msgid "Hotel Room is SOLD OUT"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 163
