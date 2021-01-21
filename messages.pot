@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-21 11:58-0500\n"
+"POT-Creation-Date: 2021-01-21 12:48-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3472,7 +3472,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 372
-# File: module/b2b/view/b2b/packages/book.phtml, line: 200
+# File: module/b2b/view/b2b/packages/book.phtml, line: 198
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
@@ -3484,7 +3484,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 374
-# File: module/b2b/view/b2b/packages/book.phtml, line: 200
+# File: module/b2b/view/b2b/packages/book.phtml, line: 198
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
@@ -3496,7 +3496,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 374
-# File: module/b2b/view/b2b/packages/book.phtml, line: 200
+# File: module/b2b/view/b2b/packages/book.phtml, line: 198
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
@@ -3507,7 +3507,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 123
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 193
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 381
-# File: module/b2b/view/b2b/packages/book.phtml, line: 204
+# File: module/b2b/view/b2b/packages/book.phtml, line: 202
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 218
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 208
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 226
@@ -5978,7 +5978,7 @@ msgid "Passenger limit for cabin exceeded"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 224
-# File: module/b2b/view/b2b/packages/book.phtml, line: 229
+# File: module/b2b/view/b2b/packages/book.phtml, line: 227
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 233
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 250
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 269
