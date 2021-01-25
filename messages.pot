@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-25 12:50-0500\n"
+"POT-Creation-Date: 2021-01-25 16:12-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -434,9 +434,9 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 453
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 57
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 338
-# File: module/b2b/view/b2b/packages/view.phtml, line: 43
-# File: module/b2b/view/b2b/packages/view.phtml, line: 213
-# File: module/b2b/view/b2b/packages/view.phtml, line: 367
+# File: module/b2b/view/b2b/packages/view.phtml, line: 50
+# File: module/b2b/view/b2b/packages/view.phtml, line: 220
+# File: module/b2b/view/b2b/packages/view.phtml, line: 371
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 35
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 26
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 145
@@ -888,7 +888,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 76
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 387
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
-# File: module/b2b/view/b2b/packages/view.phtml, line: 54
+# File: module/b2b/view/b2b/packages/view.phtml, line: 61
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 82
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 126
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 71
@@ -962,7 +962,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 76
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 387
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
-# File: module/b2b/view/b2b/packages/view.phtml, line: 65
+# File: module/b2b/view/b2b/packages/view.phtml, line: 72
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 88
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 132
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 72
@@ -1045,7 +1045,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 466
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 471
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 475
-# File: module/b2b/view/b2b/packages/view.phtml, line: 293
+# File: module/b2b/view/b2b/packages/view.phtml, line: 298
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 116
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 209
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 167
@@ -1103,8 +1103,8 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
 # File: module/b2b/view/b2b/dp/index.phtml, line: 77
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 556
-# File: module/b2b/view/b2b/packages/view.phtml, line: 44
-# File: module/b2b/view/b2b/packages/view.phtml, line: 250
+# File: module/b2b/view/b2b/packages/view.phtml, line: 51
+# File: module/b2b/view/b2b/packages/view.phtml, line: 257
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 24
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 36
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 42
@@ -1125,8 +1125,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 28
 # File: module/b2b/view/b2b/dp/index.phtml, line: 81
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 557
-# File: module/b2b/view/b2b/packages/view.phtml, line: 45
-# File: module/b2b/view/b2b/packages/view.phtml, line: 254
+# File: module/b2b/view/b2b/packages/view.phtml, line: 52
+# File: module/b2b/view/b2b/packages/view.phtml, line: 261
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 27
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 39
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 45
@@ -1159,7 +1159,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 399
 # File: module/b2b/view/b2b/packages/book.phtml, line: 153
-# File: module/b2b/view/b2b/packages/view.phtml, line: 328
+# File: module/b2b/view/b2b/packages/view.phtml, line: 332
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 86
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 130
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 80
@@ -1268,7 +1268,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 338
 # File: module/b2b/view/b2b/tours/results.phtml, line: 382
 # File: module/b2b/view/b2b/tours/results.phtml, line: 696
-# File: module/b2b/view/b2b/packages/view.phtml, line: 289
+# File: module/b2b/view/b2b/packages/view.phtml, line: 296
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 879
 # File: module/b2b/view/b2b/flights/results.phtml, line: 320
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 234
@@ -1334,7 +1334,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 246
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 67
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 15
-# File: module/b2b/view/b2b/packages/view.phtml, line: 68
+# File: module/b2b/view/b2b/packages/view.phtml, line: 75
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 91
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 86
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 64
@@ -1954,8 +1954,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 153
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 402
-# File: module/b2b/view/b2b/packages/view.phtml, line: 116
-# File: module/b2b/view/b2b/packages/view.phtml, line: 333
+# File: module/b2b/view/b2b/packages/view.phtml, line: 123
+# File: module/b2b/view/b2b/packages/view.phtml, line: 337
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 82
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 130
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1272
@@ -1971,7 +1971,7 @@ msgid "Activity for"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 187
-# File: module/b2b/view/b2b/packages/view.phtml, line: 145
+# File: module/b2b/view/b2b/packages/view.phtml, line: 152
 msgid "Price Calendar"
 msgstr ""
 #
@@ -2027,7 +2027,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 505
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 786
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 816
-# File: module/b2b/view/b2b/packages/view.phtml, line: 200
+# File: module/b2b/view/b2b/packages/view.phtml, line: 207
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 764
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 771
 # File: module/b2b/view/b2b/flights/results.phtml, line: 508
@@ -2045,7 +2045,7 @@ msgid "Reserve"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 251
-# File: module/b2b/view/b2b/packages/view.phtml, line: 208
+# File: module/b2b/view/b2b/packages/view.phtml, line: 215
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 134
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 356
 msgid "Continue"
@@ -2070,7 +2070,7 @@ msgid "Transportation"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 286
-# File: module/b2b/view/b2b/packages/view.phtml, line: 240
+# File: module/b2b/view/b2b/packages/view.phtml, line: 247
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 188
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 404
 msgid "More info"
@@ -2081,7 +2081,7 @@ msgid "We're sorry, but there are not results for the requested activity. Please
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 295
-# File: module/b2b/view/b2b/packages/view.phtml, line: 247
+# File: module/b2b/view/b2b/packages/view.phtml, line: 254
 msgid "Check Availability"
 msgstr ""
 #
@@ -2094,7 +2094,7 @@ msgid "Select Date to"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 306
-# File: module/b2b/view/b2b/packages/view.phtml, line: 257
+# File: module/b2b/view/b2b/packages/view.phtml, line: 264
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 155
 # File: module/b2b/view/b2b/btob/details.phtml, line: 85
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 134
@@ -2102,7 +2102,7 @@ msgid "Update"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 353
-# File: module/b2b/view/b2b/packages/view.phtml, line: 318
+# File: module/b2b/view/b2b/packages/view.phtml, line: 322
 msgid "Available on"
 msgstr ""
 #
@@ -2139,7 +2139,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/advancedsettings_add.phtml, line: 16
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 29
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 56
-# File: module/b2b/view/b2b/packages/view.phtml, line: 345
+# File: module/b2b/view/b2b/packages/view.phtml, line: 349
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 53
 msgid "Description"
 msgstr ""
@@ -2253,7 +2253,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 73
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 87
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 13
-# File: module/b2b/view/b2b/packages/view.phtml, line: 41
+# File: module/b2b/view/b2b/packages/view.phtml, line: 48
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 15
 # File: module/b2b/view/b2b/flights/results.phtml, line: 138
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
@@ -5992,7 +5992,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 152
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 162
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 397
-# File: module/b2b/view/b2b/packages/view.phtml, line: 324
+# File: module/b2b/view/b2b/packages/view.phtml, line: 328
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 230
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 220
 # File: module/b2b/view/b2b/flights/results.phtml, line: 350
@@ -6157,7 +6157,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 212
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 20
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 258
-# File: module/b2b/view/b2b/packages/view.phtml, line: 123
+# File: module/b2b/view/b2b/packages/view.phtml, line: 130
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 80
 # File: module/b2b/view/b2b/btob/index.phtml, line: 49
@@ -7767,7 +7767,7 @@ msgid "Agent's Service Fee:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 42
-# File: module/b2b/view/b2b/packages/view.phtml, line: 41
+# File: module/b2b/view/b2b/packages/view.phtml, line: 48
 # File: module/b2b/view/shared/nav.phtml, line: 351
 msgid "Packages"
 msgstr ""
@@ -7916,7 +7916,7 @@ msgid "Review and book your package"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 373
-# File: module/b2b/view/b2b/packages/view.phtml, line: 309
+# File: module/b2b/view/b2b/packages/view.phtml, line: 313
 msgid "Departs from"
 msgstr ""
 #
@@ -7939,35 +7939,35 @@ msgstr ""
 msgid "Please wait"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 129
+# File: module/b2b/view/b2b/packages/view.phtml, line: 136
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 110
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 332
 msgid "Highlights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 205
+# File: module/b2b/view/b2b/packages/view.phtml, line: 212
 msgid "Book Now"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 206
+# File: module/b2b/view/b2b/packages/view.phtml, line: 213
 #, php-format
 msgid "Why wait? Save up to 15% by booking early. Plan ahead and book at least 15 days in advance. You could save up to 15% on the cost of your package when you purchase in advance."
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 324
 # File: module/b2b/view/b2b/packages/view.phtml, line: 328
+# File: module/b2b/view/b2b/packages/view.phtml, line: 332
 msgid "years"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 350
+# File: module/b2b/view/b2b/packages/view.phtml, line: 354
 msgid "Inclusions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 354
+# File: module/b2b/view/b2b/packages/view.phtml, line: 358
 msgid "Exclusions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/packages/view.phtml, line: 361
+# File: module/b2b/view/b2b/packages/view.phtml, line: 365
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 75
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 54
 msgid "Cancellation Policy"
