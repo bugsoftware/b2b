@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-25 16:12-0500\n"
+"POT-Creation-Date: 2021-01-26 11:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5363,7 +5363,7 @@ msgid "Filter by:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/results.phtml, line: 293
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 36
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 37
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 589
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 19
 msgid "total"
@@ -5856,7 +5856,7 @@ msgstr ""
 msgid "Deck"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 40
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 39
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 45
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 303
 # File: module/b2b/view/b2b/hotels/list.phtml, line: 410
@@ -5865,19 +5865,32 @@ msgstr ""
 msgid "Select"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 46
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 41
+msgid "Select Handicap Cabin"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 48
 msgid "Stateroom Area:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 49
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 51
 msgid "Veranda Area:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 52
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 54
+msgid "Accessible Cabin Available"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 57
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 44
+msgid "Wait List"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 60
 msgid "Available on decks"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 71
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 79
 msgid "Please note: Staterooms may vary in size and configuration from that pictured."
 msgstr ""
 #
@@ -6027,6 +6040,10 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 43
 msgid "view deck plan"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/cabin.phtml, line: 44
+msgid "Handicap Cabin"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 51
