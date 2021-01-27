@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-27 09:39-0500\n"
+"POT-Creation-Date: 2021-01-27 15:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -698,7 +698,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/searching.phtml, line: 48
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 206
 # File: module/b2b/view/b2b/tours/view.phtml, line: 808
-# File: module/b2b/view/b2b/cars/results.phtml, line: 488
+# File: module/b2b/view/b2b/cars/results.phtml, line: 495
 # File: module/b2b/view/b2b/cars/searching.phtml, line: 45
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 281
 # File: module/b2b/view/b2b/cruises/searching.phtml, line: 45
@@ -1281,7 +1281,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 88
 # File: module/b2b/view/b2b/tours/results.phtml, line: 18
 # File: module/b2b/view/b2b/cars/results.phtml, line: 10
-# File: module/b2b/view/b2b/cars/results.phtml, line: 239
+# File: module/b2b/view/b2b/cars/results.phtml, line: 240
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 29
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 50
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 400
@@ -1427,7 +1427,7 @@ msgid "Activities in"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 260
-# File: module/b2b/view/b2b/cars/results.phtml, line: 251
+# File: module/b2b/view/b2b/cars/results.phtml, line: 252
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 101
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 181
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 48
@@ -1439,14 +1439,14 @@ msgid "Rating"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 261
-# File: module/b2b/view/b2b/cars/results.phtml, line: 252
+# File: module/b2b/view/b2b/cars/results.phtml, line: 253
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 288
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 306
 msgid "High -&gt; Low"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 262
-# File: module/b2b/view/b2b/cars/results.phtml, line: 253
+# File: module/b2b/view/b2b/cars/results.phtml, line: 254
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 289
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 307
 msgid "Low -&gt; High"
@@ -1454,8 +1454,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 268
 # File: module/b2b/view/b2b/tours/results.phtml, line: 282
-# File: module/b2b/view/b2b/cars/results.phtml, line: 222
-# File: module/b2b/view/b2b/cars/results.phtml, line: 258
+# File: module/b2b/view/b2b/cars/results.phtml, line: 223
+# File: module/b2b/view/b2b/cars/results.phtml, line: 259
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 195
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 62
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 412
@@ -1470,7 +1470,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 269
 # File: module/b2b/view/b2b/tours/results.phtml, line: 278
-# File: module/b2b/view/b2b/cars/results.phtml, line: 259
+# File: module/b2b/view/b2b/cars/results.phtml, line: 260
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 196
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 63
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 412
@@ -1482,7 +1482,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 270
 # File: module/b2b/view/b2b/tours/results.phtml, line: 279
-# File: module/b2b/view/b2b/cars/results.phtml, line: 260
+# File: module/b2b/view/b2b/cars/results.phtml, line: 261
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 197
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 64
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 412
@@ -1495,7 +1495,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 285
 # File: module/b2b/view/b2b/tours/results.phtml, line: 286
 # File: module/b2b/view/b2b/tours/results.phtml, line: 393
-# File: module/b2b/view/b2b/cars/results.phtml, line: 356
+# File: module/b2b/view/b2b/cars/results.phtml, line: 363
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 404
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
@@ -1516,7 +1516,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 285
 # File: module/b2b/view/b2b/tours/results.phtml, line: 286
 # File: module/b2b/view/b2b/tours/results.phtml, line: 393
-# File: module/b2b/view/b2b/cars/results.phtml, line: 356
+# File: module/b2b/view/b2b/cars/results.phtml, line: 363
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 404
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
@@ -2115,7 +2115,7 @@ msgid "per child"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 402
-# File: module/b2b/view/b2b/cars/results.phtml, line: 319
+# File: module/b2b/view/b2b/cars/results.phtml, line: 326
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 636
 # File: module/b2b/view/b2b/flights/results.phtml, line: 366
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 267
@@ -2178,9 +2178,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 2
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 12
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 2
-# File: module/b2b/view/b2b/cars/results.phtml, line: 442
-# File: module/b2b/view/b2b/cars/results.phtml, line: 444
-# File: module/b2b/view/b2b/cars/results.phtml, line: 511
+# File: module/b2b/view/b2b/cars/results.phtml, line: 449
+# File: module/b2b/view/b2b/cars/results.phtml, line: 451
+# File: module/b2b/view/b2b/cars/results.phtml, line: 518
 msgid "Pick-up Date"
 msgstr ""
 #
@@ -2188,9 +2188,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 40
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 3
 # File: module/b2b/view/b2b/cars/results.phtml, line: 62
-# File: module/b2b/view/b2b/cars/results.phtml, line: 443
-# File: module/b2b/view/b2b/cars/results.phtml, line: 445
-# File: module/b2b/view/b2b/cars/results.phtml, line: 512
+# File: module/b2b/view/b2b/cars/results.phtml, line: 450
+# File: module/b2b/view/b2b/cars/results.phtml, line: 452
+# File: module/b2b/view/b2b/cars/results.phtml, line: 519
 msgid "Drop-off Date"
 msgstr ""
 #
@@ -4049,7 +4049,7 @@ msgid "Trip:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/tours/view.phtml, line: 52
-# File: module/b2b/view/b2b/cars/results.phtml, line: 225
+# File: module/b2b/view/b2b/cars/results.phtml, line: 226
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 256
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 180
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 162
@@ -5183,7 +5183,7 @@ msgid "Car info"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 44
-# File: module/b2b/view/b2b/cars/results.phtml, line: 294
+# File: module/b2b/view/b2b/cars/results.phtml, line: 301
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 167
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 242
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 536
@@ -5192,8 +5192,8 @@ msgid "or similar"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 49
-# File: module/b2b/view/b2b/cars/results.phtml, line: 209
-# File: module/b2b/view/b2b/cars/results.phtml, line: 298
+# File: module/b2b/view/b2b/cars/results.phtml, line: 210
+# File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 172
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 197
@@ -5210,7 +5210,7 @@ msgid "Passengers"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 50
-# File: module/b2b/view/b2b/cars/results.phtml, line: 298
+# File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 248
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 542
@@ -5219,7 +5219,7 @@ msgid "Bags"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 51
-# File: module/b2b/view/b2b/cars/results.phtml, line: 298
+# File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 174
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 249
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 543
@@ -5228,7 +5228,7 @@ msgid "Doors"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 52
-# File: module/b2b/view/b2b/cars/results.phtml, line: 298
+# File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 175
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 250
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 73
@@ -5238,7 +5238,7 @@ msgid "Transmission"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 53
-# File: module/b2b/view/b2b/cars/results.phtml, line: 298
+# File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 251
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 545
@@ -5247,7 +5247,7 @@ msgid "Air Conditioning"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 57
-# File: module/b2b/view/b2b/cars/results.phtml, line: 302
+# File: module/b2b/view/b2b/cars/results.phtml, line: 309
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 180
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 255
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 74
@@ -5264,7 +5264,7 @@ msgid "Vendor:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 60
-# File: module/b2b/view/b2b/cars/results.phtml, line: 305
+# File: module/b2b/view/b2b/cars/results.phtml, line: 312
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 183
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 258
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 552
@@ -5272,7 +5272,7 @@ msgid "Status:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 61
-# File: module/b2b/view/b2b/cars/results.phtml, line: 304
+# File: module/b2b/view/b2b/cars/results.phtml, line: 311
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 184
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 259
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 553
@@ -5339,7 +5339,7 @@ msgstr ""
 msgid "Car Type"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 226
+# File: module/b2b/view/b2b/cars/results.phtml, line: 227
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 256
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 181
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 163
@@ -5347,7 +5347,7 @@ msgstr ""
 msgid "To:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 235
+# File: module/b2b/view/b2b/cars/results.phtml, line: 236
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 25
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 396
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 265
@@ -5362,22 +5362,22 @@ msgstr ""
 msgid "Filter by:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 293
+# File: module/b2b/view/b2b/cars/results.phtml, line: 300
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 37
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 641
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 19
 msgid "total"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 293
+# File: module/b2b/view/b2b/cars/results.phtml, line: 300
 msgid "daily"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 311
+# File: module/b2b/view/b2b/cars/results.phtml, line: 318
 msgid "Taxes & Fees payable at pick up:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 317
+# File: module/b2b/view/b2b/cars/results.phtml, line: 324
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 620
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 89
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 367
@@ -5385,17 +5385,17 @@ msgstr ""
 msgid "BOOK"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 333
-# File: module/b2b/view/b2b/cars/results.phtml, line: 347
+# File: module/b2b/view/b2b/cars/results.phtml, line: 340
+# File: module/b2b/view/b2b/cars/results.phtml, line: 354
 msgid "payable at the rental location"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 333
-# File: module/b2b/view/b2b/cars/results.phtml, line: 347
+# File: module/b2b/view/b2b/cars/results.phtml, line: 340
+# File: module/b2b/view/b2b/cars/results.phtml, line: 354
 msgid "Details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cars/results.phtml, line: 356
+# File: module/b2b/view/b2b/cars/results.phtml, line: 363
 msgid "No cars shown, try clearing some filters to see more availability."
 msgstr ""
 #
