@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-03 07:53-0500\n"
+"POT-Creation-Date: 2021-02-03 08:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -244,7 +244,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 93
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 111
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 629
-# File: module/b2b/view/b2b/flights/results.phtml, line: 529
+# File: module/b2b/view/b2b/flights/results.phtml, line: 574
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 369
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 596
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 66
@@ -281,7 +281,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 94
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 112
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 630
-# File: module/b2b/view/b2b/flights/results.phtml, line: 530
+# File: module/b2b/view/b2b/flights/results.phtml, line: 575
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 370
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 597
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 67
@@ -337,7 +337,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 169
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 83
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 640
-# File: module/b2b/view/b2b/flights/results.phtml, line: 531
+# File: module/b2b/view/b2b/flights/results.phtml, line: 576
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 371
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 598
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 77
@@ -401,7 +401,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 168
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 82
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 639
-# File: module/b2b/view/b2b/flights/results.phtml, line: 532
+# File: module/b2b/view/b2b/flights/results.phtml, line: 577
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 372
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 599
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 76
@@ -2031,7 +2031,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/view.phtml, line: 207
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 816
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 823
-# File: module/b2b/view/b2b/flights/results.phtml, line: 536
+# File: module/b2b/view/b2b/flights/results.phtml, line: 581
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 603
 # File: module/b2b/view/b2b/customers/index.phtml, line: 257
@@ -5661,7 +5661,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 40
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 443
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 813
-# File: module/b2b/view/b2b/flights/results.phtml, line: 533
+# File: module/b2b/view/b2b/flights/results.phtml, line: 578
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 600
 # File: module/b2b/view/b2b/customers/index.phtml, line: 248
@@ -6871,8 +6871,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 806
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 816
 # File: module/b2b/view/b2b/flights/results.phtml, line: 366
-# File: module/b2b/view/b2b/flights/results.phtml, line: 527
-# File: module/b2b/view/b2b/flights/results.phtml, line: 536
+# File: module/b2b/view/b2b/flights/results.phtml, line: 572
+# File: module/b2b/view/b2b/flights/results.phtml, line: 581
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 266
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 367
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
