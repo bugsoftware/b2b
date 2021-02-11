@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-09 15:03-0500\n"
+"POT-Creation-Date: 2021-02-11 12:59-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -563,8 +563,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 95
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 100
-# File: module/b2b/view/b2b/btob/details.phtml, line: 442
-# File: module/b2b/view/b2b/btob/details.phtml, line: 447
+# File: module/b2b/view/b2b/btob/details.phtml, line: 443
+# File: module/b2b/view/b2b/btob/details.phtml, line: 448
 # File: module/b2b/view/b2b/agents/add.phtml, line: 164
 # File: module/b2b/view/b2b/agents/add.phtml, line: 169
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 667
@@ -578,7 +578,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 106
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 309
-# File: module/b2b/view/b2b/btob/details.phtml, line: 453
+# File: module/b2b/view/b2b/btob/details.phtml, line: 454
 # File: module/b2b/view/b2b/agents/add.phtml, line: 175
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 678
 # File: module/b2b/view/b2b/customers/add.phtml, line: 166
@@ -587,7 +587,7 @@ msgid "First name is required. Please input your first name to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 112
-# File: module/b2b/view/b2b/btob/details.phtml, line: 459
+# File: module/b2b/view/b2b/btob/details.phtml, line: 460
 # File: module/b2b/view/b2b/agents/add.phtml, line: 181
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 684
 # File: module/b2b/view/b2b/customers/add.phtml, line: 172
@@ -600,7 +600,7 @@ msgid "Agency name is required. Please input agency name to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 124
-# File: module/b2b/view/b2b/btob/details.phtml, line: 465
+# File: module/b2b/view/b2b/btob/details.phtml, line: 466
 # File: module/b2b/view/b2b/agents/add.phtml, line: 187
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 690
 # File: module/b2b/view/b2b/customers/add.phtml, line: 178
@@ -609,7 +609,7 @@ msgid "Email is required. Please input agency email to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 130
-# File: module/b2b/view/b2b/btob/details.phtml, line: 471
+# File: module/b2b/view/b2b/btob/details.phtml, line: 472
 # File: module/b2b/view/b2b/agents/add.phtml, line: 193
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 696
 # File: module/b2b/view/b2b/customers/add.phtml, line: 184
@@ -619,7 +619,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 136
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 316
-# File: module/b2b/view/b2b/btob/details.phtml, line: 477
+# File: module/b2b/view/b2b/btob/details.phtml, line: 478
 # File: module/b2b/view/b2b/agents/add.phtml, line: 199
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 702
 # File: module/b2b/view/b2b/customers/add.phtml, line: 190
@@ -628,7 +628,7 @@ msgid "Phone number is required. Please input agency phone number to continue."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 142
-# File: module/b2b/view/b2b/btob/details.phtml, line: 483
+# File: module/b2b/view/b2b/btob/details.phtml, line: 484
 # File: module/b2b/view/b2b/agents/add.phtml, line: 205
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 708
 # File: module/b2b/view/b2b/customers/add.phtml, line: 196
@@ -638,8 +638,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 148
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 154
-# File: module/b2b/view/b2b/btob/details.phtml, line: 489
-# File: module/b2b/view/b2b/btob/details.phtml, line: 495
+# File: module/b2b/view/b2b/btob/details.phtml, line: 490
+# File: module/b2b/view/b2b/btob/details.phtml, line: 496
 # File: module/b2b/view/b2b/agents/add.phtml, line: 211
 # File: module/b2b/view/b2b/agents/add.phtml, line: 217
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 714
@@ -653,8 +653,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 160
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 166
-# File: module/b2b/view/b2b/btob/details.phtml, line: 501
-# File: module/b2b/view/b2b/btob/details.phtml, line: 507
+# File: module/b2b/view/b2b/btob/details.phtml, line: 502
+# File: module/b2b/view/b2b/btob/details.phtml, line: 508
 # File: module/b2b/view/b2b/agents/add.phtml, line: 223
 # File: module/b2b/view/b2b/agents/add.phtml, line: 229
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 726
@@ -668,8 +668,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 172
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 178
-# File: module/b2b/view/b2b/btob/details.phtml, line: 513
-# File: module/b2b/view/b2b/btob/details.phtml, line: 519
+# File: module/b2b/view/b2b/btob/details.phtml, line: 514
+# File: module/b2b/view/b2b/btob/details.phtml, line: 520
 # File: module/b2b/view/b2b/agents/add.phtml, line: 235
 # File: module/b2b/view/b2b/agents/add.phtml, line: 241
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 738
@@ -738,7 +738,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 449
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
-# File: module/b2b/view/b2b/btob/details.phtml, line: 524
+# File: module/b2b/view/b2b/btob/details.phtml, line: 525
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
 # File: module/b2b/view/b2b/btob/index.phtml, line: 34
@@ -1982,49 +1982,49 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 126
+# File: module/b2b/view/b2b/btob/details.phtml, line: 127
 # File: module/b2b/view/layout/layout.phtml, line: 46
 msgid "Sunday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 102
+# File: module/b2b/view/b2b/btob/details.phtml, line: 103
 # File: module/b2b/view/layout/layout.phtml, line: 47
 msgid "Monday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 106
+# File: module/b2b/view/b2b/btob/details.phtml, line: 107
 # File: module/b2b/view/layout/layout.phtml, line: 48
 msgid "Tuesday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 110
+# File: module/b2b/view/b2b/btob/details.phtml, line: 111
 # File: module/b2b/view/layout/layout.phtml, line: 49
 msgid "Wednesday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 114
+# File: module/b2b/view/b2b/btob/details.phtml, line: 115
 # File: module/b2b/view/layout/layout.phtml, line: 50
 msgid "Thursday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 118
+# File: module/b2b/view/b2b/btob/details.phtml, line: 119
 # File: module/b2b/view/layout/layout.phtml, line: 51
 msgid "Friday"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 203
 # File: module/b2b/view/b2b/tours/view.phtml, line: 310
-# File: module/b2b/view/b2b/btob/details.phtml, line: 122
+# File: module/b2b/view/b2b/btob/details.phtml, line: 123
 # File: module/b2b/view/layout/layout.phtml, line: 52
 msgid "Saturday"
 msgstr ""
@@ -2104,7 +2104,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 306
 # File: module/b2b/view/b2b/packages/view.phtml, line: 264
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 155
-# File: module/b2b/view/b2b/btob/details.phtml, line: 181
+# File: module/b2b/view/b2b/btob/details.phtml, line: 182
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 134
 msgid "Update"
 msgstr ""
@@ -3020,7 +3020,7 @@ msgid "Children (0-2)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/insurance.phtml, line: 4
-# File: module/b2b/view/b2b/btob/details.phtml, line: 171
+# File: module/b2b/view/b2b/btob/details.phtml, line: 172
 msgid "Insurance"
 msgstr ""
 #
@@ -5551,12 +5551,12 @@ msgid "Discount"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 15
-# File: module/b2b/view/b2b/btob/details.phtml, line: 147
+# File: module/b2b/view/b2b/btob/details.phtml, line: 148
 msgid "Flights"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 20
-# File: module/b2b/view/b2b/btob/details.phtml, line: 143
+# File: module/b2b/view/b2b/btob/details.phtml, line: 144
 # File: module/b2b/view/shared/nav.phtml, line: 354
 msgid "Hotels"
 msgstr ""
@@ -5569,7 +5569,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 30
 # File: module/b2b/view/b2b/dp/index.phtml, line: 66
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 755
-# File: module/b2b/view/b2b/btob/details.phtml, line: 151
+# File: module/b2b/view/b2b/btob/details.phtml, line: 152
 msgid "Transfers"
 msgstr ""
 #
@@ -5580,7 +5580,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 40
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 757
-# File: module/b2b/view/b2b/btob/details.phtml, line: 167
+# File: module/b2b/view/b2b/btob/details.phtml, line: 168
 msgid "Cruises"
 msgstr ""
 #
@@ -7810,7 +7810,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 42
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
-# File: module/b2b/view/b2b/btob/details.phtml, line: 159
+# File: module/b2b/view/b2b/btob/details.phtml, line: 160
 # File: module/b2b/view/shared/nav.phtml, line: 351
 msgid "Packages"
 msgstr ""
@@ -9444,50 +9444,50 @@ msgstr ""
 msgid "Overview (Spanish)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 91
+# File: module/b2b/view/b2b/btob/details.phtml, line: 92
 msgid "Business Card"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 92
 # File: module/b2b/view/b2b/btob/details.phtml, line: 93
 # File: module/b2b/view/b2b/btob/details.phtml, line: 94
 # File: module/b2b/view/b2b/btob/details.phtml, line: 95
+# File: module/b2b/view/b2b/btob/details.phtml, line: 96
 msgid "Business Hours"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 96
+# File: module/b2b/view/b2b/btob/details.phtml, line: 97
 msgid "Choose your background"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 96
+# File: module/b2b/view/b2b/btob/details.phtml, line: 97
 msgid "Background Image"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 97
+# File: module/b2b/view/b2b/btob/details.phtml, line: 98
 msgid "Working Days"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 98
+# File: module/b2b/view/b2b/btob/details.phtml, line: 99
 msgid "Phone Extension"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 99
+# File: module/b2b/view/b2b/btob/details.phtml, line: 100
 msgid "Business Card Title"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 133
+# File: module/b2b/view/b2b/btob/details.phtml, line: 134
 msgid "B2B Support"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 137
+# File: module/b2b/view/b2b/btob/details.phtml, line: 138
 msgid "B2C Support"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 155
+# File: module/b2b/view/b2b/btob/details.phtml, line: 156
 msgid "Tours & Activities"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 163
+# File: module/b2b/view/b2b/btob/details.phtml, line: 164
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -9495,56 +9495,56 @@ msgstr ""
 msgid "Business Card Photo"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 225
+# File: module/b2b/view/b2b/btob/details.phtml, line: 226
 msgid "Alternative Photo"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 233
+# File: module/b2b/view/b2b/btob/details.phtml, line: 234
 msgid "Available Credit"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 236
+# File: module/b2b/view/b2b/btob/details.phtml, line: 237
 msgid "eAgent(s)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 246
+# File: module/b2b/view/b2b/btob/details.phtml, line: 247
 msgid "Specialist"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 261
+# File: module/b2b/view/b2b/btob/details.phtml, line: 262
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 8
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 29
 msgid "Add Specialty"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 303
-# File: module/b2b/view/b2b/btob/details.phtml, line: 308
+# File: module/b2b/view/b2b/btob/details.phtml, line: 304
 # File: module/b2b/view/b2b/btob/details.phtml, line: 309
 # File: module/b2b/view/b2b/btob/details.phtml, line: 310
+# File: module/b2b/view/b2b/btob/details.phtml, line: 311
 msgid "Start a video chat now"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 303
+# File: module/b2b/view/b2b/btob/details.phtml, line: 304
 msgid "LIVE"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 303
+# File: module/b2b/view/b2b/btob/details.phtml, line: 304
 msgid "STREAM"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 304
+# File: module/b2b/view/b2b/btob/details.phtml, line: 305
 msgid "Chat live with your agent"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 311
+# File: module/b2b/view/b2b/btob/details.phtml, line: 312
 msgid "I want you to call me"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 317
+# File: module/b2b/view/b2b/btob/details.phtml, line: 318
 msgid "Direct phone"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/details.phtml, line: 324
+# File: module/b2b/view/b2b/btob/details.phtml, line: 325
 msgid "Schedule"
 msgstr ""
 #
