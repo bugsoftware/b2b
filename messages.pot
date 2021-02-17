@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-16 15:58-0500\n"
+"POT-Creation-Date: 2021-02-17 05:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1261,7 +1261,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 126
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 316
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1052
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1053
 msgid "View"
 msgstr ""
 #
@@ -2175,7 +2175,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/index.phtml, line: 157
 # File: module/b2b/view/b2b/cars/index.phtml, line: 158
 # File: module/b2b/view/b2b/dp/index.phtml, line: 260
-# File: module/b2b/view/b2b/btob/index.phtml, line: 908
+# File: module/b2b/view/b2b/btob/index.phtml, line: 909
 # File: module/b2b/view/b2b/transfers/index.phtml, line: 157
 msgid "Starting from"
 msgstr ""
@@ -6495,35 +6495,35 @@ msgstr ""
 msgid "We are a leading global online travel company that uses innovative technology to enable leisure and business travelers to search for, plan and book a broad range of travel products and services including airline tickets, hotels, car rentals, cruises, and vacation packages. With 4 different kind of collaborations, we do our best to give everyone a chance to make this partnership a success: - B2B Access - B2C Access - XML integration - White Label"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 275
+# File: module/b2b/view/b2b/index/index.phtml, line: 272
 msgid "Contact us"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 278
+# File: module/b2b/view/b2b/index/index.phtml, line: 275
 msgid "Through the perfect blend of people and technology, we deliver the most seamless, personalized and integrated experiences."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 290
+# File: module/b2b/view/b2b/index/index.phtml, line: 287
 msgid "name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 291
+# File: module/b2b/view/b2b/index/index.phtml, line: 288
 msgid "email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 292
+# File: module/b2b/view/b2b/index/index.phtml, line: 289
 msgid "phone"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 293
+# File: module/b2b/view/b2b/index/index.phtml, line: 290
 msgid "subject"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 297
+# File: module/b2b/view/b2b/index/index.phtml, line: 294
 msgid "message"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 298
+# File: module/b2b/view/b2b/index/index.phtml, line: 295
 msgid "SEND MESSAGE"
 msgstr ""
 #
@@ -9582,7 +9582,11 @@ msgstr ""
 msgid "Charters"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1052
+# File: module/b2b/view/b2b/btob/index.phtml, line: 512
+msgid "View Business Card"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1053
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
