@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-17 05:06-0500\n"
+"POT-Creation-Date: 2021-02-18 05:14-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1261,6 +1261,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 126
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 316
+# File: module/b2b/view/b2b/btob/index.phtml, line: 512
 # File: module/b2b/view/b2b/btob/index.phtml, line: 1053
 msgid "View"
 msgstr ""
@@ -9580,10 +9581,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 41
 msgid "Charters"
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/index.phtml, line: 512
-msgid "View Business Card"
 msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 1053
