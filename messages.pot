@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-03 07:45-0500\n"
+"POT-Creation-Date: 2021-03-03 07:47-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9199,7 +9199,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 9
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 74
-# File: module/b2b/view/b2b/customers/index.phtml, line: 196
 msgid "Send Whatsapp"
 msgstr ""
 #
@@ -10629,6 +10628,10 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/index.phtml, line: 195
 # File: module/b2b/view/b2b/customers/index.phtml, line: 298
 msgid "Send Profile Update Letter - Whatsapp"
+msgstr ""
+#
+# File: module/b2b/view/b2b/customers/index.phtml, line: 196
+msgid "Send Whatsapp Promotion"
 msgstr ""
 #
 # File: module/b2b/view/b2b/customers/index.phtml, line: 208
