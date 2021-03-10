@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-10 15:29-0500\n"
+"POT-Creation-Date: 2021-03-10 15:57-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -244,7 +244,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 93
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 111
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 629
-# File: module/b2b/view/b2b/flights/results.phtml, line: 615
+# File: module/b2b/view/b2b/flights/results.phtml, line: 616
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 369
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 642
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 66
@@ -281,7 +281,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 94
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 112
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 630
-# File: module/b2b/view/b2b/flights/results.phtml, line: 616
+# File: module/b2b/view/b2b/flights/results.phtml, line: 617
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 370
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 643
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 67
@@ -337,7 +337,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 169
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 83
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 640
-# File: module/b2b/view/b2b/flights/results.phtml, line: 617
+# File: module/b2b/view/b2b/flights/results.phtml, line: 618
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 371
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 644
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 77
@@ -401,7 +401,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 168
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 82
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 639
-# File: module/b2b/view/b2b/flights/results.phtml, line: 618
+# File: module/b2b/view/b2b/flights/results.phtml, line: 619
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 372
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 645
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 76
@@ -726,7 +726,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 460
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 467
 # File: module/b2b/view/b2b/flights/results.phtml, line: 17
-# File: module/b2b/view/b2b/flights/results.phtml, line: 318
+# File: module/b2b/view/b2b/flights/results.phtml, line: 319
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 10
 # File: module/b2b/view/b2b/flights/parallelsearching.phtml, line: 32
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 17
@@ -911,7 +911,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 220
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 48
 # File: module/b2b/view/b2b/flights/results.phtml, line: 95
-# File: module/b2b/view/b2b/flights/results.phtml, line: 348
+# File: module/b2b/view/b2b/flights/results.phtml, line: 349
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 55
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 252
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 60
@@ -987,7 +987,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 222
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 61
 # File: module/b2b/view/b2b/flights/results.phtml, line: 104
-# File: module/b2b/view/b2b/flights/results.phtml, line: 350
+# File: module/b2b/view/b2b/flights/results.phtml, line: 351
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 56
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 254
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 73
@@ -1178,7 +1178,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 682
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 92
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 222
-# File: module/b2b/view/b2b/flights/results.phtml, line: 349
+# File: module/b2b/view/b2b/flights/results.phtml, line: 350
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 253
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 378
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 86
@@ -1280,7 +1280,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/results.phtml, line: 696
 # File: module/b2b/view/b2b/packages/view.phtml, line: 296
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 879
-# File: module/b2b/view/b2b/flights/results.phtml, line: 317
+# File: module/b2b/view/b2b/flights/results.phtml, line: 318
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 234
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 1153
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 345
@@ -1516,7 +1516,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 421
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 126
-# File: module/b2b/view/b2b/flights/results.phtml, line: 271
+# File: module/b2b/view/b2b/flights/results.phtml, line: 272
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 211
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 299
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 438
@@ -1537,7 +1537,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 421
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 126
-# File: module/b2b/view/b2b/flights/results.phtml, line: 271
+# File: module/b2b/view/b2b/flights/results.phtml, line: 272
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 211
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 299
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 438
@@ -2073,7 +2073,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/view.phtml, line: 207
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 816
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 823
-# File: module/b2b/view/b2b/flights/results.phtml, line: 622
+# File: module/b2b/view/b2b/flights/results.phtml, line: 623
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 649
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 185
@@ -2164,7 +2164,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/view.phtml, line: 328
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 230
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 220
-# File: module/b2b/view/b2b/flights/results.phtml, line: 347
+# File: module/b2b/view/b2b/flights/results.phtml, line: 348
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 251
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 376
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 204
@@ -2192,7 +2192,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 225
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 71
 # File: module/b2b/view/b2b/flights/results.phtml, line: 112
-# File: module/b2b/view/b2b/flights/results.phtml, line: 351
+# File: module/b2b/view/b2b/flights/results.phtml, line: 352
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 56
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 255
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 83
@@ -2222,7 +2222,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 453
 # File: module/b2b/view/b2b/cars/results.phtml, line: 326
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 636
-# File: module/b2b/view/b2b/flights/results.phtml, line: 363
+# File: module/b2b/view/b2b/flights/results.phtml, line: 364
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 267
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 392
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 364
@@ -2858,7 +2858,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 460
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 235
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 225
-# File: module/b2b/view/b2b/flights/results.phtml, line: 352
+# File: module/b2b/view/b2b/flights/results.phtml, line: 353
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 256
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 381
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 209
@@ -3600,7 +3600,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 95
 # File: module/b2b/view/b2b/tours/view.phtml, line: 108
-# File: module/b2b/view/b2b/flights/results.phtml, line: 338
+# File: module/b2b/view/b2b/flights/results.phtml, line: 339
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 366
 msgid "Included"
 msgstr ""
@@ -3839,7 +3839,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/results.phtml, line: 287
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 422
-# File: module/b2b/view/b2b/flights/results.phtml, line: 272
+# File: module/b2b/view/b2b/flights/results.phtml, line: 273
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 212
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 300
 msgid "Lead Time Restriction."
@@ -3847,7 +3847,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/results.phtml, line: 287
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 422
-# File: module/b2b/view/b2b/flights/results.phtml, line: 272
+# File: module/b2b/view/b2b/flights/results.phtml, line: 273
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 212
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 300
 msgid "Booking lead time lead time not met. Please call reservations support."
@@ -3855,7 +3855,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/results.phtml, line: 360
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 77
-# File: module/b2b/view/b2b/flights/results.phtml, line: 359
+# File: module/b2b/view/b2b/flights/results.phtml, line: 360
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 263
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 388
 msgid "SPECIAL OFFER!"
@@ -3878,7 +3878,7 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 703
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
 # File: module/b2b/view/b2b/flights/results.phtml, line: 260
-# File: module/b2b/view/b2b/flights/results.phtml, line: 332
+# File: module/b2b/view/b2b/flights/results.phtml, line: 333
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 198
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 242
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 265
@@ -4543,7 +4543,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/moremenu_add.phtml, line: 17
 # File: module/b2b/view/b2b/admin/b2bfootermenu_edit.phtml, line: 17
 # File: module/b2b/view/b2b/admin/b2bmenu_edit.phtml, line: 17
-# File: module/b2b/view/b2b/flights/results.phtml, line: 321
+# File: module/b2b/view/b2b/flights/results.phtml, line: 322
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 237
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 349
 msgid "Class"
@@ -5682,7 +5682,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 252
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 260
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 192
-# File: module/b2b/view/b2b/flights/results.phtml, line: 360
+# File: module/b2b/view/b2b/flights/results.phtml, line: 361
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 264
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 389
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 212
@@ -5749,7 +5749,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 202
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 148
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 166
-# File: module/b2b/view/b2b/flights/results.phtml, line: 320
+# File: module/b2b/view/b2b/flights/results.phtml, line: 321
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 236
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 466
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 469
@@ -5818,7 +5818,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 40
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 457
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 813
-# File: module/b2b/view/b2b/flights/results.phtml, line: 619
+# File: module/b2b/view/b2b/flights/results.phtml, line: 620
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 646
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 38
@@ -7028,9 +7028,9 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 635
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 806
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 816
-# File: module/b2b/view/b2b/flights/results.phtml, line: 362
-# File: module/b2b/view/b2b/flights/results.phtml, line: 613
-# File: module/b2b/view/b2b/flights/results.phtml, line: 622
+# File: module/b2b/view/b2b/flights/results.phtml, line: 363
+# File: module/b2b/view/b2b/flights/results.phtml, line: 614
+# File: module/b2b/view/b2b/flights/results.phtml, line: 623
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 266
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 367
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
@@ -7360,7 +7360,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 481
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 256
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 248
-# File: module/b2b/view/b2b/flights/results.phtml, line: 354
+# File: module/b2b/view/b2b/flights/results.phtml, line: 355
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 258
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 383
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 230
@@ -8598,7 +8598,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1154
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1174
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 615
-# File: module/b2b/view/b2b/flights/results.phtml, line: 309
+# File: module/b2b/view/b2b/flights/results.phtml, line: 310
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 226
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 449
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 337
@@ -8608,7 +8608,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1156
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1176
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 622
-# File: module/b2b/view/b2b/flights/results.phtml, line: 310
+# File: module/b2b/view/b2b/flights/results.phtml, line: 311
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 227
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 456
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 338
@@ -8797,7 +8797,7 @@ msgid "Return"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 126
-# File: module/b2b/view/b2b/flights/results.phtml, line: 271
+# File: module/b2b/view/b2b/flights/results.phtml, line: 272
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 211
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 299
 msgid "No air fares shown, try clearing some filters to see more availability."
@@ -8850,7 +8850,7 @@ msgid "Flights / Search"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 628
-# File: module/b2b/view/b2b/flights/results.phtml, line: 319
+# File: module/b2b/view/b2b/flights/results.phtml, line: 320
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 235
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 462
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 347
@@ -8863,7 +8863,7 @@ msgid "Flight duration:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 698
-# File: module/b2b/view/b2b/flights/results.phtml, line: 334
+# File: module/b2b/view/b2b/flights/results.phtml, line: 335
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 244
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 531
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 362
@@ -8871,7 +8871,7 @@ msgid "Show availability"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 701
-# File: module/b2b/view/b2b/flights/results.phtml, line: 335
+# File: module/b2b/view/b2b/flights/results.phtml, line: 336
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 245
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 534
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 363
@@ -8880,14 +8880,14 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 715
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 854
-# File: module/b2b/view/b2b/flights/results.phtml, line: 339
+# File: module/b2b/view/b2b/flights/results.phtml, line: 340
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 247
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 367
 msgid "How to pay:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 721
-# File: module/b2b/view/b2b/flights/results.phtml, line: 340
+# File: module/b2b/view/b2b/flights/results.phtml, line: 341
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 248
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 553
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 368
@@ -8895,7 +8895,7 @@ msgid "Total distance:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 887
-# File: module/b2b/view/b2b/flights/results.phtml, line: 353
+# File: module/b2b/view/b2b/flights/results.phtml, line: 354
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 257
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 1162
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 382
@@ -8903,7 +8903,7 @@ msgid "Taxes and fees"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 896
-# File: module/b2b/view/b2b/flights/results.phtml, line: 312
+# File: module/b2b/view/b2b/flights/results.phtml, line: 313
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 229
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 340
 msgid "BUY NOW"
@@ -8958,7 +8958,7 @@ msgid "Stop(s)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/results.phtml, line: 151
-# File: module/b2b/view/b2b/flights/results.phtml, line: 398
+# File: module/b2b/view/b2b/flights/results.phtml, line: 399
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 5
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 88
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 151
@@ -8967,7 +8967,7 @@ msgid "Non-Stop"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/results.phtml, line: 152
-# File: module/b2b/view/b2b/flights/results.phtml, line: 399
+# File: module/b2b/view/b2b/flights/results.phtml, line: 400
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 6
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 89
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 152
@@ -8994,179 +8994,179 @@ msgstr ""
 msgid "Flights from"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 283
+# File: module/b2b/view/b2b/flights/results.phtml, line: 284
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 222
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 311
 msgid "seat(s) available"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 311
+# File: module/b2b/view/b2b/flights/results.phtml, line: 312
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 228
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 339
 msgid "(Includes taxes)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 313
+# File: module/b2b/view/b2b/flights/results.phtml, line: 314
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 230
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 341
 msgid "Recommended offer. Buy now! to not miss this price."
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 314
+# File: module/b2b/view/b2b/flights/results.phtml, line: 315
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 231
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 342
 msgid "Multiple Airlines"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 315
+# File: module/b2b/view/b2b/flights/results.phtml, line: 316
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 232
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 343
 msgid "no fee up to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 316
+# File: module/b2b/view/b2b/flights/results.phtml, line: 317
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 233
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 344
 msgid "Total - Including Taxes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 322
+# File: module/b2b/view/b2b/flights/results.phtml, line: 323
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 238
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 434
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 350
 msgid "Select your departure to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 323
+# File: module/b2b/view/b2b/flights/results.phtml, line: 324
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 239
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 473
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 351
 msgid "Flights details and baggage fees"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 324
+# File: module/b2b/view/b2b/flights/results.phtml, line: 325
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 352
 msgid "Check-in bag:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 325
+# File: module/b2b/view/b2b/flights/results.phtml, line: 326
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 353
 msgid "Carry on bag:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 326
+# File: module/b2b/view/b2b/flights/results.phtml, line: 327
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 354
 msgid "policy!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 327
+# File: module/b2b/view/b2b/flights/results.phtml, line: 328
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 240
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 355
 msgid "Roundtrip price for 1 traveler, including taxes and fees:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 328
+# File: module/b2b/view/b2b/flights/results.phtml, line: 329
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 356
 msgid "Roundtrip price, including taxes and fees:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 329
+# File: module/b2b/view/b2b/flights/results.phtml, line: 330
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 357
 msgid "One-way price, including taxes and fees:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 330
+# File: module/b2b/view/b2b/flights/results.phtml, line: 331
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 241
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 358
 msgid "Free Cancellation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 331
+# File: module/b2b/view/b2b/flights/results.phtml, line: 332
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 359
 msgid "Free Change"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 333
+# File: module/b2b/view/b2b/flights/results.phtml, line: 334
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 243
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 530
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 361
 msgid "Seats"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 336
+# File: module/b2b/view/b2b/flights/results.phtml, line: 337
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 246
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 364
 msgid "No fee"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 337
+# File: module/b2b/view/b2b/flights/results.phtml, line: 338
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 365
 msgid "No fees"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 341
+# File: module/b2b/view/b2b/flights/results.phtml, line: 342
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 249
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 369
 msgid "checked bag:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 342
+# File: module/b2b/view/b2b/flights/results.phtml, line: 343
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 370
 msgid "Check in baggage is not allowed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 343
+# File: module/b2b/view/b2b/flights/results.phtml, line: 344
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 371
 msgid "Check in baggage is not included"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 344
+# File: module/b2b/view/b2b/flights/results.phtml, line: 345
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 372
 msgid "Hand baggage is not allowed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 345
+# File: module/b2b/view/b2b/flights/results.phtml, line: 346
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 373
 msgid "Hand baggage is not included"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 346
+# File: module/b2b/view/b2b/flights/results.phtml, line: 347
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 250
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 375
 msgid "Select your return to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 355
+# File: module/b2b/view/b2b/flights/results.phtml, line: 356
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 259
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 384
 msgid "Discount with"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 356
+# File: module/b2b/view/b2b/flights/results.phtml, line: 357
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 260
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 385
 msgid "Recommended selling price including taxes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 357
+# File: module/b2b/view/b2b/flights/results.phtml, line: 358
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 261
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 386
 msgid "Recommended selling price"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 358
+# File: module/b2b/view/b2b/flights/results.phtml, line: 359
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 262
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 387
 msgid "Your commission will be"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 361
+# File: module/b2b/view/b2b/flights/results.phtml, line: 362
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 265
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 390
 msgid "Discounted fare price including taxes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/flights/results.phtml, line: 400
+# File: module/b2b/view/b2b/flights/results.phtml, line: 401
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 7
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 429
 msgid "Stops"
