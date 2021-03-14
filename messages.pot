@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-14 14:50-0400\n"
+"POT-Creation-Date: 2021-03-14 14:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -691,7 +691,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 134
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 87
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 95
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 61
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 103
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 305
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 397
@@ -870,9 +870,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 40
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 77
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 47
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 57
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 85
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 51
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 44
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 54
 # File: module/b2b/view/b2b/tours/results.phtml, line: 52
@@ -950,9 +948,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 54
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 67
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 78
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 61
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 74
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 86
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 52
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 56
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 65
 # File: module/b2b/view/b2b/tours/results.phtml, line: 64
@@ -1110,7 +1106,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 36
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 75
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 41
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 83
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 49
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 27
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
 # File: module/b2b/view/b2b/dp/index.phtml, line: 77
@@ -1135,7 +1131,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 37
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 76
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 42
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 84
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 28
 # File: module/b2b/view/b2b/dp/index.phtml, line: 81
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 557
@@ -1158,7 +1154,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 357
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 98
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 79
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 87
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 53
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 90
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 99
 # File: module/b2b/view/b2b/tours/results.phtml, line: 70
@@ -1213,7 +1209,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 358
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 99
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 80
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 88
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 54
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 91
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 100
 # File: module/b2b/view/b2b/tours/results.phtml, line: 70
@@ -1251,7 +1247,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 34
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 100
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 81
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 89
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 55
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 92
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 101
 # File: module/b2b/view/b2b/tours/results.phtml, line: 413
@@ -2435,7 +2431,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 128
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 72
-# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 80
+# File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 87
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 13
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
