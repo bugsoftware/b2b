@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-15 13:41-0400\n"
+"POT-Creation-Date: 2021-03-15 13:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -877,6 +877,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 51
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 44
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 54
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 56
 # File: module/b2b/view/b2b/tours/results.phtml, line: 52
 # File: module/b2b/view/b2b/tours/results.phtml, line: 62
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 179
