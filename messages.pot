@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-15 13:21-0400\n"
+"POT-Creation-Date: 2021-03-15 13:41-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -958,6 +958,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 78
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 52
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 56
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 65
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 65
 # File: module/b2b/view/b2b/tours/results.phtml, line: 64
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 179
@@ -3645,6 +3646,13 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 47
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 66
 msgid "Departure Port"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 69
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 92
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 115
+# File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 138
+msgid "Age"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 168
