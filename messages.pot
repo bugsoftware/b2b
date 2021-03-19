@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-18 06:05-0400\n"
+"POT-Creation-Date: 2021-03-19 08:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -905,7 +905,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
 # File: module/b2b/view/b2b/packages/view.phtml, line: 61
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 82
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 126
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 131
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 71
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 620
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 68
@@ -985,7 +985,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
 # File: module/b2b/view/b2b/packages/view.phtml, line: 72
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 88
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 132
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 137
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 72
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 618
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 78
@@ -1035,8 +1035,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 237
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 241
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 53
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 182
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 184
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 187
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 189
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 166
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 217
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 257
@@ -1069,7 +1069,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/view.phtml, line: 298
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 116
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 209
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 167
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 172
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 191
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 274
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 275
@@ -1198,7 +1198,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/search.phtml, line: 33
 # File: module/b2b/view/b2b/packages/view.phtml, line: 332
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 86
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 130
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 135
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 80
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 553
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 619
@@ -3212,7 +3212,7 @@ msgid "Press the Safey Pay icon above if you aren't automatically redirected in 
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 32
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 114
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 119
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 9
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 24
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 218
@@ -3585,7 +3585,7 @@ msgid "Any Cruise Length"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 23
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 145
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 150
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 62
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 314
 # File: module/b2b/view/b2b/packages/search.phtml, line: 170
@@ -3699,7 +3699,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/book.phtml, line: 146
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 69
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 79
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 123
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 128
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 302
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 67
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 340
@@ -3740,11 +3740,11 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 119
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 195
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 372
 # File: module/b2b/view/b2b/packages/book.phtml, line: 224
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 209
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 241
 msgid "Travel Insurance"
@@ -3752,11 +3752,11 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 119
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 195
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 374
 # File: module/b2b/view/b2b/packages/book.phtml, line: 224
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 209
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 241
 msgid "We recommend the purchase of a travel protection plan to help protect you and your travel investment against the unexpected. Even with the most meticulous planning, travel can be full of surprises. With travel protection, you can relax and enjoy your trip with some peace of mind knowing that you've got coverage in place for unforseen circumstances."
@@ -3764,22 +3764,22 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 119
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 103
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 190
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 195
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 374
 # File: module/b2b/view/b2b/packages/book.phtml, line: 224
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 214
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 204
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 209
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 222
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 241
 msgid "The travel protection plan we recommend may be purchased with your travel package or at any time prior to making your final payment."
 msgstr ""
 #
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 123
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 193
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 198
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 381
 # File: module/b2b/view/b2b/packages/book.phtml, line: 228
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 218
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 208
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 213
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 226
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 245
 msgid "Contact Info"
@@ -4244,7 +4244,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/book.phtml, line: 162
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 248
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 95
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 139
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 144
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 116
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 249
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 127
@@ -5796,7 +5796,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 456
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 105
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 199
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 156
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 161
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 249
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 260
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 268
@@ -6205,44 +6205,49 @@ msgstr ""
 msgid "Cruise Line Reservation Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 97
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 89
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 97
+msgid "Payment Plan"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 102
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 4
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 172
 msgid "Cruise details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 115
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 120
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 19
 msgid "Departing on"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 116
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 121
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 28
 msgid "Returning to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 117
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 122
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 21
 msgid "Returning on"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 146
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 151
 msgid "Length:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 150
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 155
 msgid "Cabin Number:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 155
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 160
 msgid "Deck:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 160
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 165
 msgid "Deck Number:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 182
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 187
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 217
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 167
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 546
@@ -6278,13 +6283,13 @@ msgstr ""
 msgid "Subtotal"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 218
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 232
 msgid "Passenger limit for cabin exceeded"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 224
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 238
 # File: module/b2b/view/b2b/packages/book.phtml, line: 253
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 233
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 251
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 250
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 269
 msgid "Unable to retreive booking code(s)"
@@ -6398,8 +6403,8 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 82
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 121
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 126
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 131
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 305
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 309
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 70
@@ -6915,7 +6920,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 95
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 58
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 102
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 107
 msgid "Hotel info"
 msgstr ""
 #
@@ -6933,8 +6938,8 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 389
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 77
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 82
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 121
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 126
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 131
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 305
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 309
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 70
@@ -6953,7 +6958,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/book.phtml, line: 146
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 69
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 79
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 123
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 128
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 621
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 302
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 67
@@ -6968,7 +6973,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 288
 # File: module/b2b/view/b2b/packages/book.phtml, line: 166
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 99
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 143
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 148
 msgid "Total:"
 msgstr ""
 #
@@ -7035,7 +7040,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 298
 # File: module/b2b/view/b2b/packages/book.phtml, line: 205
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 133
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 183
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 188
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 220
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 385
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 435
@@ -7067,7 +7072,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 343
 # File: module/b2b/view/b2b/packages/book.phtml, line: 183
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 109
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 160
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 165
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 205
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 224
 msgid "Service Charge"
@@ -7076,14 +7081,14 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 350
 # File: module/b2b/view/b2b/packages/book.phtml, line: 187
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 113
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 164
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 169
 msgid "Rewards Discount"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 362
 # File: module/b2b/view/b2b/packages/book.phtml, line: 193
 # File: module/b2b/view/b2b/hotels/flightsconfirm.phtml, line: 119
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 170
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 175
 msgid "Rewards Earned"
 msgstr ""
 #
@@ -8083,12 +8088,12 @@ msgid "Package info"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/book.phtml, line: 171
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 148
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 153
 msgid "Agent's Commission:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/packages/book.phtml, line: 175
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 152
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 157
 msgid "Agent's Service Fee:"
 msgstr ""
 #
