@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-19 08:20-0400\n"
+"POT-Creation-Date: 2021-03-19 11:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6283,13 +6283,13 @@ msgstr ""
 msgid "Subtotal"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 232
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 236
 msgid "Passenger limit for cabin exceeded"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 238
+# File: module/b2b/view/b2b/cruises/confirm.phtml, line: 242
 # File: module/b2b/view/b2b/packages/book.phtml, line: 253
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 251
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 255
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 250
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 269
 msgid "Unable to retreive booking code(s)"
@@ -6586,6 +6586,10 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 139
 msgid "Service Gratuities (Tips)"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 139
+msgid "Per Passenger"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 140
