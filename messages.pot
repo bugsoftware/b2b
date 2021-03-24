@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-24 02:59-0400\n"
+"POT-Creation-Date: 2021-03-24 13:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,7 +229,7 @@ msgid "Mrs."
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 42
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 73
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 74
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 17
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 41
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 110
@@ -266,7 +266,7 @@ msgid "First Name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 43
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 74
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 75
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 18
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 42
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 111
@@ -308,7 +308,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 45
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 192
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 76
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 77
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 20
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 44
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 117
@@ -377,7 +377,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 47
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 191
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 75
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 76
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 19
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 43
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 113
@@ -457,7 +457,7 @@ msgid "Location"
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 60
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 79
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 128
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 37
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 71
@@ -472,8 +472,8 @@ msgid "Address"
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 61
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 47
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 77
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 48
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 49
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 43
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 42
@@ -487,7 +487,7 @@ msgid "Choose your country"
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 61
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 77
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 78
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 125
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 11
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 13
@@ -516,8 +516,8 @@ msgid "State/Zone"
 msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 63
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 49
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 80
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 50
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 81
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 127
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 16
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 15
@@ -1947,7 +1947,7 @@ msgid "Cancellation charges"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 250
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 47
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 49
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 332
 # File: module/b2b/view/b2b/booking/index.phtml, line: 39
 msgid "Pay"
@@ -1971,7 +1971,7 @@ msgid "By selecting to complete this booking I acknowledge tht I have read and a
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 263
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 693
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 694
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 117
 # File: module/b2b/view/b2b/tours/view.phtml, line: 740
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 150
@@ -2608,180 +2608,189 @@ msgstr ""
 msgid "Sadad"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 20
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 19
+msgid "PagoEfectivo"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 19
+msgid "Cash Payment/Online banking"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 21
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 24
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 25
 msgid "Credit Account"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 29
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 30
 msgid "Subject to credit check and approval. Down payment may be required. Affirm loans are made by Cross River Bank, a New Jersey State Chartered Commercial Bank, Member FDIC."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 34
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 35
 msgid "Credit Card information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 38
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 39
 # File: module/b2b/view/b2b/booking/index.phtml, line: 72
 msgid "Card Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 39
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 40
 msgid "Name on Card"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 40
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 41
 msgid "Expires"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 41
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 42
 msgid "Security code (CVV2/CVC2)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 44
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 45
 msgid "Billing information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 47
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 48
 msgid "Billing Country"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 48
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 49
 msgid "Billing Address"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 50
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 51
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 44
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 38
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 191
 msgid "State"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 51
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 82
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 52
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 83
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 129
 msgid "ZIP Code/Postal Code"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 53
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 54
 msgid "Pay Later"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 58
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 59
 msgid "Select Your Choice Of Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 60
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 61
 # File: module/b2b/view/b2b/shared/dcc.phtml, line: 13
 msgid "Rate includes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 60
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 61
 # File: module/b2b/view/b2b/shared/dcc.phtml, line: 13
 msgid "margin"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 66
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 67
 msgid "Customer Information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 68
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 69
 msgid "How does Affirm work?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 69
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 70
 msgid "We've partnered with Affirm to give you a simple way to make your purchase with no hidden fees. Just enter your basic information and get a real-time credit decision to split your purchase into monthly payments."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 79
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 80
 msgid "Address (If needed)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 81
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 82
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 84
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 129
 msgid "State Code"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 90
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 104
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 118
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 132
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 156
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 170
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 188
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 202
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 216
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 250
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 284
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 314
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 348
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 387
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 91
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 105
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 119
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 133
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 157
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 171
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 189
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 203
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 217
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 251
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 285
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 315
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 349
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 388
 msgid "Use cash or money orders to pay your reservation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 96
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 110
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 124
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 143
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 162
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 178
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 194
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 208
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 232
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 266
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 298
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 330
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 361
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 400
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 97
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 111
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 125
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 144
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 163
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 179
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 195
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 209
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 233
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 267
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 299
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 331
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 362
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 401
 msgid "Pay from your Internet banking to pay your reservation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 132
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 133
 msgid "Pay at any agency or agent of"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 132
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 144
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 133
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 145
 msgid "or"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 144
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 145
 msgid "Pay from your Internet banking of"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 144
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 145
 msgid "with charge to your account or credit card."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 348
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 387
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 349
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 388
 msgid "You can pay cash at any of the 70,000 MoneyGram locations in the United States and approximately 350,000 locations in over 200 countries around the world."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 348
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 387
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 349
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 388
 msgid "Pay from convenient locations near you, including:"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 362
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 401
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 363
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 402
 msgid "You can pay in banks in Brazil, Chile, Ecuador, Mexico and other countries."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 752
+# File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 753
 msgid "PLEASE WAIT..."
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/affirm.phtml, line: 1
 # File: module/b2b/view/b2b/shared/safetypay.phtml, line: 46
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 57
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 63
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 101
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 59
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 65
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 103
 # File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 182
+# File: module/b2b/view/b2b/shared/pagoefectivo.phtml, line: 46
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 560
 # File: module/b2b/view/b2b/booking/index.phtml, line: 103
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 109
@@ -3204,10 +3213,12 @@ msgid "Please select children ages!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/safetypay.phtml, line: 49
+# File: module/b2b/view/b2b/shared/pagoefectivo.phtml, line: 49
 msgid "In order to complete your reservation you must submit your payment via Secure Payment Server. You are beeing redirected to a Secure Payment Server to complete your reservation."
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/safetypay.phtml, line: 49
+# File: module/b2b/view/b2b/shared/pagoefectivo.phtml, line: 49
 msgid "Press the Safey Pay icon above if you aren't automatically redirected in 5 seconds..."
 msgstr ""
 #
@@ -3301,58 +3312,58 @@ msgstr ""
 msgid "No Insurance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 9
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 11
 # File: module/b2b/view/b2b/booking/index.phtml, line: 27
 msgid "Credit Card Information"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 21
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 23
 msgid "MM"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 21
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 23
 msgid "YYYY"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 22
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 24
 msgid "FULL NAME"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 28
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 30
 msgid "This card is property of Random Bank of Random corporation."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 28
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 30
 msgid "If found please return to Random Bank of Random corporation - 21968 Paris, Verdi Street, 34"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 41
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 43
 # File: module/b2b/view/b2b/booking/index.phtml, line: 36
 # File: module/b2b/view/b2b/booking/index.phtml, line: 71
 msgid "Name on card"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 42
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 44
 # File: module/b2b/view/b2b/booking/index.phtml, line: 37
 msgid "Credit card number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 45
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 47
 # File: module/b2b/view/b2b/booking/index.phtml, line: 38
 # File: module/b2b/view/b2b/booking/index.phtml, line: 75
 msgid "CVV"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 57
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 63
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 101
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 59
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 65
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 103
 # File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 182
 msgid "In order to complete your reservation you must submit your payment. Press the Pay Now icon if you aren't automatically redirected in 5 seconds."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 58
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 64
-# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 102
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 60
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 66
+# File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 104
 # File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 183
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 47
 # File: module/b2b/view/b2b/booking/index.phtml, line: 170
