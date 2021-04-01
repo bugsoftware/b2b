@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-01 15:33-0400\n"
+"POT-Creation-Date: 2021-04-01 16:22-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -709,7 +709,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 281
 # File: module/b2b/view/b2b/cruises/searching.phtml, line: 45
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 527
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 305
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 306
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 831
 # File: module/b2b/view/b2b/password/index.phtml, line: 77
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 13
@@ -888,8 +888,8 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/view.phtml, line: 708
 # File: module/b2b/view/b2b/dp/index.phtml, line: 214
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 188
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 196
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 197
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 122
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 166
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 166
@@ -974,7 +974,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/view.phtml, line: 716
 # File: module/b2b/view/b2b/dp/index.phtml, line: 224
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 188
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 122
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 167
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 166
@@ -1049,9 +1049,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 187
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 189
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 166
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 217
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 257
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 261
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 218
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 258
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 262
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 83
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 175
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 288
@@ -1202,8 +1202,8 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/view.phtml, line: 731
 # File: module/b2b/view/b2b/tours/view.phtml, line: 761
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 188
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 198
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 199
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 122
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 166
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 189
@@ -1629,25 +1629,25 @@ msgid "Searching activities"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 7
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 299
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 300
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 7
 msgid "Invalid credit card number. The credit card number you provided is invalid."
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 8
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 300
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 301
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 8
 msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 9
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 301
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 302
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 9
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 10
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 302
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 303
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 10
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
@@ -1655,7 +1655,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 12
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 208
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 283
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 307
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 308
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 12
 msgid "Invalid coupon code."
 msgstr ""
@@ -1663,7 +1663,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 13
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 209
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 284
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 309
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 310
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 13
 msgid "This coupon code can only be used with a minimum spend of"
 msgstr ""
@@ -2056,7 +2056,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 309
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 436
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 273
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 285
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 286
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 951
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 954
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 601
@@ -2073,7 +2073,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 310
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 437
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 277
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 289
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 290
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 956
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 965
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 606
@@ -2274,8 +2274,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 354
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 188
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 196
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 197
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 166
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 176
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 456
@@ -5534,7 +5534,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/results.phtml, line: 305
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 172
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 188
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 203
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 247
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 101
@@ -5846,8 +5846,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 246
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 250
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 247
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 251
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 248
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 252
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 336
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 475
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 486
@@ -6255,11 +6255,11 @@ msgstr ""
 msgid "Wait List"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 61
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 62
 msgid "Available on decks"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 80
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 81
 msgid "Please note: Staterooms may vary in size and configuration from that pictured."
 msgstr ""
 #
@@ -6315,7 +6315,7 @@ msgid "Deck Number:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 187
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 217
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 218
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 167
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 546
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 550
@@ -6687,29 +6687,29 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 198
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 199
 msgid "Children "
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 203
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 204
 msgid "Cruise Cabin Price"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 207
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 208
 msgid "Taxes/Fees"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 223
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 227
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 224
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 228
 msgid "Tax Recovery & Booking Fee"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 233
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 237
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 234
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 238
 msgid "Cruise Total"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 273
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 274
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 819
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 538
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 534
@@ -6719,31 +6719,31 @@ msgstr ""
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 293
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 294
 msgid "First Name is required. Please input first name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 294
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 295
 msgid "Last Name is required. Please input last name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 295
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 296
 msgid "Email is required. Please input email address."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 296
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 297
 msgid "Address is required. Please input address."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 297
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 298
 msgid "Phone is required. Please input phone number."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 298
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 299
 msgid "Please select your dining option."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 308
+# File: module/b2b/view/b2b/cruises/checkout.phtml, line: 309
 msgid "Please input required field."
 msgstr ""
 #
