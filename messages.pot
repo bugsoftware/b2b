@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-02 05:55-0400\n"
+"POT-Creation-Date: 2021-04-02 08:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -725,7 +725,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 913
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 999
 # File: module/b2b/view/b2b/hotels/searching.phtml, line: 29
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 572
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 578
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 707
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1210
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1217
@@ -2063,8 +2063,8 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 604
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 597
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 600
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 619
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 622
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 625
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 628
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 323
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 305
 msgid "Terms & Conditions"
@@ -2080,8 +2080,8 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 615
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 602
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 611
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 624
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 633
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 630
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 639
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 325
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 338
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 307
@@ -6713,7 +6713,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 819
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 538
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 534
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 556
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 562
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 308
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 290
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
@@ -7663,21 +7663,21 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 837
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 556
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 552
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 574
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 580
 msgid "Invalid coupon/promotion code."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 838
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 557
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 553
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 575
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 581
 msgid "This coupon/promotion code can only be used with a minimum spend of"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 960
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 610
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 606
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 628
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 634
 msgid "Tax Recovery Charges & Service Fees"
 msgstr ""
 #
