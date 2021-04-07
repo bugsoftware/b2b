@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07 07:39-0400\n"
+"POT-Creation-Date: 2021-04-07 08:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/b2b/src/Controller/TelemarketingController.php, line: 125
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 94
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 208
 msgid "Unable to update telemarketing data. Please contact customer support."
 msgstr ""
 #
-# File: module/b2b/src/Controller/TelemarketingController.php, line: 132
-# File: module/b2b/src/Controller/TelemarketingController.php, line: 136
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 101
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 105
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 215
+# File: module/b2b/src/Controller/TelemarketingController.php, line: 219
 # File: module/b2b/src/Controller/CustomersController.php, line: 692
 # File: module/b2b/src/Controller/CustomersController.php, line: 696
 msgid "Unable to update customer."
@@ -193,7 +196,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 36
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 23
-# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 22
 # File: module/b2b/view/b2b/agents/add.phtml, line: 24
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 32
 # File: module/b2b/view/b2b/customers/add.phtml, line: 23
@@ -203,7 +205,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 37
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 24
-# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 23
 # File: module/b2b/view/b2b/btob/details.phtml, line: 26
 # File: module/b2b/view/b2b/agents/add.phtml, line: 25
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 33
@@ -214,7 +215,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 38
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 25
-# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 24
 # File: module/b2b/view/b2b/btob/details.phtml, line: 27
 # File: module/b2b/view/b2b/agents/add.phtml, line: 26
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 34
@@ -225,7 +225,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 39
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 26
-# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 25
 # File: module/b2b/view/b2b/agents/add.phtml, line: 27
 # File: module/b2b/view/b2b/customers/add.phtml, line: 26
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 45
@@ -1899,7 +1898,6 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 27
-# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 26
 # File: module/b2b/view/b2b/btob/details.phtml, line: 29
 # File: module/b2b/view/b2b/agents/add.phtml, line: 28
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 35
@@ -9739,6 +9737,8 @@ msgid "Flight information"
 msgstr ""
 #
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 196
+# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 8
+# File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 24
 msgid "Transfer to Customers"
 msgstr ""
 #
@@ -11419,23 +11419,23 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 #
-# File: module/b2b/view/layout/layout.phtml, line: 153
+# File: module/b2b/view/layout/layout.phtml, line: 155
 msgid "All rights reserved."
 msgstr ""
 #
-# File: module/b2b/view/layout/layout.phtml, line: 454
+# File: module/b2b/view/layout/layout.phtml, line: 456
 msgid "No chat"
 msgstr ""
 #
-# File: module/b2b/view/layout/layout.phtml, line: 465
+# File: module/b2b/view/layout/layout.phtml, line: 467
 msgid "No operator"
 msgstr ""
 #
-# File: module/b2b/view/layout/layout.phtml, line: 468
+# File: module/b2b/view/layout/layout.phtml, line: 470
 msgid "ago"
 msgstr ""
 #
-# File: module/b2b/view/layout/layout.phtml, line: 468
+# File: module/b2b/view/layout/layout.phtml, line: 470
 msgid "Chat:"
 msgstr ""
 #
