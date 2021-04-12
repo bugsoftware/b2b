@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-09 08:43-0400\n"
+"POT-Creation-Date: 2021-04-12 15:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -348,7 +348,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 77
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 268
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 32
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 44
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 45
 # File: module/b2b/view/b2b/btob/details.phtml, line: 34
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 38
 # File: module/b2b/view/b2b/booking/sendtermsandconditions.phtml, line: 38
@@ -413,7 +413,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 269
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 36
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 43
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 44
 # File: module/b2b/view/b2b/btob/details.phtml, line: 36
 # File: module/b2b/view/b2b/agents/add.phtml, line: 35
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 68
@@ -502,6 +502,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 43
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 42
 # File: module/b2b/view/b2b/btob/details.phtml, line: 49
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 31
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 32
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 79
 # File: module/b2b/view/b2b/customers/add.phtml, line: 45
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 102
@@ -749,7 +751,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 442
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 449
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 143
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 144
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
 # File: module/b2b/view/b2b/btob/details.phtml, line: 525
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
@@ -759,7 +761,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 173
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 116
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 124
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 95
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 144
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 165
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 116
@@ -1555,7 +1557,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 301
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1288
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 65
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 48
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 49
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 312
 msgid "Price"
 msgstr ""
@@ -2191,7 +2193,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 623
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 649
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 241
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 242
 # File: module/b2b/view/b2b/customers/index.phtml, line: 256
 # File: module/b2b/view/b2b/customers/index.phtml, line: 290
 # File: module/b2b/view/b2b/customers/index.phtml, line: 401
@@ -2367,7 +2369,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 48
 # File: module/b2b/view/b2b/packages/view.phtml, line: 349
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 29
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 41
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 42
 msgid "Description"
 msgstr ""
 #
@@ -2609,7 +2611,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 7
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 11
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 14
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 38
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 54
 msgid "Credit Card"
 msgstr ""
 #
@@ -3038,7 +3040,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 82
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 120
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 145
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 46
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 47
 msgid "Airline"
 msgstr ""
 #
@@ -3535,6 +3537,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 122
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 50
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 69
 # File: module/b2b/view/b2b/agents/add.phtml, line: 57
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 88
 # File: module/b2b/view/b2b/agents/index.phtml, line: 44
@@ -3992,7 +3995,7 @@ msgstr ""
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 65
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 98
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 113
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 237
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 238
 # File: module/b2b/view/b2b/customers/index.phtml, line: 247
 # File: module/b2b/view/b2b/customers/index.phtml, line: 397
 msgid "Name"
@@ -4069,7 +4072,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 30
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 341
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 399
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 94
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 95
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 150
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 238
@@ -4446,8 +4449,8 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 47
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 555
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 263
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 40
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 32
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 41
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 60
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 39
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 124
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 144
@@ -4498,7 +4501,7 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 559
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 266
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 28
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 49
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 50
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 23
 # File: module/b2b/view/b2b/booking/sendtermsandconditions.phtml, line: 23
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 25
@@ -6018,7 +6021,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 646
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 38
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 237
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 238
 # File: module/b2b/view/b2b/customers/index.phtml, line: 247
 # File: module/b2b/view/b2b/customers/index.phtml, line: 280
 # File: module/b2b/view/b2b/customers/index.phtml, line: 311
@@ -6054,7 +6057,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 55
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 565
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 272
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 50
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 51
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 131
 # File: module/b2b/view/b2b/agents/index.phtml, line: 46
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 151
@@ -6070,8 +6073,8 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 112
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 72
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 47
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 120
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 242
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 121
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 243
 # File: module/b2b/view/b2b/customers/index.phtml, line: 257
 # File: module/b2b/view/b2b/customers/index.phtml, line: 290
 # File: module/b2b/view/b2b/customers/index.phtml, line: 317
@@ -6082,7 +6085,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 121
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 54
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 138
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 139
 # File: module/b2b/view/b2b/customers/index.phtml, line: 344
 msgid "Please input subject!"
 msgstr ""
@@ -6107,7 +6110,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 30
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 478
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 508
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 228
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 229
 # File: module/b2b/view/b2b/customers/index.phtml, line: 237
 # File: module/b2b/view/b2b/customers/index.phtml, line: 388
 msgid "Please Select"
@@ -6166,7 +6169,7 @@ msgid "Screenshot"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 51
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 45
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 46
 msgid "Air Route"
 msgstr ""
 #
@@ -6181,7 +6184,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 325
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 341
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 399
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 94
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 95
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 238
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 284
@@ -6196,7 +6199,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 81
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 341
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 399
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 94
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 95
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 238
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 284
@@ -7689,7 +7692,7 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 267
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 9
 # File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 8
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 42
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 43
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 34
 # File: module/b2b/view/b2b/booking/sendtermsandconditions.phtml, line: 34
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 9
@@ -8265,7 +8268,7 @@ msgstr ""
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 9
 # File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 8
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 8
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 72
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 73
 msgid "Telemarketing"
 msgstr ""
 #
@@ -9561,7 +9564,7 @@ msgid "Customer Details"
 msgstr ""
 #
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 9
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 75
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 76
 msgid "Send Whatsapp"
 msgstr ""
 #
@@ -9837,47 +9840,47 @@ msgstr ""
 msgid "Countries"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 29
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 31
 msgid "Select Whatsapp Template"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 31
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 32
 msgid "World's Best Places to Visit"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 47
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 48
 msgid "Travel Dates"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 76
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 77
 msgid "Send Whatsapp Template"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 80
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 81
 msgid "Send Text Message"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 84
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 85
 msgid "Send Email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 94
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 95
 # File: module/b2b/view/b2b/customers/index.phtml, line: 201
 msgid "customers"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 126
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 132
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 127
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 133
 # File: module/b2b/view/b2b/customers/index.phtml, line: 332
 # File: module/b2b/view/b2b/customers/index.phtml, line: 338
 msgid "Please select promotion!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 174
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 175
 msgid "Please select template!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 214
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 215
 # File: module/b2b/view/b2b/agents/index.phtml, line: 69
 # File: module/b2b/view/b2b/customers/index.phtml, line: 189
 # File: module/b2b/view/b2b/customers/index.phtml, line: 224
@@ -9885,7 +9888,7 @@ msgstr ""
 msgid "Send Promotion"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 225
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 226
 # File: module/b2b/view/b2b/customers/index.phtml, line: 234
 # File: module/b2b/view/b2b/customers/index.phtml, line: 385
 msgid "Select Promotion"
@@ -10121,14 +10124,14 @@ msgid "Net"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 78
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 47
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 76
 msgid "Memo"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 83
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 61
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 64
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 50
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 79
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 79
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 61
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 67
@@ -10187,7 +10190,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 149
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 120
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 86
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 135
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 156
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 102
 msgid "Total is required. Please input total."
@@ -10207,7 +10210,7 @@ msgid "Cancellation Policy is required. Please input cancellation policy."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 169
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 91
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 140
 msgid "Memo is required. Please input memo."
 msgstr ""
 #
@@ -10340,37 +10343,73 @@ msgstr ""
 msgid "Email will be sent in the next couple of minutes."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 30
-msgid "Payment Reference"
-msgstr ""
-#
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 35
-msgid "Cash"
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 38
+msgid "Total Payment"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 41
-msgid "Wire Transfer"
+msgid "1st Payment"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 44
-msgid "Amount Paid"
+msgid "2nd Payment"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 47
+msgid "3rd Payment"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 51
+msgid "Cash"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 58
+msgid "Receipt Number"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 63
+msgid "Amount"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 66
+msgid "Reference/PNR"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 73
+msgid "Amount Paid"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 95
 msgid "Payment name is required. Please input payment name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 71
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 100
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 82
 msgid "Date is required. Please input date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 76
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 105
 msgid "Payment Reference is required. Please input payment reference."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 81
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 110
+msgid "Payment Method is required. Please input payment method."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 115
 msgid "Payment Type is required. Please input payment type."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 120
+msgid "Receipt Number is required. Please input receipt number."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 125
+msgid "Payment Amount is required. Please input payment amount."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 130
+msgid "Payment Account Id is required. Please input account id."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 62
