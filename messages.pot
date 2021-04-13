@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 15:21-0400\n"
+"POT-Creation-Date: 2021-04-13 17:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -160,9 +160,9 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/results.phtml, line: 37
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 14
 # File: module/b2b/view/b2b/admin/contacts.phtml, line: 24
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 496
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 518
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 540
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 541
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 563
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 585
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 252
 msgid "All"
 msgstr ""
@@ -331,9 +331,9 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 242
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 252
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 266
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 562
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 775
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 805
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 607
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 822
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 852
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 124
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 170
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 170
@@ -399,7 +399,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 241
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 251
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 265
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 563
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 608
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 169
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 169
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 811
@@ -1076,7 +1076,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 681
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 685
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 723
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 564
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 609
 # File: module/b2b/view/b2b/packages/book.phtml, line: 190
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 466
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 470
@@ -1145,7 +1145,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 27
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
 # File: module/b2b/view/b2b/dp/index.phtml, line: 77
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 556
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 601
 # File: module/b2b/view/b2b/packages/details.phtml, line: 28
 # File: module/b2b/view/b2b/packages/details.phtml, line: 120
 # File: module/b2b/view/b2b/packages/search.phtml, line: 29
@@ -1173,7 +1173,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 28
 # File: module/b2b/view/b2b/dp/index.phtml, line: 81
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 557
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 602
 # File: module/b2b/view/b2b/packages/details.phtml, line: 29
 # File: module/b2b/view/b2b/packages/details.phtml, line: 121
 # File: module/b2b/view/b2b/packages/search.phtml, line: 30
@@ -1324,8 +1324,8 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/results.phtml, line: 696
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 71
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 190
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 338
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 658
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 361
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 703
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 98
 # File: module/b2b/view/b2b/packages/search.phtml, line: 181
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 76
@@ -1451,7 +1451,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 47
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 25
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 79
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 489
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 534
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 20
 # File: module/b2b/view/b2b/packages/search.phtml, line: 96
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 108
@@ -2183,8 +2183,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 77
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 460
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 519
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 789
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 819
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 836
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 866
 # File: module/b2b/view/b2b/packages/details.phtml, line: 226
 # File: module/b2b/view/b2b/packages/details.phtml, line: 351
 # File: module/b2b/view/b2b/packages/view.phtml, line: 207
@@ -2529,7 +2529,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 80
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 123
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 291
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 681
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 208
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 379
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 728
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 17
 # File: module/b2b/view/b2b/booking/index.phtml, line: 500
 msgid "Add Flight"
@@ -2538,7 +2540,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 84
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 127
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 292
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 680
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 207
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 378
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 727
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 17
 # File: module/b2b/view/b2b/booking/index.phtml, line: 499
 msgid "Add Hotel"
@@ -2835,7 +2839,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 103
 # File: module/b2b/view/b2b/shared/bookpayments.phtml, line: 182
 # File: module/b2b/view/b2b/shared/pagoefectivo.phtml, line: 46
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 560
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 605
 # File: module/b2b/view/b2b/booking/index.phtml, line: 103
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 109
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 129
@@ -3594,8 +3598,8 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/languages.phtml, line: 50
 # File: module/b2b/view/b2b/admin/moremenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/b2bfootermenu.phtml, line: 56
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 829
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 839
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 876
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 886
 msgid "No"
 msgstr ""
 #
@@ -3622,8 +3626,8 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/moremenu.phtml, line: 58
 # File: module/b2b/view/b2b/admin/b2bfootermenu.phtml, line: 56
 # File: module/b2b/view/b2b/admin/b2bfootermenu.phtml, line: 58
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 830
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 840
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 877
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 887
 msgid "Yes"
 msgstr ""
 #
@@ -4058,8 +4062,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 20
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 159
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 258
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 394
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 706
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 439
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 753
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 265
 # File: module/b2b/view/b2b/flights/results.phtml, line: 260
 # File: module/b2b/view/b2b/flights/results.phtml, line: 333
@@ -4447,7 +4451,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/tours/view.phtml, line: 573
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 47
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 555
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 600
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 263
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 41
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 52
@@ -4498,7 +4502,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 75
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 37
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 54
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 559
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 604
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 266
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 28
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 50
@@ -5901,24 +5905,24 @@ msgid "Hotels"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 25
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 756
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 803
 msgid "Cars"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 30
 # File: module/b2b/view/b2b/dp/index.phtml, line: 66
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 758
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 805
 # File: module/b2b/view/b2b/btob/details.phtml, line: 152
 msgid "Transfers"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 35
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 759
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 806
 msgid "Activities"
 msgstr ""
 #
 # File: module/b2b/view/b2b/dp/index.phtml, line: 40
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 760
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 807
 # File: module/b2b/view/b2b/btob/details.phtml, line: 168
 msgid "Cruises"
 msgstr ""
@@ -5964,7 +5968,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 58
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 17
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 58
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 754
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 801
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 388
 # File: module/b2b/view/b2b/packages/search.phtml, line: 173
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 384
@@ -6045,17 +6049,17 @@ msgid "City Pair"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 69
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 770
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 771
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 800
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 801
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 817
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 818
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 847
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 848
 # File: module/b2b/view/b2b/customers/index.phtml, line: 137
 msgid "Customer Name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 76
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 55
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 565
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 610
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 272
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 51
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 131
@@ -6117,8 +6121,8 @@ msgid "Please Select"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 43
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 782
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 812
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 829
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 859
 # File: module/b2b/view/b2b/packages/details.phtml, line: 348
 # File: module/b2b/view/b2b/customers/index.phtml, line: 250
 # File: module/b2b/view/b2b/customers/index.phtml, line: 285
@@ -6178,8 +6182,8 @@ msgid "Private"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 81
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 394
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 706
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 439
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 753
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 151
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 325
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 341
@@ -7221,7 +7225,9 @@ msgid "Meal"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 293
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 682
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 209
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 380
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 729
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 17
 # File: module/b2b/view/b2b/booking/index.phtml, line: 501
 msgid "Add Activity"
@@ -7232,7 +7238,9 @@ msgid "Add Car"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 295
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 683
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 210
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 381
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 730
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 17
 # File: module/b2b/view/b2b/booking/index.phtml, line: 502
 msgid "Add Transfer"
@@ -7688,7 +7696,7 @@ msgid "Tax Recovery Charges & Service Fees"
 msgstr ""
 #
 # File: module/b2b/view/b2b/password/index.phtml, line: 8
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 561
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 606
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 267
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 9
 # File: module/b2b/view/b2b/telemarketing/transfer.phtml, line: 8
@@ -7751,29 +7759,29 @@ msgid "Password mismatch"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 118
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 265
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 571
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 288
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 616
 msgid "Inv."
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 192
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 340
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 660
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 790
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 363
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 705
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 837
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 8
 # File: module/b2b/view/b2b/booking/index.phtml, line: 494
 msgid "Send Payment Notice"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 193
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 341
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 661
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 364
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 706
 msgid "Send Terms & Conditions Notice"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 194
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 342
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 662
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 365
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 707
 # File: module/b2b/view/b2b/booking/index.phtml, line: 495
 # File: module/b2b/view/shared/nav.phtml, line: 195
 # File: module/b2b/view/shared/nav.phtml, line: 211
@@ -7781,350 +7789,374 @@ msgid "Cancel"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 198
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 346
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 666
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 369
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 711
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 60
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 75
 # File: module/b2b/view/b2b/booking/index.phtml, line: 496
 msgid "Voucher"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 394
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 706
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 204
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 375
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 724
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
+# File: module/b2b/view/b2b/booking/index.phtml, line: 513
+msgid "Add Payment"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 204
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 375
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 724
+msgid "Settlement"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 211
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 382
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 731
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 17
+# File: module/b2b/view/b2b/booking/index.phtml, line: 503
+msgid "Add Car Rental"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 212
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 383
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 732
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 17
+# File: module/b2b/view/b2b/booking/index.phtml, line: 504
+msgid "Add Cruise"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 214
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 385
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 734
+# File: module/b2b/view/b2b/booking/index.phtml, line: 506
+msgid "Add Offline Hotel"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 215
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 386
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 735
+# File: module/b2b/view/b2b/booking/index.phtml, line: 507
+msgid "Add Offline Flight"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 216
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 387
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 736
+# File: module/b2b/view/b2b/booking/index.phtml, line: 508
+msgid "Add Offline Activity"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 217
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 388
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 737
+# File: module/b2b/view/b2b/booking/index.phtml, line: 509
+msgid "Add Offline Transfer"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 218
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 389
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 738
+# File: module/b2b/view/b2b/booking/index.phtml, line: 510
+msgid "Add Offline Car Rental"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 219
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 390
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 739
+# File: module/b2b/view/b2b/booking/index.phtml, line: 511
+msgid "Add Offline Cruise"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 221
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 392
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 741
+# File: module/b2b/view/b2b/booking/index.phtml, line: 514
+# File: module/b2b/view/layout/admin.phtml, line: 342
+msgid "Invoice"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 222
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 393
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 742
+# File: module/b2b/view/b2b/booking/index.phtml, line: 515
+msgid "Collections Document"
+msgstr ""
+#
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 439
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 753
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 178
 msgid "reservations"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 470
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 515
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 20
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 23
 msgid "Reservations"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 494
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 539
 msgid "Departments"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 495
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 540
 # File: module/b2b/view/b2b/booking/index.phtml, line: 162
 # File: module/b2b/view/b2b/booking/index.phtml, line: 165
 msgid "Reservation Status"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 497
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 542
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 30
 msgid "New Reservation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 498
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 543
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 34
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 73
 msgid "Reservation Pending"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 499
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 544
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 37
 msgid "Reservation Confirmed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 500
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 545
 # File: module/b2b/view/b2b/booking/index.phtml, line: 162
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 40
 msgid "Reservation Cancelled"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 501
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 546
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 43
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 502
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 547
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 45
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 46
 msgid "Checked In"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 503
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 548
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 49
 msgid "Checked Out"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 504
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 549
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 60
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 61
 msgid "Queue Reservation for Processing"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 505
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 550
 # File: module/b2b/view/b2b/booking/index.phtml, line: 165
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 64
 msgid "Queue Reservation for Cancellation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 506
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 551
 msgid "Pending Review - Fraud"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 507
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 552
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 52
 msgid "Complete"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 508
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 528
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 553
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 573
 # File: module/b2b/view/b2b/booking/index.phtml, line: 136
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 55
 msgid "Exception"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 509
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 532
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 554
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 577
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 57
 # File: module/b2b/view/b2b/booking/index.phtml, line: 139
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 58
 msgid "Supervisor Action Required"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 510
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 555
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 70
 msgid "Recovered/Rescued Booking"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 517
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 562
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 25
 msgid "Payment Status"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 519
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 564
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 30
 # File: module/b2b/view/b2b/booking/index.phtml, line: 108
 msgid "Awaiting Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 520
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 565
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 33
 # File: module/b2b/view/b2b/booking/index.phtml, line: 112
 # File: module/b2b/view/b2b/booking/index.phtml, line: 142
 msgid "Payment Received"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 521
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 566
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 36
 # File: module/b2b/view/b2b/booking/index.phtml, line: 115
 msgid "Payment Refunded"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 522
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 567
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 39
 # File: module/b2b/view/b2b/booking/index.phtml, line: 118
 msgid "Chargeback"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 523
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 568
 # File: module/b2b/view/b2b/booking/index.phtml, line: 121
 msgid "Payment On Hold"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 524
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 569
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 42
 # File: module/b2b/view/b2b/booking/index.phtml, line: 124
 msgid "Partially Paid"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 525
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 570
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 48
 # File: module/b2b/view/b2b/booking/index.phtml, line: 127
 msgid "Awaiting Refund"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 526
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 571
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 51
 # File: module/b2b/view/b2b/booking/index.phtml, line: 130
 msgid "Awaiting Capture"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 527
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 572
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 54
 # File: module/b2b/view/b2b/booking/index.phtml, line: 133
 msgid "Payment Cancelled"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 529
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 574
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 63
 msgid "Payment Failed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 530
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 575
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 66
 msgid "Queue Payment for Processing"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 531
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 576
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 69
 msgid "GDS Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 539
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 584
 msgid "Sub Agents"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 553
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 598
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 262
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 123
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 143
 msgid "Id"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 554
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 599
 msgid "Channel"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 558
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 603
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 265
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 127
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 147
 msgid "Item"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 672
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 717
 # File: module/b2b/view/b2b/booking/index.phtml, line: 497
 msgid "Cancel Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 678
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
-# File: module/b2b/view/b2b/booking/index.phtml, line: 513
-msgid "Add Payment"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 678
-msgid "Settlement"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 684
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 17
-# File: module/b2b/view/b2b/booking/index.phtml, line: 503
-msgid "Add Car Rental"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 685
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 17
-# File: module/b2b/view/b2b/booking/index.phtml, line: 504
-msgid "Add Cruise"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 687
-# File: module/b2b/view/b2b/booking/index.phtml, line: 506
-msgid "Add Offline Hotel"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 688
-# File: module/b2b/view/b2b/booking/index.phtml, line: 507
-msgid "Add Offline Flight"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 689
-# File: module/b2b/view/b2b/booking/index.phtml, line: 508
-msgid "Add Offline Activity"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 690
-# File: module/b2b/view/b2b/booking/index.phtml, line: 509
-msgid "Add Offline Transfer"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 691
-# File: module/b2b/view/b2b/booking/index.phtml, line: 510
-msgid "Add Offline Car Rental"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 692
-# File: module/b2b/view/b2b/booking/index.phtml, line: 511
-msgid "Add Offline Cruise"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 694
-# File: module/b2b/view/b2b/booking/index.phtml, line: 514
-# File: module/b2b/view/layout/admin.phtml, line: 342
-msgid "Invoice"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 695
-# File: module/b2b/view/b2b/booking/index.phtml, line: 515
-msgid "Collections Document"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 729
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 776
 msgid "Confirmed"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 733
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 780
 msgid "Cancelled"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 737
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 784
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 375
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 845
 msgid "Pending"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 741
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 788
 msgid "Processing"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 745
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 792
 msgid "Airline GDS Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 749
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 796
 msgid "Supervisor Required"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 753
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 800
 msgid "Sub Agent Booking"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 755
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 802
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 372
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 368
 msgid "Air"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 757
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 804
 msgid "Tours"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 765
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 812
 msgid "Payment Notice"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 774
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 804
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 821
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 851
 # File: module/b2b/view/b2b/bounces/index.phtml, line: 72
 msgid "Customer Email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 795
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 842
 msgid "Terms & Conditions Notification"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 820
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 867
 msgid "Send Terms & Conditions"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 825
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 872
 msgid "Cancel Reservation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 826
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 873
 msgid "Are you sure you want to cancel this reservation?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 835
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 882
 msgid "Cancel Reservation Payment"
 msgstr ""
 #
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 836
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 883
 msgid "Are you sure you want to cancel this reservation payment?"
 msgstr ""
 #
