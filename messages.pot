@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:30-0400\n"
+"POT-Creation-Date: 2021-04-14 16:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -437,7 +437,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 59
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 264
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 538
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 543
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 49
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 338
 # File: module/b2b/view/b2b/packages/details.phtml, line: 306
@@ -1133,10 +1133,10 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 28
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 100
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 344
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 572
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 586
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 600
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 614
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 577
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 591
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 605
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 619
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 95
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 36
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 75
@@ -2416,43 +2416,43 @@ msgstr ""
 msgid "This experience requires a minimum number of travelers. If it's canceled because the minimum isn't met, you'll be offered a different date/experience or a full refund."
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 520
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 528
 # File: module/b2b/view/b2b/packages/details.phtml, line: 288
 msgid "Duration"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 534
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 539
 # File: module/b2b/view/b2b/packages/details.phtml, line: 302
 msgid "Voucher Type"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 535
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 540
 # File: module/b2b/view/b2b/packages/details.phtml, line: 303
 msgid "Departure Details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 536
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 541
 # File: module/b2b/view/b2b/packages/details.phtml, line: 304
 msgid "Return Details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 537
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 542
 # File: module/b2b/view/b2b/packages/details.phtml, line: 305
 msgid "Language Guides"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 541
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 546
 msgid "Reviews"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 547
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 552
 msgid "Logistics"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 572
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 586
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 600
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 614
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 577
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 591
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 605
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 619
 msgid "per night"
 msgstr ""
 #
