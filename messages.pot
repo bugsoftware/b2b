@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-15 05:41-0400\n"
+"POT-Creation-Date: 2021-04-15 07:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -238,7 +238,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 110
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 34
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 28
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 452
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 484
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 169
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 208
@@ -275,7 +275,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 111
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 35
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 29
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 453
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 485
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 170
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 191
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 209
@@ -323,7 +323,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 93
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 70
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 45
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 454
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 486
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 86
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 130
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 180
@@ -391,7 +391,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 82
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 92
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 72
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 455
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 487
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 85
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 129
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 179
@@ -715,6 +715,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/searching.phtml, line: 45
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 527
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 306
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 377
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 831
 # File: module/b2b/view/b2b/password/index.phtml, line: 77
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 13
@@ -2015,7 +2016,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/view.phtml, line: 740
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 150
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 148
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 301
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 302
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 361
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 314
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 314
@@ -2181,8 +2182,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 245
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 77
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 460
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 519
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 492
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 551
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 836
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 866
 # File: module/b2b/view/b2b/packages/details.phtml, line: 226
@@ -2521,7 +2522,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/currency.phtml, line: 64
 # File: module/b2b/view/b2b/admin/currency.phtml, line: 69
 # File: module/b2b/view/b2b/cars/results.phtml, line: 111
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 469
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 501
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 69
 msgid "Currency"
 msgstr ""
@@ -3155,12 +3156,12 @@ msgid "Booking"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 30
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 468
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 500
 msgid "Going to"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 30
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 468
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 500
 msgid "Enter Destination or Hotel/Resort Name"
 msgstr ""
 #
@@ -6019,7 +6020,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 39
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 40
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 457
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 489
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 813
 # File: module/b2b/view/b2b/flights/results.phtml, line: 620
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
@@ -6107,13 +6108,13 @@ msgid "Create Promotion/Newsletter"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 27
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 475
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 507
 msgid "Select Template"
 msgstr ""
 #
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 30
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 478
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 508
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 510
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 540
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 229
 # File: module/b2b/view/b2b/customers/index.phtml, line: 237
 # File: module/b2b/view/b2b/customers/index.phtml, line: 388
@@ -7247,8 +7248,8 @@ msgid "Add Transfer"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 298
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 450
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 460
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 482
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 492
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 635
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 806
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 816
@@ -7265,42 +7266,50 @@ msgid "Send Quote"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 299
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 464
-msgid "Create Promotional Newsletter"
+msgid "Create Package"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 300
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 496
+msgid "Create Promotional Newsletter"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 301
 msgid "Continue Shopping"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 322
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 323
 msgid "Your basket is currently empty. Please add a product or more performing a search."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 322
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 323
 msgid "Click \"Add to Cart\" to add items in your shopping cart. Once you click on this, the product is added to your shopping cart, which you can access through their link."
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 456
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 388
+msgid "View Package"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 488
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 812
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 270
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 60
 msgid "Markup"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 466
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 498
 msgid "Promotional Newsletter Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 505
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 537
 msgid "Select Image"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 509
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 541
 msgid "Reset Image"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cart/cart.phtml, line: 519
+# File: module/b2b/view/b2b/cart/cart.phtml, line: 551
 msgid "Create Newsletter"
 msgstr ""
 #
