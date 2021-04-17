@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 09:56-0400\n"
+"POT-Creation-Date: 2021-04-17 06:25-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7331,6 +7331,7 @@ msgid "Click \"Add to Cart\" to add items in your shopping cart. Once you click 
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 391
+# File: module/b2b/view/b2b/packages/details.phtml, line: 157
 msgid "View Package"
 msgstr ""
 #
