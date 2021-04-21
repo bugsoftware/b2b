@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-21 06:34-0400\n"
+"POT-Creation-Date: 2021-04-21 07:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -768,7 +768,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 173
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 116
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 124
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 133
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 150
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 165
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 116
@@ -3159,6 +3159,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/paypal.phtml, line: 58
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 30
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
 # File: module/b2b/view/b2b/booking/sendtermsandconditions.phtml, line: 30
 msgid "Booking"
 msgstr ""
@@ -8144,6 +8145,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 790
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 375
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 845
 msgid "Pending"
 msgstr ""
@@ -9028,6 +9030,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 943
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1253
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
 msgid "Booking Total"
 msgstr ""
 #
@@ -10314,7 +10317,7 @@ msgid "Cancellation Policy is required. Please input cancellation policy."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 169
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 129
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 146
 msgid "Memo is required. Please input memo."
 msgstr ""
 #
@@ -10499,21 +10502,33 @@ msgstr ""
 msgid "Approval Number is required. Please input approval number."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 103
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 102
+msgid "Invalid Approval Number."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 108
 # File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 82
 msgid "Date is required. Please input date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 112
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 117
 msgid "Payment Amount is required. Please input payment amount."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 118
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 123
+msgid "Payment Amount is invalid."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 129
 msgid "Payment Reference is required. Please input payment reference."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 124
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 135
 msgid "Payment Account Id is required. Please input account id."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addpayment.phtml, line: 141
+msgid "Invalid Account Id."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 62
