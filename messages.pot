@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-23 02:19-0400\n"
+"POT-Creation-Date: 2021-04-23 04:21-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2292,7 +2292,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 623
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 376
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 649
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 257
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 259
 # File: module/b2b/view/b2b/customers/index.phtml, line: 256
 # File: module/b2b/view/b2b/customers/index.phtml, line: 290
 # File: module/b2b/view/b2b/customers/index.phtml, line: 401
@@ -4099,7 +4099,7 @@ msgstr ""
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 65
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 98
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 113
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 253
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 255
 # File: module/b2b/view/b2b/customers/index.phtml, line: 247
 # File: module/b2b/view/b2b/customers/index.phtml, line: 397
 msgid "Name"
@@ -6122,7 +6122,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 373
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 646
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 38
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 253
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 255
 # File: module/b2b/view/b2b/customers/index.phtml, line: 247
 # File: module/b2b/view/b2b/customers/index.phtml, line: 280
 # File: module/b2b/view/b2b/customers/index.phtml, line: 311
@@ -6175,7 +6175,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 72
 # File: module/b2b/view/b2b/telemarketing/whatsapp.phtml, line: 47
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 132
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 258
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 260
 # File: module/b2b/view/b2b/customers/index.phtml, line: 257
 # File: module/b2b/view/b2b/customers/index.phtml, line: 290
 # File: module/b2b/view/b2b/customers/index.phtml, line: 317
@@ -6211,7 +6211,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 30
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 513
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 543
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 244
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 246
 # File: module/b2b/view/b2b/customers/index.phtml, line: 237
 # File: module/b2b/view/b2b/customers/index.phtml, line: 388
 msgid "Please Select"
@@ -10042,15 +10042,15 @@ msgstr ""
 msgid "Please select promotion!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 186
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 188
 msgid "Please select template!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 189
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 191
 msgid "Where do you want to go?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 230
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 232
 # File: module/b2b/view/b2b/agents/index.phtml, line: 69
 # File: module/b2b/view/b2b/customers/index.phtml, line: 189
 # File: module/b2b/view/b2b/customers/index.phtml, line: 224
@@ -10058,7 +10058,7 @@ msgstr ""
 msgid "Send Promotion"
 msgstr ""
 #
-# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 241
+# File: module/b2b/view/b2b/telemarketing/index.phtml, line: 243
 # File: module/b2b/view/b2b/customers/index.phtml, line: 234
 # File: module/b2b/view/b2b/customers/index.phtml, line: 385
 msgid "Select Promotion"
