@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 11:35-0400\n"
+"POT-Creation-Date: 2021-04-27 17:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -238,7 +238,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 110
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 34
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 225
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 240
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 239
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 28
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 487
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 169
@@ -277,7 +277,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 111
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 35
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 226
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 241
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 240
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 29
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 488
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 170
@@ -2278,7 +2278,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 245
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 233
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 246
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 245
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 77
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 495
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 554
@@ -6115,7 +6115,7 @@ msgstr ""
 # File: module/b2b/view/b2b/newsletters/send.phtml, line: 39
 # File: module/b2b/view/b2b/newsletters/add.phtml, line: 40
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 230
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 243
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 242
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 492
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 813
 # File: module/b2b/view/b2b/flights/results.phtml, line: 620
@@ -6405,16 +6405,16 @@ msgstr ""
 msgid "Markup"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 238
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 237
 msgid "Send Quote by Whatsapp"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 242
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 241
 # File: module/b2b/view/b2b/customers/index.phtml, line: 307
 msgid "Whatsapp Phone Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 246
+# File: module/b2b/view/b2b/cruises/cabins.phtml, line: 245
 msgid "Send Whatsapp Quote"
 msgstr ""
 #
