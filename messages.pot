@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 17:14-0400\n"
+"POT-Creation-Date: 2021-04-28 01:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6698,6 +6698,12 @@ msgstr ""
 msgid "from"
 msgstr ""
 #
+# File: module/b2b/view/b2b/cruises/search.phtml, line: 218
+# File: module/b2b/view/b2b/hotels/results.phtml, line: 646
+# File: module/b2b/view/b2b/hotels/chain.phtml, line: 293
+msgid "View on map"
+msgstr ""
+#
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 219
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 185
 msgid "Port of Departure"
@@ -8888,11 +8894,6 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 354
 # File: module/b2b/view/shared/nav.phtml, line: 183
 msgid "More"
-msgstr ""
-#
-# File: module/b2b/view/b2b/hotels/results.phtml, line: 646
-# File: module/b2b/view/b2b/hotels/chain.phtml, line: 293
-msgid "View on map"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 648
