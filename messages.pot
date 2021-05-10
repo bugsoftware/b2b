@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-10 05:50-0400\n"
+"POT-Creation-Date: 2021-05-10 05:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9213,16 +9213,16 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 221
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 222
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 246
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 247
-msgid "Flight Arrival Date"
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 250
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 251
+msgid "Flight Departure Date"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 225
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 226
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 250
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 251
-msgid "Flight Departure Date"
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 246
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 247
+msgid "Flight Arrival Date"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 230
