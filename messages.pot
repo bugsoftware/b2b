@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-17 10:21-0400\n"
+"POT-Creation-Date: 2021-05-17 11:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -266,8 +266,9 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 48
 # File: module/b2b/view/b2b/customers/import.phtml, line: 30
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 196
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 289
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 197
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 235
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 262
 msgid "First Name"
 msgstr ""
 #
@@ -306,8 +307,9 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 49
 # File: module/b2b/view/b2b/customers/import.phtml, line: 31
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 197
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 290
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 198
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 236
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 263
 msgid "Last Name"
 msgstr ""
 #
@@ -368,8 +370,9 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 # File: module/b2b/view/b2b/customers/index.phtml, line: 138
 # File: module/b2b/view/b2b/customers/index.phtml, line: 276
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 213
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 293
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 214
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 239
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
 # File: module/b2b/view/login/index.phtml, line: 92
 msgid "Email"
 msgstr ""
@@ -431,7 +434,8 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 84
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 # File: module/b2b/view/b2b/customers/index.phtml, line: 140
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 292
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 238
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 265
 # File: module/b2b/view/b2b/bounces/index.phtml, line: 73
 msgid "Phone"
 msgstr ""
@@ -482,7 +486,7 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/index.phtml, line: 42
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 # File: module/b2b/view/b2b/customers/index.phtml, line: 139
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 199
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 200
 msgid "Address"
 msgstr ""
 #
@@ -497,7 +501,7 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 79
 # File: module/b2b/view/b2b/customers/add.phtml, line: 45
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 102
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 211
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 212
 msgid "Choose your country"
 msgstr ""
 #
@@ -518,7 +522,7 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/add.phtml, line: 45
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 102
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 211
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 212
 msgid "Country"
 msgstr ""
 #
@@ -550,7 +554,7 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/add.phtml, line: 47
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 104
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 203
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 204
 msgid "City"
 msgstr ""
 #
@@ -1152,8 +1156,8 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 130
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 150
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 569
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 99
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 385
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 101
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 396
 # File: module/b2b/view/shared/nav.phtml, line: 100
 # File: module/b2b/view/shared/nav.phtml, line: 112
 # File: module/b2b/view/shared/nav.phtml, line: 124
@@ -1749,7 +1753,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 138
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 47
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 47
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 182
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 183
 msgid "We respect your customers and are committed to protecting your data. This is your customer, this is your data. We take your privacy seriously and will not use this data for any other purposes."
 msgstr ""
 #
@@ -1762,7 +1766,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 141
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 50
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 50
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 183
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 184
 msgid "This information will not be used or shared with anyone. It will be used to generate your reservation and send service-related emails under your brand, under your name, under your company."
 msgstr ""
 #
@@ -1775,7 +1779,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 144
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 53
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 53
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 184
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 185
 msgid "Guest's first name, last name, email address, and phone number are required. This information will not be shared or used by anyone."
 msgstr ""
 #
@@ -1889,8 +1893,9 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 35
 # File: module/b2b/view/b2b/customers/add.phtml, line: 27
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 46
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 194
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 291
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 195
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 237
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 264
 msgid "Title"
 msgstr ""
 #
@@ -1965,8 +1970,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
 # File: module/b2b/view/b2b/booking/index.phtml, line: 326
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 191
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 291
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 192
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 237
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 264
 msgid "Mr"
 msgstr ""
 #
@@ -2009,8 +2015,9 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 89
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 107
 # File: module/b2b/view/b2b/booking/index.phtml, line: 326
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 192
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 291
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 193
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 237
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 264
 msgid "Ms"
 msgstr ""
 #
@@ -2061,8 +2068,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 119
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 331
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1317
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 282
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 301
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 300
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 312
 msgid "Non Refundable"
 msgstr ""
 #
@@ -2080,8 +2087,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 144
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 333
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 356
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 284
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 303
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 302
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 314
 msgid "Last cancellation date"
 msgstr ""
 #
@@ -2128,7 +2135,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 394
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 142
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 136
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 319
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 330
 msgid "COMPLETE BOOKING"
 msgstr ""
 #
@@ -2819,7 +2826,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 53
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 44
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 38
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 206
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 207
 msgid "State"
 msgstr ""
 #
@@ -2974,11 +2981,11 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlines.phtml, line: 14
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 86
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 54
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 88
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 127
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 346
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 376
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 357
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 387
 msgid "One Way"
 msgstr ""
 #
@@ -4372,28 +4379,28 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 276
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 45
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 45
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 284
 msgid "Coupons"
 msgstr ""
 #
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 94
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 99
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 62
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 284
 msgid "Do you have a Coupon Code?"
 msgstr ""
 #
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 94
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 99
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 62
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 284
 msgid "Please type your coupon here"
 msgstr ""
 #
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 94
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 99
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 62
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 266
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 284
 msgid "Invalid coupon code"
 msgstr ""
 #
@@ -4438,8 +4445,8 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/index.phtml, line: 299
 # File: module/b2b/view/b2b/booking/index.phtml, line: 386
 # File: module/b2b/view/b2b/booking/index.phtml, line: 472
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 280
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 299
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 298
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 310
 msgid "Cancellation Policies"
 msgstr ""
 #
@@ -4450,7 +4457,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 259
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 127
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 339
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 310
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 321
 msgid "NOTE: Cancellation policies are based on local destination time."
 msgstr ""
 #
@@ -4468,7 +4475,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 392
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 136
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 130
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 317
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 328
 msgid "By selecting to complete this booking I acknowledge that I have read and accept the terms & conditions and privacy policy."
 msgstr ""
 #
@@ -5661,8 +5668,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 586
 # File: module/b2b/view/b2b/booking/index.phtml, line: 355
 # File: module/b2b/view/b2b/booking/index.phtml, line: 414
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 46
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 79
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 47
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 81
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 354
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 413
 msgid "Passengers"
@@ -5764,7 +5771,7 @@ msgid "Mandatory fees paid at the counter:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/confirm.phtml, line: 107
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 106
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 108
 msgid "Contact info"
 msgstr ""
 #
@@ -5880,14 +5887,14 @@ msgstr ""
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 47
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 41
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 209
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 210
 msgid "Zip/Postal Code"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 50
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 44
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 69
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 212
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 213
 msgid "Phone Number"
 msgstr ""
 #
@@ -6519,8 +6526,8 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/index.phtml, line: 390
 # File: module/b2b/view/b2b/booking/index.phtml, line: 442
 # File: module/b2b/view/b2b/booking/index.phtml, line: 478
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 352
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 382
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 363
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 393
 msgid "Subtotal"
 msgstr ""
 #
@@ -7045,8 +7052,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 147
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 141
 # File: module/b2b/view/b2b/booking/index.phtml, line: 225
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 234
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 252
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 243
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 270
 msgid "Flight details"
 msgstr ""
 #
@@ -7245,17 +7252,17 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 685
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 708
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 34
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 58
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 67
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 91
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 231
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 249
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 280
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 299
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 325
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 351
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 355
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 381
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 59
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 68
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 93
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 232
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 259
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 298
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 310
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 336
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 362
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 366
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 392
 msgid "Journey"
 msgstr ""
 #
@@ -7263,32 +7270,32 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 100
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 698
 # File: module/b2b/view/b2b/booking/index.phtml, line: 356
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 47
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 80
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 48
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 82
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 355
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 414
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 340
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 370
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 351
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 381
 msgid "Suitcase per person"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 209
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 103
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 703
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 52
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 85
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 345
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 375
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 87
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 356
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 386
 msgid "Passengers:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 210
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 704
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 84
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 53
-# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 86
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 346
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 376
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 54
+# File: module/b2b/view/b2b/transfers/confirm.phtml, line: 88
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 357
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 387
 msgid "Round Trip"
 msgstr ""
 #
@@ -7543,67 +7550,67 @@ msgid "Frequent Flyer Number"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 254
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 220
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 221
 msgid "Location pick-up/drop off details & requests"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 257
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 223
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 224
 msgid "Specify the name of drop off/pick up location"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 258
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 224
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 225
 msgid "Hotel / Villa / Apartment address"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 259
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 225
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 226
 msgid "Hotel / Villa / Apartment address (use if needed)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 260
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 226
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 227
 msgid "Requests"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 263
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 231
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 249
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 232
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 259
 msgid "Travel information"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 269
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 237
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 255
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 246
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 273
 msgid "Please provide your flight details so our pick-up representative can check the status of your flight. If you are travelling on a connecting flight we require the final leg of your trip only."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 270
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 238
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 247
 msgid "Airport you're flying from?"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 271
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 239
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 257
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 248
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 275
 msgid "Flight number"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 272
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 240
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 258
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 249
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 276
 msgid "Airline name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 273
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 241
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 259
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 250
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 277
 msgid "Your pickup time is"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 275
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 243
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 252
 msgid "We need your full flight number (including airline code, for example: ABC1122). If you are travelling on a connecting flight we need the details of your final leg only."
 msgstr ""
 #
@@ -7805,14 +7812,14 @@ msgid "price"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 681
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 325
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 355
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 336
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 366
 msgid "Transfer details"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 697
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 339
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 369
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 350
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 380
 msgid "Passenger(s)"
 msgstr ""
 #
@@ -11461,23 +11468,23 @@ msgstr ""
 msgid "Transfer Checkout"
 msgstr ""
 #
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 186
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 187
 msgid "Customer details"
 msgstr ""
 #
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 186
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 187
 msgid "Please tell us your details."
 msgstr ""
 #
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 256
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 274
 msgid "Airport you're flying to?"
 msgstr ""
 #
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 269
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 287
 msgid "Aditionals"
 msgstr ""
 #
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 314
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 325
 msgid "Review and book your transfer"
 msgstr ""
 #
