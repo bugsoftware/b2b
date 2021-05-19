@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-19 09:46-0400\n"
+"POT-Creation-Date: 2021-05-19 09:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1180,10 +1180,10 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 28
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 100
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 344
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 594
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 608
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 622
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 636
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 595
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 609
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 623
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 637
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 95
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 36
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 75
@@ -2559,14 +2559,14 @@ msgstr ""
 msgid "Reviews"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 569
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 570
 msgid "Logistics"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 594
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 608
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 622
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 636
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 595
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 609
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 623
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 637
 msgid "per night"
 msgstr ""
 #
