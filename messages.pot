@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-21 15:52-0400\n"
+"POT-Creation-Date: 2021-05-21 15:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11487,7 +11487,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 153
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 161
-msgid "Invalid flight number."
+msgid "Invalid flight number. Please input only the number of the flight (Example: 123)."
 msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 189
