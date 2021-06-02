@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-01 05:46-0400\n"
+"POT-Creation-Date: 2021-06-02 11:19-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1451,7 +1451,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 227
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 112
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 131
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 130
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 162
 # File: module/b2b/view/b2b/tours/results.phtml, line: 105
 # File: module/b2b/view/b2b/cars/results.phtml, line: 115
@@ -2658,7 +2658,7 @@ msgid "Currency"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 80
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 123
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 122
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 283
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 210
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 383
@@ -2669,7 +2669,7 @@ msgid "Add Flight"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 84
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 127
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 126
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 284
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 209
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 382
@@ -2988,7 +2988,7 @@ msgid "Pay with Affirm"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 39
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 119
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 118
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 211
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 706
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 84
@@ -3436,61 +3436,65 @@ msgid "days"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 29
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 30
+msgid "Departure Date & Time"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 29
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 64
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 136
-# File: module/b2b/view/b2b/transfers/results.phtml, line: 2
-# File: module/b2b/view/b2b/transfers/results.phtml, line: 35
-msgid "Arrival Date"
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 30
-msgid "Travel Date & Time"
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 65
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 137
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 3
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 80
 msgid "Departure Date"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 109
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 64
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 137
+msgid "Return Date"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 108
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 124
 msgid "Adults (18+)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 117
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 116
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 125
 msgid "Children (3-17)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 118
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 117
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 126
 msgid "Children (0-2)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 3
+# File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 135
+# File: module/b2b/view/b2b/transfers/results.phtml, line: 2
+# File: module/b2b/view/b2b/transfers/results.phtml, line: 35
+msgid "Arrival Date"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 4
 # File: module/b2b/view/b2b/btob/details.phtml, line: 172
 msgid "Insurance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 5
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
 msgid "Traveler assistance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 5
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
 msgid "Travel Peacefully. Travel Protected."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 6
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 7
 msgid "Travel protected to any part of the world with the best medical travel assistance."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 7
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 8
 msgid "Select Insurance"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/insurance.phtml, line: 10
+# File: module/b2b/view/b2b/shared/insurance.phtml, line: 11
 msgid "No Insurance"
 msgstr ""
 #
