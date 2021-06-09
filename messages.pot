@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-09 08:16-0400\n"
+"POT-Creation-Date: 2021-06-09 08:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -451,7 +451,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 59
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 264
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 597
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 606
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 49
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 338
 # File: module/b2b/view/b2b/packages/details.phtml, line: 310
@@ -1180,10 +1180,10 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 28
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 100
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 344
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 649
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 663
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 677
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 691
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 658
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 672
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 686
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 700
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 95
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 36
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 75
@@ -1821,44 +1821,46 @@ msgid "Italian"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 224
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 560
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 563
 # File: module/b2b/view/b2b/admin/login.phtml, line: 78
 msgid "Portuguese"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 227
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 563
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 566
 # File: module/b2b/view/layout/admin.phtml, line: 196
 msgid "German"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 230
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 566
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 569
 msgid "Japanese"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 233
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 569
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 572
 msgid "Korean"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 236
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 572
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 575
 msgid "Russian"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 239
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 575
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 578
 msgid "Chinese"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 244
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 583
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 586
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 598
 msgid "Audio"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 247
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 586
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 589
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 592
 msgid "Guide"
 msgstr ""
 #
@@ -2568,22 +2570,26 @@ msgstr ""
 msgid "Language Guides"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 589
-msgid "Service Guide"
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 560
+msgid "French"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 601
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 595
+msgid "Written"
+msgstr ""
+#
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 610
 msgid "Reviews"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 624
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 633
 msgid "Logistics"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 649
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 663
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 677
-# File: module/b2b/view/b2b/activities/activity.phtml, line: 691
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 658
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 672
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 686
+# File: module/b2b/view/b2b/activities/activity.phtml, line: 700
 msgid "per night"
 msgstr ""
 #
