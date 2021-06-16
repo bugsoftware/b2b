@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-11 04:38-0400\n"
+"POT-Creation-Date: 2021-06-16 01:44-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -881,7 +881,7 @@ msgstr ""
 msgid "Booking Code(s)"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 72
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 73
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 200
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 373
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 717
@@ -891,23 +891,23 @@ msgstr ""
 msgid "Voucher"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 72
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 73
 msgid "Download Voucher"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 77
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 79
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 150
 # File: module/b2b/view/b2b/booking/index.phtml, line: 453
 msgid "Activity info"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 88
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 90
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 160
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 58
 msgid "Paxes"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 94
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 96
 # File: module/b2b/view/b2b/activities/results.phtml, line: 30
 # File: module/b2b/view/b2b/activities/results.phtml, line: 215
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 30
@@ -994,7 +994,7 @@ msgstr ""
 msgid "Adults"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 95
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 97
 # File: module/b2b/view/b2b/activities/results.phtml, line: 31
 # File: module/b2b/view/b2b/activities/results.phtml, line: 216
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 31
@@ -1080,7 +1080,7 @@ msgstr ""
 msgid "Children"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 103
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 105
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 402
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 396
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 73
@@ -1166,7 +1166,7 @@ msgstr ""
 msgid "Total"
 msgstr ""
 #
-# File: module/b2b/view/b2b/activities/confirm.phtml, line: 159
+# File: module/b2b/view/b2b/activities/confirm.phtml, line: 161
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 242
 # File: module/b2b/view/b2b/packages/book.phtml, line: 253
 # File: module/b2b/view/b2b/hotels/confirm.phtml, line: 253
