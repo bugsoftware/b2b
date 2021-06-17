@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-16 01:44-0400\n"
+"POT-Creation-Date: 2021-06-17 06:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -715,6 +715,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 87
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 61
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 103
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 311
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 403
@@ -922,6 +923,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 77
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 51
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 39
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 49
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 76
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 44
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 54
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 56
@@ -1009,6 +1013,9 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 67
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 78
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 52
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 53
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 66
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 77
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 56
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 65
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 65
@@ -1190,6 +1197,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 41
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 49
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 27
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 35
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 74
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
 # File: module/b2b/view/b2b/dp/index.phtml, line: 76
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 605
@@ -1219,6 +1228,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 42
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 28
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 36
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 75
 # File: module/b2b/view/b2b/dp/index.phtml, line: 80
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 606
 # File: module/b2b/view/b2b/packages/details.phtml, line: 29
@@ -1245,6 +1256,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 98
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 79
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 53
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 78
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 90
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 99
 # File: module/b2b/view/b2b/tours/results.phtml, line: 70
@@ -1302,6 +1314,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 99
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 80
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 54
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 79
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 91
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 100
 # File: module/b2b/view/b2b/tours/results.phtml, line: 70
@@ -1344,6 +1357,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 100
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 81
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 55
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 80
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 92
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 101
 # File: module/b2b/view/b2b/tours/results.phtml, line: 413
@@ -1428,6 +1442,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 97
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 32
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 37
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 31
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 14
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 22
 # File: module/b2b/view/b2b/tours/results.phtml, line: 32
@@ -2690,6 +2705,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 72
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 71
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 87
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 13
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
@@ -5468,7 +5484,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/languages.phtml, line: 91
 # File: module/b2b/view/b2b/admin/languages.phtml, line: 92
 # File: module/b2b/view/b2b/admin/languages.phtml, line: 97
-# File: module/b2b/view/b2b/index/index.phtml, line: 121
+# File: module/b2b/view/b2b/index/index.phtml, line: 124
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 80
 # File: module/b2b/view/login/index.phtml, line: 74
 msgid "Languages"
@@ -6963,123 +6979,123 @@ msgstr ""
 msgid "Please input required field."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 71
+# File: module/b2b/view/b2b/index/index.phtml, line: 74
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 30
 # File: module/b2b/view/login/index.phtml, line: 24
 msgid "User Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 119
+# File: module/b2b/view/b2b/index/index.phtml, line: 122
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 78
 # File: module/b2b/view/login/index.phtml, line: 72
 msgid "Login"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 132
+# File: module/b2b/view/b2b/index/index.phtml, line: 135
 msgid "Putting client's needs first"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 133
+# File: module/b2b/view/b2b/index/index.phtml, line: 136
 msgid "and providing outstanding service."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 135
+# File: module/b2b/view/b2b/index/index.phtml, line: 138
 msgid "We work to make our clients life easier, simpler and more efficient. Sign up with us and enjoy the benefits of our booking interface. Our organized, focused, problem-solving, collaborative and proactive team provides the highest quality of sales and customer support."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 138
+# File: module/b2b/view/b2b/index/index.phtml, line: 141
 msgid "Read more"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 163
+# File: module/b2b/view/b2b/index/index.phtml, line: 166
 msgid "Leading flight inventory across more than 100 airlines globally provides great selection and value for consumers."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 172
+# File: module/b2b/view/b2b/index/index.phtml, line: 175
 msgid "Global supply of 830,784 hotels worldwide with standalone, retail and package rates."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 181
+# File: module/b2b/view/b2b/index/index.phtml, line: 184
 msgid "More than 10,000+ travel professionals trust our system to book the best and lowest rates for their customers."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 190
+# File: module/b2b/view/b2b/index/index.phtml, line: 193
 msgid "24/7 SUPPORT"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 191
+# File: module/b2b/view/b2b/index/index.phtml, line: 194
 msgid "Our Support Service is available 24 hours a day, 7 days a week to help you buy your tickets."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 197
+# File: module/b2b/view/b2b/index/index.phtml, line: 200
 msgid "Obtain access to net wholesale rates and real time inventory"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 205
+# File: module/b2b/view/b2b/index/index.phtml, line: 208
 msgid "INTEGRITY"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 206
+# File: module/b2b/view/b2b/index/index.phtml, line: 209
 msgid "Being a dependable and trustworthy business partner We'll help you design a travel program and policy that delivers measurable results."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 213
+# File: module/b2b/view/b2b/index/index.phtml, line: 216
 msgid "RELIABILITY"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 214
+# File: module/b2b/view/b2b/index/index.phtml, line: 217
 msgid "Our dynamic package booking engine delivers any combination of air, hotel, activities, transfers and car inventory to your customers."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 221
+# File: module/b2b/view/b2b/index/index.phtml, line: 224
 msgid "CUSTOMER CARE"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 222
+# File: module/b2b/view/b2b/index/index.phtml, line: 225
 msgid "Give your travelers access to the most and best hotels for business travel, no matter how they book."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 233
+# File: module/b2b/view/b2b/index/index.phtml, line: 236
 msgid "Commitment to excellence"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 234
+# File: module/b2b/view/b2b/index/index.phtml, line: 237
 msgid "Building productive, long standing relationships by always doing what's right. We'll help you balance the needs of your company with the services that keep travelers happy."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 235
+# File: module/b2b/view/b2b/index/index.phtml, line: 238
 msgid "We are a leading global online travel company that uses innovative technology to enable leisure and business travelers to search for, plan and book a broad range of travel products and services including airline tickets, hotels, car rentals, cruises, and vacation packages. With 4 different kind of collaborations, we do our best to give everyone a chance to make this partnership a success: - B2B Access - B2C Access - XML integration - White Label"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 272
+# File: module/b2b/view/b2b/index/index.phtml, line: 275
 msgid "Contact us"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 275
+# File: module/b2b/view/b2b/index/index.phtml, line: 278
 msgid "Through the perfect blend of people and technology, we deliver the most seamless, personalized and integrated experiences."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 287
+# File: module/b2b/view/b2b/index/index.phtml, line: 290
 msgid "name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 288
+# File: module/b2b/view/b2b/index/index.phtml, line: 291
 msgid "email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 289
+# File: module/b2b/view/b2b/index/index.phtml, line: 292
 msgid "phone"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 290
+# File: module/b2b/view/b2b/index/index.phtml, line: 293
 msgid "subject"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 294
+# File: module/b2b/view/b2b/index/index.phtml, line: 297
 msgid "message"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 295
+# File: module/b2b/view/b2b/index/index.phtml, line: 298
 msgid "SEND MESSAGE"
 msgstr ""
 #
