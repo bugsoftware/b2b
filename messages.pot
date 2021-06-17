@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-17 09:49-0400\n"
+"POT-Creation-Date: 2021-06-17 13:47-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -935,7 +935,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 179
 # File: module/b2b/view/b2b/tours/view.phtml, line: 708
 # File: module/b2b/view/b2b/dp/index.phtml, line: 213
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 350
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 342
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 197
@@ -1025,7 +1025,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 179
 # File: module/b2b/view/b2b/tours/view.phtml, line: 716
 # File: module/b2b/view/b2b/dp/index.phtml, line: 223
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 351
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 343
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 12
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 189
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 122
@@ -1675,7 +1675,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/results.phtml, line: 286
 # File: module/b2b/view/b2b/tours/results.phtml, line: 393
 # File: module/b2b/view/b2b/cars/results.phtml, line: 363
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 379
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 371
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 397
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
@@ -1699,7 +1699,7 @@ msgstr ""
 # File: module/b2b/view/b2b/tours/results.phtml, line: 286
 # File: module/b2b/view/b2b/tours/results.phtml, line: 393
 # File: module/b2b/view/b2b/cars/results.phtml, line: 363
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 379
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 371
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 203
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 397
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 108
@@ -2511,8 +2511,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 453
 # File: module/b2b/view/b2b/cars/results.phtml, line: 326
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 358
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 363
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 350
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 355
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 636
 # File: module/b2b/view/b2b/flights/results.phtml, line: 364
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 267
@@ -5923,7 +5923,7 @@ msgid "Filter by:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/results.phtml, line: 300
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 338
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 330
 # File: module/b2b/view/b2b/cruises/cabins.phtml, line: 37
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 641
 # File: module/b2b/view/b2b/quotes/view.phtml, line: 19
@@ -5939,7 +5939,7 @@ msgid "Taxes & Fees payable at pick up:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/results.phtml, line: 324
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 361
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 353
 # File: module/b2b/view/b2b/hotels/mapresults.phtml, line: 620
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 89
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 366
@@ -6566,12 +6566,12 @@ msgstr ""
 msgid "transfers from"
 msgstr ""
 #
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 355
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 347
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 360
 msgid "One way price"
 msgstr ""
 #
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 356
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 348
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 644
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 506
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 764
@@ -6579,7 +6579,7 @@ msgstr ""
 msgid "SELECT"
 msgstr ""
 #
-# File: module/b2b/view/b2b/insurances/results.phtml, line: 379
+# File: module/b2b/view/b2b/insurances/results.phtml, line: 371
 msgid "No insurances shown, try clearing some filters to see more availability."
 msgstr ""
 #
