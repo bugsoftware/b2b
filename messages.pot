@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-06 11:34+0100\n"
+"POT-Creation-Date: 2023-09-07 08:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1051,7 +1051,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 298
 # File: module/b2b/view/b2b/booking/banorte.phtml, line: 63
 # File: module/b2b/view/b2b/booking/banorte_pay.phtml, line: 45
-# File: module/b2b/view/b2b/booking/create.phtml, line: 90
+# File: module/b2b/view/b2b/booking/create.phtml, line: 100
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
@@ -10150,7 +10150,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 156
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 120
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 149
-# File: module/b2b/view/b2b/booking/create.phtml, line: 74
+# File: module/b2b/view/b2b/booking/create.phtml, line: 77
 msgid "Total is required. Please input total."
 msgstr ""
 #
@@ -10391,12 +10391,12 @@ msgid "Net is required. Please input net."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 154
-# File: module/b2b/view/b2b/booking/create.phtml, line: 79
+# File: module/b2b/view/b2b/booking/create.phtml, line: 83
 msgid "Currency name is required. Please input currency name."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 159
-# File: module/b2b/view/b2b/booking/create.phtml, line: 84
+# File: module/b2b/view/b2b/booking/create.phtml, line: 94
 msgid "Supplier name is required. Please input supplier name."
 msgstr ""
 #
@@ -10818,9 +10818,13 @@ msgstr ""
 msgid "Booking Date is required. Please input Booking Date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 64
-# File: module/b2b/view/b2b/booking/create.phtml, line: 69
+# File: module/b2b/view/b2b/booking/create.phtml, line: 65
+# File: module/b2b/view/b2b/booking/create.phtml, line: 71
 msgid "Travel Date is required. Please input Travel Date."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/create.phtml, line: 88
+msgid "PNR/Record Locator is required. Please input total."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/index.phtml, line: 20
