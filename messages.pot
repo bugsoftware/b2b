@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 20:59+0100\n"
+"POT-Creation-Date: 2023-09-21 07:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1108,7 +1108,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1231
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1237
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1435
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 713
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 714
 # File: module/b2b/view/b2b/insurances/checkout.phtml, line: 6
 # File: module/b2b/view/b2b/insurances/checkout.phtml, line: 107
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 309
@@ -7811,7 +7811,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 14
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1190
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 322
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 717
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 718
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 14
 msgid "Account Id/DNI is required"
 msgstr ""
@@ -7819,7 +7819,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 15
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1191
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 323
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 718
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 719
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 15
 msgid "Please input a valid customer Account Id/DNI"
 msgstr ""
@@ -7830,21 +7830,21 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1193
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 324
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 325
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 719
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 720
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 721
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 16
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 17
 msgid "Customer First Name is required"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 18
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 721
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 722
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 18
 msgid "Customer First Name is required. Please input First Name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 19
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 722
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 723
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 19
 msgid "Customer Last Name is required. Please input Last Name"
 msgstr ""
@@ -7859,14 +7859,14 @@ msgid "Please fill in required questions."
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 183
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 844
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 875
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 845
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 876
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 212
 msgid "Enter number document."
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 189
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 851
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 852
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 218
 msgid "Document number must not be less than 8 characters"
 msgstr ""
@@ -8172,8 +8172,8 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 351
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 302
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 319
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 912
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 915
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 913
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 916
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 603
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 606
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 597
@@ -8190,8 +8190,8 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 304
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 318
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 321
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 917
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 926
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 918
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 927
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 608
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 617
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 602
@@ -13012,21 +13012,21 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 339
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 287
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 304
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 696
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 697
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 540
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 534
 msgid "We use secure connections to protect your information. Our security system is audited by GoDaddy."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1185
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 715
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 716
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 558
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 552
 msgid "Invalid coupon/promotion code."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1186
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 716
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 717
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 559
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 553
 msgid "This coupon/promotion code can only be used with a minimum spend of"
@@ -13049,26 +13049,26 @@ msgid "Invalid flight number. Please input only the number of the flight (Exampl
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1350
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 835
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 836
 msgid "In order to sell insurance you need to input date of birth of all paxes."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1350
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 835
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 836
 msgid "Please input date of birth of all paxes."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1358
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1365
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 861
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 868
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 862
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 869
 msgid "In order to sell insurance you need to select the document type and input either the passport or national identification number."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1358
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1365
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 861
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 868
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 862
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 869
 msgid "Please select document type and input document number."
 msgstr ""
 #
@@ -13077,7 +13077,7 @@ msgid "Pax information copied to other items."
 msgstr ""
 #
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1439
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 921
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 922
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 612
 # File: module/b2b/view/b2b/packages/checkout.phtml, line: 606
 msgid "Tax Recovery Charges & Service Fees"
@@ -15547,7 +15547,7 @@ msgid "Outbound Flight Details"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 399
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 890
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 891
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 233
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 441
 msgid "Select the type of receipt"
@@ -15586,16 +15586,16 @@ msgstr ""
 msgid "Deduct commission from total price"
 msgstr ""
 #
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 681
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 683
+msgid "Expected Booking Total"
+msgstr ""
+#
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 687
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 521
 msgid "Will add more items offline"
 msgstr ""
 #
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 685
-msgid "Expected Booking Total"
-msgstr ""
-#
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 884
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 885
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 227
 msgid "El porcentaje de descuento no debe ser mayor al 5 %"
 msgstr ""
