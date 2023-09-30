@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-27 17:01+0100\n"
+"POT-Creation-Date: 2023-09-30 18:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17620,17 +17620,17 @@ msgstr ""
 msgid "Review and book your transfer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 58
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 61
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 58
 msgid "REPORTES"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 79
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 82
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 79
 msgid "CTM MAYORISTA"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 88
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 91
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 88
 msgid "INFORMACION DE USUARIO"
 msgstr ""
