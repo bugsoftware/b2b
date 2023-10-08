@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-08 10:20+0100\n"
+"POT-Creation-Date: 2023-10-08 10:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15603,6 +15603,11 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 399
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 441
 msgid "Unaffected Invoice"
+msgstr ""
+#
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 399
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 441
+msgid "Ticket unaffected"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 399
