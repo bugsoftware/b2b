@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-17 21:10+0100\n"
+"POT-Creation-Date: 2023-10-23 21:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1054,6 +1054,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/banorte_pay.phtml, line: 45
 # File: module/b2b/view/b2b/booking/create.phtml, line: 100
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
+# File: module/b2b/view/b2b/booking/invoice.phtml, line: 52
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
 # File: module/b2b/view/b2b/btob/details.phtml, line: 525
 # File: module/b2b/view/b2b/btob/index.phtml, line: 34
@@ -3419,6 +3420,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 839
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 853
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 79
+# File: module/b2b/view/b2b/booking/invoice.phtml, line: 61
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 894
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 109
 # File: module/b2b/view/b2b/shared/index_searchbox_cruises.phtml, line: 171
@@ -4642,6 +4644,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1095
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1199
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 79
+# File: module/b2b/view/b2b/booking/invoice.phtml, line: 61
 msgid "Download"
 msgstr ""
 #
