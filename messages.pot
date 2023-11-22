@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-15 13:01+0000\n"
+"POT-Creation-Date: 2023-11-22 20:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6090,7 +6090,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1234
 # File: module/b2b/view/b2b/activities/results.phtml, line: 138
 # File: module/b2b/view/b2b/btob/index.phtml, line: 523
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1064
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1085
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 71
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 98
 # File: module/b2b/view/b2b/packages/search.phtml, line: 183
@@ -11915,7 +11915,7 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1064
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1085
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
