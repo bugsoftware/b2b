@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-22 20:30+0000\n"
+"POT-Creation-Date: 2023-11-23 07:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -395,7 +395,7 @@ msgstr ""
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 326
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 351
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 381
-# File: module/b2b/view/login/index.phtml, line: 92
+# File: module/b2b/view/login/index.phtml, line: 94
 msgid "Email"
 msgstr ""
 #
@@ -6769,7 +6769,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 422
 # File: module/b2b/view/b2b/password/index.phtml, line: 39
 # File: module/b2b/view/login/googleauthenticator.phtml, line: 96
-# File: module/b2b/view/login/index.phtml, line: 94
+# File: module/b2b/view/login/index.phtml, line: 96
 # File: module/b2b/view/login/otptwostep.phtml, line: 97
 msgid "Submit"
 msgstr ""
@@ -9105,7 +9105,7 @@ msgstr ""
 # File: module/b2b/view/b2b/customers/import.phtml, line: 52
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 46
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 33
-# File: module/b2b/view/login/index.phtml, line: 93
+# File: module/b2b/view/login/index.phtml, line: 95
 msgid "Password"
 msgstr ""
 #
@@ -17834,11 +17834,11 @@ msgstr ""
 msgid "Input Secret Code"
 msgstr ""
 #
-# File: module/b2b/view/login/index.phtml, line: 95
+# File: module/b2b/view/login/index.phtml, line: 97
 msgid "forgot your password?"
 msgstr ""
 #
-# File: module/b2b/view/login/index.phtml, line: 96
+# File: module/b2b/view/login/index.phtml, line: 98
 msgid "new customer"
 msgstr ""
 #
