@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-26 20:29+0000\n"
+"POT-Creation-Date: 2023-12-27 13:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3735,6 +3735,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_activities.phtml, line: 72
 # File: module/b2b/view/b2b/shared/index_searchbox_cars.phtml, line: 88
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 128
+# File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 135
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 76
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
@@ -14535,14 +14536,14 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
-# File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 136
+# File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 137
 msgid "You can select a maximum of"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
-# File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 136
+# File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 137
 msgid "passengers"
 msgstr ""
 #
