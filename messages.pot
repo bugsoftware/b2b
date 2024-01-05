@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-04 13:44+0000\n"
+"POT-Creation-Date: 2024-01-05 21:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7210,7 +7210,7 @@ msgstr ""
 msgid "Unable to update customer."
 msgstr ""
 #
-# File: module/b2b/src/Controller/NewslettersController.php, line: 129
+# File: module/b2b/src/Controller/NewslettersController.php, line: 133
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 25
 msgid "All Countries"
 msgstr ""
