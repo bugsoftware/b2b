@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-17 07:25+0000\n"
+"POT-Creation-Date: 2024-01-17 21:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12233,6 +12233,10 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 25
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 292
 msgid "Filter by:"
+msgstr ""
+#
+# File: module/b2b/view/b2b/cars/results.phtml, line: 247
+msgid "Cars in"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/results.phtml, line: 300
