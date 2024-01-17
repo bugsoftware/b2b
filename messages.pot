@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-05 21:35+0000\n"
+"POT-Creation-Date: 2024-01-17 07:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1054,7 +1054,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 298
 # File: module/b2b/view/b2b/booking/banorte.phtml, line: 63
 # File: module/b2b/view/b2b/booking/banorte_pay.phtml, line: 45
-# File: module/b2b/view/b2b/booking/create.phtml, line: 100
+# File: module/b2b/view/b2b/booking/create.phtml, line: 101
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
 # File: module/b2b/view/b2b/booking/invoice.phtml, line: 52
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
@@ -3995,7 +3995,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1484
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1610
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1680
-# File: module/b2b/view/b2b/booking/create.phtml, line: 23
+# File: module/b2b/view/b2b/booking/create.phtml, line: 24
 msgid "Booking Date"
 msgstr ""
 #
@@ -4187,7 +4187,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_hotels.phtml, line: 501
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_packages.phtml, line: 231
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_packages.phtml, line: 295
-# File: module/b2b/view/b2b/booking/create.phtml, line: 35
+# File: module/b2b/view/b2b/booking/create.phtml, line: 36
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 104
 # File: module/b2b/view/b2b/packages/details.phtml, line: 476
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 94
@@ -4334,7 +4334,7 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 464
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 37
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
+# File: module/b2b/view/b2b/booking/create.phtml, line: 25
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 628
 msgid "Reservation Confirmed"
 msgstr ""
@@ -4385,7 +4385,7 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 480
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 43
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
+# File: module/b2b/view/b2b/booking/create.phtml, line: 25
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 630
 msgid "Reservation Waiting Confirmation"
 msgstr ""
@@ -4523,7 +4523,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1452
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1521
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 25
-# File: module/b2b/view/b2b/booking/create.phtml, line: 25
+# File: module/b2b/view/b2b/booking/create.phtml, line: 26
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 647
 msgid "Payment Status"
 msgstr ""
@@ -4624,7 +4624,7 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 550
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 30
-# File: module/b2b/view/b2b/booking/create.phtml, line: 25
+# File: module/b2b/view/b2b/booking/create.phtml, line: 26
 # File: module/b2b/view/b2b/booking/index.phtml, line: 112
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 649
 msgid "Awaiting Payment"
@@ -4632,7 +4632,7 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 556
 # File: module/b2b/view/b2b/booking/cancelpayment.phtml, line: 69
-# File: module/b2b/view/b2b/booking/create.phtml, line: 25
+# File: module/b2b/view/b2b/booking/create.phtml, line: 26
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 661
 msgid "GDS Payment"
 msgstr ""
@@ -5503,7 +5503,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/shared/paymentmethods.phtml, line: 5
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 55
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 68
-# File: module/b2b/view/b2b/booking/create.phtml, line: 26
+# File: module/b2b/view/b2b/booking/create.phtml, line: 27
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 7
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 8
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 11
@@ -5518,7 +5518,7 @@ msgid "PayPal"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/paymentmethods.phtml, line: 8
-# File: module/b2b/view/b2b/booking/create.phtml, line: 26
+# File: module/b2b/view/b2b/booking/create.phtml, line: 27
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 23
 msgid "Book Now and Pay Later"
 msgstr ""
@@ -7487,7 +7487,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 60
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 66
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 69
-# File: module/b2b/view/b2b/booking/create.phtml, line: 31
+# File: module/b2b/view/b2b/booking/create.phtml, line: 32
 # File: module/b2b/view/b2b/booking/index.phtml, line: 671
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 195
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 199
@@ -10089,12 +10089,12 @@ msgid "Travelport"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addflight.phtml, line: 42
-# File: module/b2b/view/b2b/booking/create.phtml, line: 35
+# File: module/b2b/view/b2b/booking/create.phtml, line: 36
 msgid "GDS"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addflight.phtml, line: 45
-# File: module/b2b/view/b2b/booking/create.phtml, line: 36
+# File: module/b2b/view/b2b/booking/create.phtml, line: 37
 msgid "PNR/Record Locator"
 msgstr ""
 #
@@ -10168,7 +10168,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 156
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 120
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 149
-# File: module/b2b/view/b2b/booking/create.phtml, line: 77
+# File: module/b2b/view/b2b/booking/create.phtml, line: 78
 msgid "Total is required. Please input total."
 msgstr ""
 #
@@ -10377,7 +10377,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 78
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 103
-# File: module/b2b/view/b2b/booking/create.phtml, line: 32
+# File: module/b2b/view/b2b/booking/create.phtml, line: 33
 msgid "Memo"
 msgstr ""
 #
@@ -10410,12 +10410,12 @@ msgid "Net is required. Please input net."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 154
-# File: module/b2b/view/b2b/booking/create.phtml, line: 83
+# File: module/b2b/view/b2b/booking/create.phtml, line: 84
 msgid "Currency name is required. Please input currency name."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 159
-# File: module/b2b/view/b2b/booking/create.phtml, line: 94
+# File: module/b2b/view/b2b/booking/create.phtml, line: 95
 msgid "Supplier name is required. Please input supplier name."
 msgstr ""
 #
@@ -10705,7 +10705,7 @@ msgid "Booking Details"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 30
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
+# File: module/b2b/view/b2b/booking/create.phtml, line: 25
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 626
 msgid "New Reservation"
 msgstr ""
@@ -10718,7 +10718,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 34
 # File: module/b2b/view/b2b/booking/cancel.phtml, line: 73
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
+# File: module/b2b/view/b2b/booking/create.phtml, line: 25
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 627
 msgid "Reservation Pending"
 msgstr ""
@@ -10782,16 +10782,16 @@ msgstr ""
 msgid "Failed to import reservation"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 16
+# File: module/b2b/view/b2b/booking/create.phtml, line: 17
 msgid "Reservations have been successfully imported."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
+# File: module/b2b/view/b2b/booking/create.phtml, line: 25
 msgid "Reservation status"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 24
 # File: module/b2b/view/b2b/booking/create.phtml, line: 25
+# File: module/b2b/view/b2b/booking/create.phtml, line: 26
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 547
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 577
 # File: module/b2b/view/b2b/customers/index.phtml, line: 237
@@ -10801,48 +10801,48 @@ msgstr ""
 msgid "Please Select"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 26
+# File: module/b2b/view/b2b/booking/create.phtml, line: 27
 msgid "Payment Method"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 26
+# File: module/b2b/view/b2b/booking/create.phtml, line: 27
 msgid "MoneyGram"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 26
+# File: module/b2b/view/b2b/booking/create.phtml, line: 27
 msgid "Issue Ticket using Cash"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 28
+# File: module/b2b/view/b2b/booking/create.phtml, line: 29
 msgid "Travel Date from"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 29
+# File: module/b2b/view/b2b/booking/create.phtml, line: 30
 msgid "Travel Date to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 37
+# File: module/b2b/view/b2b/booking/create.phtml, line: 38
 msgid "Service Fee"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 38
+# File: module/b2b/view/b2b/booking/create.phtml, line: 39
 msgid "Get Information from GDS"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 40
+# File: module/b2b/view/b2b/booking/create.phtml, line: 41
 msgid "Create Booking"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 59
+# File: module/b2b/view/b2b/booking/create.phtml, line: 60
 msgid "Booking Date is required. Please input Booking Date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 65
-# File: module/b2b/view/b2b/booking/create.phtml, line: 71
+# File: module/b2b/view/b2b/booking/create.phtml, line: 66
+# File: module/b2b/view/b2b/booking/create.phtml, line: 72
 msgid "Travel Date is required. Please input Travel Date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 88
+# File: module/b2b/view/b2b/booking/create.phtml, line: 89
 msgid "PNR/Record Locator is required. Please input total."
 msgstr ""
 #
