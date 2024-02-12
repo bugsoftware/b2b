@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-12 17:39+0000\n"
+"POT-Creation-Date: 2024-02-12 20:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8290,7 +8290,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 252
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 288
 # File: module/b2b/view/b2b/flights/confirm.phtml, line: 287
-# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 272
+# File: module/b2b/view/b2b/hotels/confirm.phtml, line: 275
 # File: module/b2b/view/b2b/insurances/confirm.phtml, line: 138
 # File: module/b2b/view/b2b/packages/book.phtml, line: 253
 msgid "Unable to retreive booking code(s)"
