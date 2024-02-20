@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-16 21:30+0000\n"
+"POT-Creation-Date: 2024-02-20 15:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3313,7 +3313,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 19
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 17
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 487
-# File: module/b2b/view/shared/nav.phtml, line: 386
+# File: module/b2b/view/shared/nav.phtml, line: 387
 msgid "Hotels"
 msgstr ""
 #
@@ -3800,7 +3800,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/search.phtml, line: 134
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 499
-# File: module/b2b/view/shared/nav.phtml, line: 384
+# File: module/b2b/view/shared/nav.phtml, line: 385
 msgid "Packages"
 msgstr ""
 #
@@ -17752,18 +17752,21 @@ msgstr ""
 msgid "Review and book your transfer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 65
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 58
+# File: module/b2b/view/b2b/custom/topmenu.backup.2.phtml, line: 65
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 62
 msgid "REPORTES"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 86
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 79
+# File: module/b2b/view/b2b/custom/topmenu.backup.2.phtml, line: 86
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 83
 msgid "CTM MAYORISTA"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 95
 # File: module/b2b/view/b2b/custom/topmenu.backup.phtml, line: 88
+# File: module/b2b/view/b2b/custom/topmenu.backup.2.phtml, line: 95
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 92
 msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
@@ -18026,7 +18029,11 @@ msgstr ""
 msgid "Per Person"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 387
+# File: module/b2b/view/shared/nav.phtml, line: 383
+msgid "Catalog"
+msgstr ""
+#
+# File: module/b2b/view/shared/nav.phtml, line: 388
 msgid "Air Offers"
 msgstr ""
 #
