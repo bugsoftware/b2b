@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-12 16:40+0000\n"
+"POT-Creation-Date: 2024-03-14 14:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1054,7 +1054,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 298
 # File: module/b2b/view/b2b/booking/banorte.phtml, line: 63
 # File: module/b2b/view/b2b/booking/banorte_pay.phtml, line: 45
-# File: module/b2b/view/b2b/booking/create.phtml, line: 101
+# File: module/b2b/view/b2b/booking/create.phtml, line: 104
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 52
 # File: module/b2b/view/b2b/booking/invoice.phtml, line: 52
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 80
@@ -4199,7 +4199,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_hotels.phtml, line: 501
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_packages.phtml, line: 231
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_packages.phtml, line: 295
-# File: module/b2b/view/b2b/booking/create.phtml, line: 36
+# File: module/b2b/view/b2b/booking/create.phtml, line: 39
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 104
 # File: module/b2b/view/b2b/packages/details.phtml, line: 476
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 94
@@ -4298,6 +4298,7 @@ msgid "Agent ID"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 432
+# File: module/b2b/view/b2b/booking/create.phtml, line: 29
 # File: module/b2b/view/b2b/bounces/index.phtml, line: 72
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 950
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 958
@@ -7507,7 +7508,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 60
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 66
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 69
-# File: module/b2b/view/b2b/booking/create.phtml, line: 32
+# File: module/b2b/view/b2b/booking/create.phtml, line: 35
 # File: module/b2b/view/b2b/booking/index.phtml, line: 671
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 195
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 199
@@ -10110,12 +10111,12 @@ msgid "Travelport"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addflight.phtml, line: 42
-# File: module/b2b/view/b2b/booking/create.phtml, line: 36
+# File: module/b2b/view/b2b/booking/create.phtml, line: 39
 msgid "GDS"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addflight.phtml, line: 45
-# File: module/b2b/view/b2b/booking/create.phtml, line: 37
+# File: module/b2b/view/b2b/booking/create.phtml, line: 40
 msgid "PNR/Record Locator"
 msgstr ""
 #
@@ -10189,7 +10190,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 156
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 120
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 149
-# File: module/b2b/view/b2b/booking/create.phtml, line: 78
+# File: module/b2b/view/b2b/booking/create.phtml, line: 81
 msgid "Total is required. Please input total."
 msgstr ""
 #
@@ -10400,7 +10401,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 78
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 103
-# File: module/b2b/view/b2b/booking/create.phtml, line: 33
+# File: module/b2b/view/b2b/booking/create.phtml, line: 36
 msgid "Memo"
 msgstr ""
 #
@@ -10433,12 +10434,12 @@ msgid "Net is required. Please input net."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 154
-# File: module/b2b/view/b2b/booking/create.phtml, line: 84
+# File: module/b2b/view/b2b/booking/create.phtml, line: 87
 msgid "Currency name is required. Please input currency name."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 159
-# File: module/b2b/view/b2b/booking/create.phtml, line: 95
+# File: module/b2b/view/b2b/booking/create.phtml, line: 98
 msgid "Supplier name is required. Please input supplier name."
 msgstr ""
 #
@@ -10836,36 +10837,59 @@ msgstr ""
 msgid "Issue Ticket using Cash"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 29
-msgid "Travel Date from"
+# File: module/b2b/view/b2b/booking/create.phtml, line: 28
+# File: module/b2b/view/b2b/customers/index.phtml, line: 137
+# File: module/b2b/view/b2b/newsletters/send.phtml, line: 69
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 946
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 947
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 954
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 955
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 984
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 985
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 992
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 993
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 1022
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 1023
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 1052
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 1053
+msgid "Customer Name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/create.phtml, line: 30
+# File: module/b2b/view/b2b/reports/index.phtml, line: 37
+msgid "Customer Phone"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/create.phtml, line: 32
+msgid "Travel Date from"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/create.phtml, line: 33
 msgid "Travel Date to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 38
+# File: module/b2b/view/b2b/booking/create.phtml, line: 41
 msgid "Service Fee"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 39
+# File: module/b2b/view/b2b/booking/create.phtml, line: 42
 msgid "Get Information from GDS"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 41
+# File: module/b2b/view/b2b/booking/create.phtml, line: 44
 msgid "Create Booking"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 60
+# File: module/b2b/view/b2b/booking/create.phtml, line: 63
 msgid "Booking Date is required. Please input Booking Date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 66
-# File: module/b2b/view/b2b/booking/create.phtml, line: 72
+# File: module/b2b/view/b2b/booking/create.phtml, line: 69
+# File: module/b2b/view/b2b/booking/create.phtml, line: 75
 msgid "Travel Date is required. Please input Travel Date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/create.phtml, line: 89
+# File: module/b2b/view/b2b/booking/create.phtml, line: 92
 msgid "PNR/Record Locator is required. Please input total."
 msgstr ""
 #
@@ -14198,23 +14222,6 @@ msgstr ""
 msgid "Customers"
 msgstr ""
 #
-# File: module/b2b/view/b2b/customers/index.phtml, line: 137
-# File: module/b2b/view/b2b/newsletters/send.phtml, line: 69
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 946
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 947
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 954
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 955
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 984
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 985
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 992
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 993
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 1022
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 1023
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 1052
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 1053
-msgid "Customer Name"
-msgstr ""
-#
 # File: module/b2b/view/b2b/customers/index.phtml, line: 191
 # File: module/b2b/view/b2b/customers/index.phtml, line: 263
 msgid "Send Profile Update Letter"
@@ -16439,10 +16446,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/reports/index.phtml, line: 8
 msgid "Leads"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reports/index.phtml, line: 37
-msgid "Customer Phone"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reports/index.phtml, line: 38
