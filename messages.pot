@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-14 14:40+0000\n"
+"POT-Creation-Date: 2024-03-22 14:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11950,22 +11950,22 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 12
 # File: module/b2b/view/b2b/emits/emitibooking.phtml, line: 12
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 15
 # File: module/b2b/view/b2b/emits/index.phtml, line: 13
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 15
 msgid "Total commissions"
 msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 17
 # File: module/b2b/view/b2b/emits/emitibooking.phtml, line: 16
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 19
 # File: module/b2b/view/b2b/emits/index.phtml, line: 17
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 19
 msgid "Outstanding"
 msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 21
 # File: module/b2b/view/b2b/emits/emitibooking.phtml, line: 20
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 23
 # File: module/b2b/view/b2b/emits/index.phtml, line: 21
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 23
 msgid "Available"
 msgstr ""
 #
@@ -14333,34 +14333,6 @@ msgstr ""
 msgid "Volver a inicio"
 msgstr ""
 #
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 40
-msgid "Emite Facil NDC "
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 70
-msgid "Error al buscar PNR"
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 82
-msgid "Informacion del pasajero"
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 112
-msgid "Informacion del itinerario"
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 158
-msgid "Informacion de Tarifa"
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 198
-msgid "Seleccione check para Pagar con tarjeta."
-msgstr ""
-#
-# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 344
-msgid "No tiene credito disponible para Emitir"
-msgstr ""
-#
 # File: module/b2b/view/b2b/emits/index.phtml, line: 37
 msgid "Informacion de la Reserva"
 msgstr ""
@@ -14399,6 +14371,34 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/emits/index.phtml, line: 96
 msgid "Ingresar Order ID"
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 40
+msgid "Emite Facil NDC "
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 70
+msgid "Error al buscar PNR"
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 82
+msgid "Informacion del pasajero"
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 112
+msgid "Informacion del itinerario"
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 158
+msgid "Informacion de Tarifa"
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 198
+msgid "Seleccione check para Pagar con tarjeta."
+msgstr ""
+#
+# File: module/b2b/view/b2b/emits/searchpnr.phtml, line: 344
+msgid "No tiene credito disponible para Emitir"
 msgstr ""
 #
 # File: module/b2b/view/b2b/flights/bookconfirmeddepartures.phtml, line: 26
