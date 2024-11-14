@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-05 16:54+0000\n"
+"POT-Creation-Date: 2024-11-14 16:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2160,7 +2160,6 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 51
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 60
 # File: module/b2b/view/b2b/booking/index.phtml, line: 335
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 23
@@ -2170,6 +2169,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 58
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 67
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 157
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 23
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 28
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -2271,7 +2272,6 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 54
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 63
 # File: module/b2b/view/b2b/booking/index.phtml, line: 341
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 24
@@ -2281,6 +2281,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 68
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 76
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 158
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 24
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 29
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 755
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 834
@@ -3727,7 +3729,6 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 135
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 159
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 49
@@ -3737,6 +3738,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 139
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 183
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1017
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 49
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 54
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
@@ -5462,7 +5465,6 @@ msgid "Search Transfers"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_transfers.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 14
@@ -5471,6 +5473,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 50
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 148
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 14
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 19
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1050
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 243
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 103
@@ -7450,7 +7454,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 362
 # File: module/b2b/view/b2b/activities/details.phtml, line: 360
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 25
@@ -7459,6 +7462,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 85
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 159
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 456
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 758
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 71
@@ -10349,7 +10354,6 @@ msgid "Flight Name"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 25
@@ -10358,6 +10362,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 77
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 159
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 758
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 207
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 221
@@ -11516,7 +11522,6 @@ msgstr ""
 msgid "Please enter the specialty you want to add."
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 15
@@ -11525,6 +11530,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 51
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 149
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 15
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 20
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 46
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 75
 # File: module/b2b/view/b2b/flights/results.phtml, line: 75
@@ -11532,7 +11539,6 @@ msgstr ""
 msgid "Roundtrip"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 16
@@ -11541,6 +11547,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 52
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 150
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 16
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 21
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 48
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 77
 # File: module/b2b/view/b2b/flights/results.phtml, line: 77
@@ -11548,11 +11556,6 @@ msgstr ""
 msgid "Multi-City"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 18
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 32
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 40
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 18
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 28
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 32
@@ -11593,6 +11596,16 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 166
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 170
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 174
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 18
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 28
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 32
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 36
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 40
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 23
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 33
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 37
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 41
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 45
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 51
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 80
 # File: module/b2b/view/b2b/flights/results.phtml, line: 80
@@ -11604,11 +11617,6 @@ msgstr ""
 msgid "Flying from"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 19
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 29
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 33
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 37
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 41
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 19
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 29
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 33
@@ -11649,6 +11657,16 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 167
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 171
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 175
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 19
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 29
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 33
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 37
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 41
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 34
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 38
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 42
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 46
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 52
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 81
 # File: module/b2b/view/b2b/flights/results.phtml, line: 81
@@ -11660,12 +11678,6 @@ msgstr ""
 msgid "Flying to"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 21
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 21
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 34
@@ -11721,6 +11733,18 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 192
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 194
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1014
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 21
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 30
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 34
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 38
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 42
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 54
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 26
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 35
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 39
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 43
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 47
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 59
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 440
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 12
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 8
@@ -11737,8 +11761,6 @@ msgstr ""
 msgid "Departing"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 22
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 55
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 22
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 56
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 58
@@ -11762,6 +11784,10 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 193
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 195
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1015
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 22
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 55
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 27
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 60
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 9
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 15
@@ -11772,7 +11798,6 @@ msgstr ""
 msgid "Returning"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 44
@@ -11781,11 +11806,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 103
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 178
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 44
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 49
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 92
 msgid "Add another flight"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 48
@@ -11793,6 +11819,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 182
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 48
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 53
 msgid "Compare GDS"
 msgstr ""
 #
@@ -17736,6 +17764,18 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 442
 msgid "Review and book your transfer"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 69
+msgid "REPORTES"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 92
+msgid "CTM MAYORISTA"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 101
+msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
 # File: module/b2b/view/layout/admin.phtml, line: 72
