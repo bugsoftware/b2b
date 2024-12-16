@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-15 08:20+0000\n"
+"POT-Creation-Date: 2024-12-16 17:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1135,8 +1135,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 61
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 120
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 88
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 93
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 96
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 155
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 203
@@ -2239,12 +2239,12 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 51
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 61
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 71
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 53
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 63
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 74
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 56
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 66
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 79
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 56
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 66
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 79
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 43
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 53
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 81
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/tours/results.phtml, line: 738
 # File: module/b2b/view/b2b/tours/results.phtml, line: 748
@@ -2355,8 +2355,10 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 97
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 52
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 73
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 76
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 81
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 81
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 56
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 66
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 83
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 65
 # File: module/b2b/view/b2b/tours/results.phtml, line: 750
@@ -3496,6 +3498,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 37
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 14
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 22
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 31
 # File: module/b2b/view/b2b/tours/results.phtml, line: 718
 # File: module/b2b/view/b2b/tours/results.phtml, line: 810
 msgid "Destination"
@@ -3719,10 +3722,10 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 42
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 36
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 50
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 73
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 52
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 78
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 52
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 78
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 36
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 80
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 36
 msgid "To"
 msgstr ""
@@ -3757,8 +3760,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 104
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 69
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 74
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 74
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 76
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 159
 # File: module/b2b/view/layout/admin.phtml, line: 274
 msgid "Search"
@@ -4915,10 +4918,10 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 41
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 49
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 35
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 49
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 72
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 51
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 77
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 51
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 77
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 35
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 79
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 35
 msgid "From"
@@ -5849,8 +5852,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 53
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 116
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 77
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 82
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 82
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 84
 # File: module/b2b/view/b2b/tours/results.phtml, line: 113
 # File: module/b2b/view/b2b/tours/results.phtml, line: 756
 # File: module/b2b/view/b2b/tours/results.phtml, line: 765
@@ -5918,8 +5921,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 54
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 108
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 117
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 78
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 83
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 83
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 85
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 70
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 71
 # File: module/b2b/view/b2b/tours/results.phtml, line: 114
@@ -6640,8 +6643,8 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 230
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 299
 # File: module/b2b/view/b2b/packages/view.phtml, line: 327
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 75
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 80
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 80
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 82
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 1217
 # File: module/b2b/view/shared/nav.phtml, line: 82
 # File: module/b2b/view/shared/nav.phtml, line: 95
@@ -7264,8 +7267,8 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 55
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 109
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 118
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 79
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 84
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 84
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 86
 # File: module/b2b/view/b2b/tours/results.phtml, line: 115
 # File: module/b2b/view/b2b/tours/view.phtml, line: 763
 msgid "ages"
@@ -17305,24 +17308,35 @@ msgstr ""
 msgid "Moneygram Locations"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 84
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 89
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 89
 msgid "Select Destination!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 85
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 90
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 90
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
 msgid "Invalid Adult Age!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 86
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 91
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 91
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
 msgid "Trip Cost is required! Please input the total cost of the trip."
 msgstr ""
 #
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 87
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 92
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 92
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
 msgid "Please input adult age!"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 41
+msgid "Trip Cost"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 73
+msgid "Cross Selling"
+msgstr ""
+#
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 92
+msgid "Invalid Trip Cost!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 56
