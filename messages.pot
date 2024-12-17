@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-16 17:39+0000\n"
+"POT-Creation-Date: 2024-12-17 21:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3320,7 +3320,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 19
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 17
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 487
-# File: module/b2b/view/shared/nav.phtml, line: 387
+# File: module/b2b/view/shared/nav.phtml, line: 391
 msgid "Hotels"
 msgstr ""
 #
@@ -3444,8 +3444,8 @@ msgstr ""
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 823
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 839
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 853
-# File: module/b2b/view/shared/nav.phtml, line: 245
-# File: module/b2b/view/shared/nav.phtml, line: 264
+# File: module/b2b/view/shared/nav.phtml, line: 247
+# File: module/b2b/view/shared/nav.phtml, line: 267
 msgid "OK"
 msgstr ""
 #
@@ -3811,7 +3811,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/search.phtml, line: 134
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 499
-# File: module/b2b/view/shared/nav.phtml, line: 385
+# File: module/b2b/view/shared/nav.phtml, line: 389
 msgid "Packages"
 msgstr ""
 #
@@ -6310,7 +6310,7 @@ msgstr ""
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 838
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 852
 # File: module/b2b/view/shared/nav.phtml, line: 229
-# File: module/b2b/view/shared/nav.phtml, line: 245
+# File: module/b2b/view/shared/nav.phtml, line: 247
 msgid "Cancel"
 msgstr ""
 #
@@ -12024,7 +12024,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 48
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 63
-# File: module/b2b/view/shared/nav.phtml, line: 380
+# File: module/b2b/view/shared/nav.phtml, line: 384
 msgid "Confirmed Departures"
 msgstr ""
 #
@@ -16669,7 +16669,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 13
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 42
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 70
-# File: module/b2b/view/shared/nav.phtml, line: 250
+# File: module/b2b/view/shared/nav.phtml, line: 253
 msgid "Who are you selling to?"
 msgstr ""
 #
@@ -16719,7 +16719,7 @@ msgid "National/State ID Card/Driver's License/DNI is required. Please input cus
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 75
-# File: module/b2b/view/shared/nav.phtml, line: 257
+# File: module/b2b/view/shared/nav.phtml, line: 260
 msgid "Phone number, Email, Tax Id/DNI"
 msgstr ""
 #
@@ -18058,11 +18058,15 @@ msgstr ""
 msgid "Per Person"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 383
+# File: module/b2b/view/shared/nav.phtml, line: 246
+msgid "Extra Fee:"
+msgstr ""
+#
+# File: module/b2b/view/shared/nav.phtml, line: 387
 msgid "Catalog"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 388
+# File: module/b2b/view/shared/nav.phtml, line: 392
 msgid "Air Offers"
 msgstr ""
 #
