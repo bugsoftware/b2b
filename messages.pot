@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-18 07:24+0000\n"
+"POT-Creation-Date: 2024-12-18 12:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1044,12 +1044,12 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/add.phtml, line: 244
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 749
 # File: module/b2b/view/b2b/booking/addflight.phtml, line: 74
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 116
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 116
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 165
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 124
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 173
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 127
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 136
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 145
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 193
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 155
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 204
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 179
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 230
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 298
 # File: module/b2b/view/b2b/booking/banorte.phtml, line: 63
@@ -1854,8 +1854,8 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 971
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1080
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1184
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 54
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 75
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 80
 # File: module/b2b/view/b2b/packages/view.phtml, line: 364
 msgid "Cancellation Policy"
 msgstr ""
@@ -2028,7 +2028,7 @@ msgid "Voucher No"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/hotels/confirm.phtml, line: 149
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 60
 # File: module/b2b/view/b2b/new-agent/index.phtml, line: 2
 msgid "Confirmation"
 msgstr ""
@@ -2155,11 +2155,11 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 414
 # File: module/b2b/view/b2b/activities/results.phtml, line: 30
 # File: module/b2b/view/b2b/activities/results.phtml, line: 216
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 42
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 66
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 48
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 51
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 60
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 45
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 69
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 53
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 54
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 71
 # File: module/b2b/view/b2b/booking/index.phtml, line: 335
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 23
@@ -2270,11 +2270,11 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 420
 # File: module/b2b/view/b2b/activities/results.phtml, line: 31
 # File: module/b2b/view/b2b/activities/results.phtml, line: 217
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 45
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 69
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 51
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 54
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 63
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 48
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 72
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 56
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 74
 # File: module/b2b/view/b2b/booking/index.phtml, line: 341
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 24
@@ -2979,9 +2979,9 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 959
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1068
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1172
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 39
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 39
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 72
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 42
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 43
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 76
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 646
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 102
 # File: module/b2b/view/b2b/tours/results.phtml, line: 788
@@ -3242,7 +3242,7 @@ msgid "Hotel name"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/hotels/results.phtml, line: 803
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 35
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 108
 # File: module/b2b/view/b2b/flights/matrix.phtml, line: 120
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 107
@@ -3483,7 +3483,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/routing.phtml, line: 16
 # File: module/b2b/view/b2b/admin/routing_add.phtml, line: 17
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 17
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 54
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 57
 # File: module/b2b/view/b2b/btob/addspecialist.phtml, line: 26
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 47
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 202
@@ -3701,8 +3701,8 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 29
 # File: module/b2b/view/b2b/activities/results.phtml, line: 213
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 126
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 45
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 45
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 48
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 50
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 230
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 146
 # File: module/b2b/view/b2b/dp/index.phtml, line: 80
@@ -4187,7 +4187,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/mapping_add.phtml, line: 11
 # File: module/b2b/view/b2b/admin/mapping_edit.phtml, line: 11
 # File: module/b2b/view/b2b/admin/routing_edit.phtml, line: 13
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 51
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 54
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 39
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 201
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 306
@@ -4278,8 +4278,8 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 2452
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 2471
 # File: module/b2b/view/b2b/activities/confirm.phtml, line: 73
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 75
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 60
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 78
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 63
 # File: module/b2b/view/b2b/booking/index.phtml, line: 681
 # File: module/b2b/view/b2b/insurances/confirm.phtml, line: 73
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 230
@@ -4492,7 +4492,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_dynamicpackaging.phtml, line: 70
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_dynamicpackaging.phtml, line: 130
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 124
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 39
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 42
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 99
 # File: module/b2b/view/b2b/bounces/index.phtml, line: 70
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 144
@@ -4515,7 +4515,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 955
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1064
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1168
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 39
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 42
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 509
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 665
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 776
@@ -4530,7 +4530,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 956
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1065
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1169
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 42
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 45
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 510
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 666
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 777
@@ -4580,7 +4580,8 @@ msgstr ""
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 964
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1073
 # File: module/b2b/b2b2c/b2b/reservations/index.phtml, line: 1177
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 48
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 51
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 65
 msgid "Net Price"
 msgstr ""
 #
@@ -4847,12 +4848,12 @@ msgid "Search Car Rentals"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_cars.phtml, line: 51
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 39
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 42
 msgid "Pick Up"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_cars.phtml, line: 56
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 42
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 45
 msgid "Drop Off"
 msgstr ""
 #
@@ -4896,8 +4897,8 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 28
 # File: module/b2b/view/b2b/activities/results.phtml, line: 212
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 125
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 42
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 42
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 45
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 47
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 227
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 145
 # File: module/b2b/view/b2b/dp/index.phtml, line: 76
@@ -4980,7 +4981,7 @@ msgid "Any Dates"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_cruises.phtml, line: 52
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 54
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 57
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 176
 # File: module/b2b/view/b2b/cruises/info.phtml, line: 31
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 65
@@ -4991,7 +4992,7 @@ msgid "Cruise Line"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2b/shared/index_searchbox_cruises.phtml, line: 53
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 48
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 51
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 132
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 363
 msgid "Ship"
@@ -7522,10 +7523,11 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/confirm.phtml, line: 104
 # File: module/b2b/view/b2b/activities/details.phtml, line: 398
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 130
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 51
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 72
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 60
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 66
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 54
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 75
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 65
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 69
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 68
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 69
 # File: module/b2b/view/b2b/booking/create.phtml, line: 35
 # File: module/b2b/view/b2b/booking/index.phtml, line: 671
@@ -8395,7 +8397,7 @@ msgid "Filters"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/results.phtml, line: 243
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 35
 msgid "Activity Name"
 msgstr ""
 #
@@ -9012,7 +9014,7 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/currency.phtml, line: 63
 # File: module/b2b/view/b2b/admin/currency.phtml, line: 64
 # File: module/b2b/view/b2b/admin/currency.phtml, line: 69
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 69
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 73
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 118
 # File: module/b2b/view/b2b/cars/results.phtml, line: 111
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 546
@@ -10158,95 +10160,105 @@ msgstr ""
 msgid "Add Hotel"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 25
+msgid "The activity has been successfully added to your existing booking. The total amount has been updated accordingly."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 61
 # File: module/b2b/view/b2b/tours/results.phtml, line: 781
 # File: module/b2b/view/b2b/tours/results.phtml, line: 838
 msgid "Direct Contract"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 61
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 61
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 79
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 64
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 83
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 67
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 66
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 64
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 82
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 69
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 88
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 78
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 105
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 55
 # File: module/b2b/view/layout/admin.phtml, line: 273
 msgid "Add"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 77
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 97
 msgid "Activity name is required. Please input activity name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 82
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 102
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 256
 msgid "Date is required. Please input date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 87
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 146
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 100
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 124
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 107
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 174
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 131
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 155
 msgid "Adults is required. Please input adults."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 92
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 151
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 105
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 129
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 123
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 112
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 179
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 136
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 160
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 175
 msgid "Children is required. Please input children."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 97
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 117
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 160
 msgid "Net price is required. Please input net price."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 102
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 156
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 120
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 149
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 122
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 184
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 151
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 180
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 165
 # File: module/b2b/view/b2b/booking/create.phtml, line: 81
 msgid "Total is required. Please input total."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 107
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 164
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 127
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 195
 msgid "Cancellation Policy is required. Please input cancellation policy."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 112
+# File: module/b2b/view/b2b/booking/addofflineactivity.phtml, line: 132
 msgid "Direct contract is required. Please input direct contract."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 25
+msgid "The car rental has been successfully added to your existing booking. The total amount has been updated accordingly."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 35
 # File: module/b2b/view/b2b/cars/results.phtml, line: 178
 msgid "Car Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 45
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 39
-msgid "Pick Up Date"
-msgstr ""
-#
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 48
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 42
-msgid "Pick Up Time"
+msgid "Pick Up Date"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 51
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 45
-msgid "Drop Off Date"
+msgid "Pick Up Time"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 54
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 48
-msgid "Drop Off Time"
+msgid "Drop Off Date"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 51
+msgid "Drop Off Time"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 60
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 30
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 470
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 360
@@ -10255,119 +10267,133 @@ msgstr ""
 msgid "Car Rental"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 77
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 106
 msgid "Car name is required. Please input car name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 82
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 111
 msgid "Pick Up is required. Please input pick up."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 87
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 116
 msgid "Drop Off is required. Please input drop off."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 92
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 88
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 121
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 125
 msgid "Pick Up Date is required. Please input pick up date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 97
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 93
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 126
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 130
 msgid "Pick Up Time is required. Please input pick up time."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 102
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 98
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 131
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 135
 msgid "Drop Off Date is required. Please input drop off date."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 107
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 103
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 136
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 140
 msgid "Drop Off Time is required. Please input drop off time."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 112
+# File: module/b2b/view/b2b/booking/addofflinecarrental.phtml, line: 141
 msgid "Car Rental is required. Please input car rental."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 25
+msgid "The cruise has been successfully added to your existing booking. The total amount has been updated accordingly."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 35
 msgid "Cruise Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 51
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 54
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 362
 # File: module/b2b/view/b2b/tours/results.phtml, line: 908
 msgid "Length"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 60
 msgid "Cabin Code"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 60
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 63
 # File: module/b2b/view/b2b/cruises/cabin.phtml, line: 88
 msgid "Cabin Number"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 63
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 66
 # File: module/b2b/view/b2b/cruises/checkout.phtml, line: 131
 msgid "Dining Seating"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 95
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 124
 msgid "Cruise name is required. Please input cruise name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 100
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 85
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 129
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 116
 msgid "Supplier is required. Please input supplier."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 105
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 90
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 134
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 121
 msgid "Date from is required. Please input date from."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 110
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 95
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 139
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 126
 msgid "Date to is required. Please input date to."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 115
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 144
 msgid "Ship is required. Please input ship."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 120
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 149
 msgid "Length is required. Please input length."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 125
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 154
 msgid "Cruise Line is required. Please input cruise_line."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 131
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 159
 msgid "Cabin code is required. Please input cabin code."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 136
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 164
 msgid "Cabin Number is required. Please input cabin number."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 141
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 169
 msgid "Dining Seating is required. Please input dining seating."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 161
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 139
+# File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 189
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 170
 msgid "Voucher is required. Please input voucher."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 25
+msgid "The flight has been successfully added to your existing booking. The total amount has been updated accordingly."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 35
 msgid "Flight Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 54
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 35
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 271
+# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 296
+msgid "Flight Number"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 59
 # File: module/b2b/view/b2b/btob/airlinescolombia.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesecuador.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 25
@@ -10390,79 +10416,83 @@ msgstr ""
 msgid "Infants"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 62
 msgid "Validating Carrier"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 80
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 111
 msgid "Flight name is required. Please input flight name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 110
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 141
 msgid "Infants is required. Please input infants."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 115
+# File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 146
 msgid "Carrier is required. Please input carrier."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 45
-msgid "Room Name"
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 25
+msgid "The hotel has been successfully added to your existing booking. The total amount has been updated accordingly."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 48
+msgid "Room Name"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 51
 msgid "Meal/Board Type"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 63
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 66
 msgid "Net"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 78
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 83
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 103
 # File: module/b2b/view/b2b/booking/create.phtml, line: 36
 msgid "Memo"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 99
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 130
 msgid "Hotel name is required. Please input hotel name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 104
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 135
 msgid "Check In is required. Please input check in."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 109
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 140
 msgid "Check Out is required. Please input check out."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 114
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 145
 msgid "Room is required. Please input room."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 119
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 150
 msgid "Meal is required. Please input meal."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 134
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 165
 msgid "Confirmation  is required. Please input confirmation."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 144
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 175
 msgid "Net is required. Please input net."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 154
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 185
 # File: module/b2b/view/b2b/booking/create.phtml, line: 87
 msgid "Currency name is required. Please input currency name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 159
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 190
 # File: module/b2b/view/b2b/booking/create.phtml, line: 98
 msgid "Supplier name is required. Please input supplier name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 169
+# File: module/b2b/view/b2b/booking/addofflinehotel.phtml, line: 200
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 294
 msgid "Memo is required. Please input memo."
 msgstr ""
@@ -10477,28 +10507,36 @@ msgstr ""
 msgid "Add Transfer"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 32
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 25
+msgid "The transfer has been successfully added to your existing booking. The total amount has been updated accordingly."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 35
 msgid "Transfer Name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 57
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 61
 msgid "Direct"
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 83
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 120
 msgid "Transfer name is required. Please input transfer name."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 108
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 145
 msgid "Origin is required. Please input origin."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 113
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 150
 msgid "Destination is required. Please input destination."
 msgstr ""
 #
-# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 118
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 155
 msgid "Direct is required. Please input direct."
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 170
+msgid "Adults is required. Please input children."
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 17
@@ -15741,11 +15779,6 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 267
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 292
 msgid "Arriving to Airport"
-msgstr ""
-#
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 271
-# File: module/b2b/view/b2b/hotels/checkout.phtml, line: 296
-msgid "Flight Number"
 msgstr ""
 #
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 275
