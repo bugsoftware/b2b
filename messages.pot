@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-18 22:04+0000\n"
+"POT-Creation-Date: 2024-12-30 14:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6130,8 +6130,8 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 338
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1234
 # File: module/b2b/view/b2b/activities/results.phtml, line: 138
-# File: module/b2b/view/b2b/btob/index.phtml, line: 532
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1094
+# File: module/b2b/view/b2b/btob/index.phtml, line: 540
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1130
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 71
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 98
 # File: module/b2b/view/b2b/packages/search.phtml, line: 183
@@ -8224,6 +8224,7 @@ msgid "Children:"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 524
+# File: module/b2b/view/b2b/btob/index.phtml, line: 489
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 231
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1444
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1447
@@ -8241,6 +8242,7 @@ msgid "Terms & Conditions"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/checkout.phtml, line: 525
+# File: module/b2b/view/b2b/btob/index.phtml, line: 492
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 235
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1449
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1458
@@ -8338,7 +8340,7 @@ msgid "Unable to retreive booking code(s)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/index.phtml, line: 157
-# File: module/b2b/view/b2b/btob/index.phtml, line: 929
+# File: module/b2b/view/b2b/btob/index.phtml, line: 937
 # File: module/b2b/view/b2b/cars/index.phtml, line: 157
 # File: module/b2b/view/b2b/dp/index.phtml, line: 259
 # File: module/b2b/view/b2b/transfers/index.phtml, line: 157
@@ -12071,7 +12073,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/index.phtml, line: 51
 # File: module/b2b/view/b2b/btob/index.phtml, line: 52
 # File: module/b2b/view/b2b/btob/index.phtml, line: 53
-# File: module/b2b/view/b2b/btob/index.phtml, line: 531
+# File: module/b2b/view/b2b/btob/index.phtml, line: 539
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 21
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 503
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 231
@@ -12081,15 +12083,15 @@ msgstr ""
 msgid "from"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 500
+# File: module/b2b/view/b2b/btob/index.phtml, line: 508
 msgid "MARKETING"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 501
+# File: module/b2b/view/b2b/btob/index.phtml, line: 509
 msgid "CUSTOMERS"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 531
+# File: module/b2b/view/b2b/btob/index.phtml, line: 539
 # File: module/b2b/view/b2b/cruises/confirm.phtml, line: 160
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 63
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 362
@@ -12100,7 +12102,7 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1094
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1130
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
