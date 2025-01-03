@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-30 17:33+0000\n"
+"POT-Creation-Date: 2025-01-03 14:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1069,6 +1069,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 198
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1078
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 93
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 239
 # File: module/b2b/view/b2b/cars/results.phtml, line: 492
 # File: module/b2b/view/b2b/cars/searching.phtml, line: 45
@@ -1135,7 +1136,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 61
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 120
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 93
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 96
 # File: module/b2b/view/b2b/telemarketing/edit.phtml, line: 328
 # File: module/b2b/view/b2b/telemarketing/index.phtml, line: 155
@@ -2167,11 +2167,14 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 23
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 29
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 28
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 23
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 61
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 70
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 164
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 56
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 66
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 79
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -2239,9 +2242,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 51
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 61
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 71
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 56
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 66
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 79
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 43
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 53
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 81
@@ -2282,11 +2282,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 29
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 24
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 71
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 79
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 165
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 81
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 755
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 834
@@ -2355,7 +2356,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 97
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 52
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 73
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 81
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 56
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 66
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 83
@@ -3703,6 +3703,8 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 126
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 48
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 50
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 52
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 78
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 230
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 146
 # File: module/b2b/view/b2b/dp/index.phtml, line: 80
@@ -3722,8 +3724,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 42
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 50
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 36
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 52
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 78
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 36
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 80
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 36
@@ -3742,11 +3742,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 49
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 55
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 142
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 190
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1079
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 74
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
@@ -3760,7 +3761,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_hotels.phtml, line: 86
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 104
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 74
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 76
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 159
 # File: module/b2b/view/layout/admin.phtml, line: 274
@@ -4899,6 +4899,8 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 125
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 45
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 47
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 51
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 77
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 227
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 145
 # File: module/b2b/view/b2b/dp/index.phtml, line: 76
@@ -4919,8 +4921,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 41
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 49
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 35
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 51
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 77
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 35
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 79
 # File: module/b2b/view/b2b/tours/view.phtml, line: 39
@@ -5482,7 +5482,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 14
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 20
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 19
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 53
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 155
@@ -5813,6 +5813,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 32
 # File: module/b2b/view/b2b/activities/results.phtml, line: 221
 # File: module/b2b/view/b2b/booking/index.phtml, line: 339
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 82
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 438
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 567
@@ -5853,7 +5854,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 53
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 107
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 116
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 82
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 84
 # File: module/b2b/view/b2b/tours/results.phtml, line: 113
 # File: module/b2b/view/b2b/tours/results.phtml, line: 756
@@ -5888,6 +5888,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 360
 # File: module/b2b/view/b2b/activities/results.phtml, line: 33
 # File: module/b2b/view/b2b/activities/results.phtml, line: 221
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 83
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 174
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 335
@@ -5922,7 +5923,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 54
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 108
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 117
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 83
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 85
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 70
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 71
@@ -6629,6 +6629,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1217
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 358
 # File: module/b2b/view/b2b/activities/details.phtml, line: 356
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 80
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -6644,7 +6645,6 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 230
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 299
 # File: module/b2b/view/b2b/packages/view.phtml, line: 327
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 80
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 82
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 1217
 # File: module/b2b/view/shared/nav.phtml, line: 82
@@ -7260,6 +7260,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 34
 # File: module/b2b/view/b2b/activities/details.phtml, line: 34
 # File: module/b2b/view/b2b/activities/results.phtml, line: 34
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 84
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 303
 # File: module/b2b/view/b2b/packages/details.phtml, line: 34
 # File: module/b2b/view/b2b/packages/search.phtml, line: 35
@@ -7268,7 +7269,6 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 55
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 109
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 118
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 84
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 86
 # File: module/b2b/view/b2b/tours/results.phtml, line: 115
 # File: module/b2b/view/b2b/tours/view.phtml, line: 763
@@ -7475,7 +7475,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 31
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 88
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 166
@@ -10401,7 +10401,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 31
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 80
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 166
@@ -11581,7 +11581,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 15
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 21
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 20
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 156
@@ -11598,7 +11598,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 16
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 22
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 21
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 55
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 157
@@ -11639,11 +11639,11 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 32
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 36
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 34
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 38
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 42
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 46
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 23
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 33
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 37
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 41
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 45
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 18
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 28
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 32
@@ -11700,11 +11700,11 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 33
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 37
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 41
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 25
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 35
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 39
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 43
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 47
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 24
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 34
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 38
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 42
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 46
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 19
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 29
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 33
@@ -11772,12 +11772,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 38
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 42
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 27
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 36
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 40
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 60
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 26
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 35
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 39
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 43
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 47
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 59
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 21
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 34
@@ -11831,8 +11831,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 58
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 22
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 55
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 28
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 61
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 27
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 60
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 22
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 56
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 58
@@ -11857,7 +11857,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 44
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 50
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 106
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 185
@@ -11871,7 +11871,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlines.phtml, line: 54
+# File: module/b2b/view/b2b/btob/airlines.phtml, line: 53
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 189
 msgid "Compare GDS"
@@ -12185,6 +12185,25 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 137
 msgid "passengers"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 89
+msgid "Select Destination!"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 90
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
+msgid "Invalid Adult Age!"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 91
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
+msgid "Trip Cost is required! Please input the total cost of the trip."
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 92
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
+msgid "Please input adult age!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 10
@@ -17340,25 +17359,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/shared/paymentmethods.phtml, line: 956
 msgid "Moneygram Locations"
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 89
-msgid "Select Destination!"
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 90
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
-msgid "Invalid Adult Age!"
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 91
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
-msgid "Trip Cost is required! Please input the total cost of the trip."
-msgstr ""
-#
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.peru.phtml, line: 92
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
-msgid "Please input adult age!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 41
