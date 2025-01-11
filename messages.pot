@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-11 10:57+0000\n"
+"POT-Creation-Date: 2025-01-11 10:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1069,7 +1069,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlineslatam.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 198
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1078
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 93
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 94
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 239
 # File: module/b2b/view/b2b/cars/results.phtml, line: 492
 # File: module/b2b/view/b2b/cars/searching.phtml, line: 45
@@ -2172,9 +2172,9 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 61
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 70
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 164
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 56
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 66
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 79
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 57
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 67
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 80
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -2287,7 +2287,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 71
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 79
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 165
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 81
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 82
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 755
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 834
@@ -3703,8 +3703,8 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 126
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 48
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 50
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 52
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 78
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 53
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 79
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 230
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 146
 # File: module/b2b/view/b2b/dp/index.phtml, line: 80
@@ -3747,7 +3747,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 142
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 190
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1079
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 74
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 75
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
@@ -4899,8 +4899,8 @@ msgstr ""
 # File: module/b2b/view/b2b/agents/edit.phtml, line: 125
 # File: module/b2b/view/b2b/booking/addofflinecruise.phtml, line: 45
 # File: module/b2b/view/b2b/booking/addofflineflight.phtml, line: 47
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 51
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 77
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 52
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 78
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 227
 # File: module/b2b/view/b2b/customers/edit.phtml, line: 145
 # File: module/b2b/view/b2b/dp/index.phtml, line: 76
@@ -5813,7 +5813,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/results.phtml, line: 32
 # File: module/b2b/view/b2b/activities/results.phtml, line: 221
 # File: module/b2b/view/b2b/booking/index.phtml, line: 339
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 82
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 83
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 438
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 567
@@ -5888,7 +5888,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 360
 # File: module/b2b/view/b2b/activities/results.phtml, line: 33
 # File: module/b2b/view/b2b/activities/results.phtml, line: 221
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 83
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 84
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 173
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 174
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 335
@@ -6629,7 +6629,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1217
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 358
 # File: module/b2b/view/b2b/activities/details.phtml, line: 356
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 80
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 81
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -7260,7 +7260,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/activity.phtml, line: 34
 # File: module/b2b/view/b2b/activities/details.phtml, line: 34
 # File: module/b2b/view/b2b/activities/results.phtml, line: 34
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 84
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 85
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 303
 # File: module/b2b/view/b2b/packages/details.phtml, line: 34
 # File: module/b2b/view/b2b/packages/search.phtml, line: 35
@@ -12187,21 +12187,21 @@ msgstr ""
 msgid "passengers"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 89
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 90
 msgid "Select Destination!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 90
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 91
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
 msgid "Invalid Adult Age!"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 91
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 92
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
 msgid "Trip Cost is required! Please input the total cost of the trip."
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 92
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 93
 # File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
 msgid "Please input adult age!"
 msgstr ""
