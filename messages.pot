@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-14 13:12+0000\n"
+"POT-Creation-Date: 2025-01-15 12:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2936,7 +2936,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/chain.phtml, line: 354
 # File: module/b2b/view/b2b/hotels/list.phtml, line: 403
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 668
-# File: module/b2b/view/shared/nav.phtml, line: 217
+# File: module/b2b/view/shared/nav.phtml, line: 219
 msgid "More"
 msgstr ""
 #
@@ -3320,7 +3320,7 @@ msgstr ""
 # File: module/b2b/view/b2b/dp/index.phtml, line: 19
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 17
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 487
-# File: module/b2b/view/shared/nav.phtml, line: 396
+# File: module/b2b/view/shared/nav.phtml, line: 400
 msgid "Hotels"
 msgstr ""
 #
@@ -3444,8 +3444,8 @@ msgstr ""
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 823
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 839
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 853
-# File: module/b2b/view/shared/nav.phtml, line: 252
-# File: module/b2b/view/shared/nav.phtml, line: 272
+# File: module/b2b/view/shared/nav.phtml, line: 256
+# File: module/b2b/view/shared/nav.phtml, line: 276
 msgid "OK"
 msgstr ""
 #
@@ -3811,7 +3811,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/search.phtml, line: 134
 # File: module/b2b/view/b2b/packages/view.phtml, line: 48
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 499
-# File: module/b2b/view/shared/nav.phtml, line: 394
+# File: module/b2b/view/shared/nav.phtml, line: 398
 msgid "Packages"
 msgstr ""
 #
@@ -6310,8 +6310,8 @@ msgstr ""
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 822
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 838
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 852
-# File: module/b2b/view/shared/nav.phtml, line: 229
-# File: module/b2b/view/shared/nav.phtml, line: 252
+# File: module/b2b/view/shared/nav.phtml, line: 231
+# File: module/b2b/view/shared/nav.phtml, line: 256
 msgid "Cancel"
 msgstr ""
 #
@@ -6752,7 +6752,7 @@ msgid "Contact us"
 msgstr ""
 #
 # File: module/b2b/b2b2c/layout/layout.phtml, line: 196
-# File: module/b2b/view/shared/nav.phtml, line: 212
+# File: module/b2b/view/shared/nav.phtml, line: 214
 msgid "Logout"
 msgstr ""
 #
@@ -7617,7 +7617,7 @@ msgstr ""
 # File: module/b2b/view/shared/nav.phtml, line: 145
 # File: module/b2b/view/shared/nav.phtml, line: 157
 # File: module/b2b/view/shared/nav.phtml, line: 166
-# File: module/b2b/view/shared/nav.phtml, line: 236
+# File: module/b2b/view/shared/nav.phtml, line: 238
 msgid "Total"
 msgstr ""
 #
@@ -12063,7 +12063,7 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 48
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 63
-# File: module/b2b/view/shared/nav.phtml, line: 389
+# File: module/b2b/view/shared/nav.phtml, line: 393
 msgid "Confirmed Departures"
 msgstr ""
 #
@@ -16403,7 +16403,7 @@ msgid "Password successfully changed."
 msgstr ""
 #
 # File: module/b2b/view/b2b/password/index.phtml, line: 35
-# File: module/b2b/view/shared/nav.phtml, line: 211
+# File: module/b2b/view/shared/nav.phtml, line: 213
 msgid "Change password"
 msgstr ""
 #
@@ -16722,7 +16722,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 13
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 42
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 70
-# File: module/b2b/view/shared/nav.phtml, line: 258
+# File: module/b2b/view/shared/nav.phtml, line: 262
 msgid "Who are you selling to?"
 msgstr ""
 #
@@ -16772,7 +16772,7 @@ msgid "National/State ID Card/Driver's License/DNI is required. Please input cus
 msgstr ""
 #
 # File: module/b2b/view/b2b/shared/customer.phtml, line: 75
-# File: module/b2b/view/shared/nav.phtml, line: 265
+# File: module/b2b/view/shared/nav.phtml, line: 269
 msgid "Phone number, Email, Tax Id/DNI"
 msgstr ""
 #
@@ -18072,39 +18072,39 @@ msgstr ""
 msgid "Your basket is currently empty."
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 209
+# File: module/b2b/view/shared/nav.phtml, line: 211
 msgid "Cart"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 210
+# File: module/b2b/view/shared/nav.phtml, line: 212
 msgid "Markup:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 223
+# File: module/b2b/view/shared/nav.phtml, line: 225
 msgid "Change Account Commission"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 234
+# File: module/b2b/view/shared/nav.phtml, line: 236
 msgid "Fixed Markup/Service Fee"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 237
+# File: module/b2b/view/shared/nav.phtml, line: 239
 msgid "Per Person"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 241
+# File: module/b2b/view/shared/nav.phtml, line: 243
 msgid "Extra Fee:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 242
+# File: module/b2b/view/shared/nav.phtml, line: 245
 msgid "Percentage:"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 392
+# File: module/b2b/view/shared/nav.phtml, line: 396
 msgid "Catalog"
 msgstr ""
 #
-# File: module/b2b/view/shared/nav.phtml, line: 397
+# File: module/b2b/view/shared/nav.phtml, line: 401
 msgid "Air Offers"
 msgstr ""
 #
