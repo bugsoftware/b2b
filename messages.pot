@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-10 15:29-0500\n"
+"POT-Creation-Date: 2025-02-13 02:26-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6139,9 +6139,6 @@ msgstr ""
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 76
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 126
 # File: module/b2b/view/b2b/quotes/index.phtml, line: 316
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 211
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 426
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 805
 # File: module/b2b/view/b2b/tours/results.phtml, line: 486
 # File: module/b2b/view/b2b/tours/results.phtml, line: 1042
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 338
@@ -16544,10 +16541,16 @@ msgstr ""
 msgid "Inv."
 msgstr ""
 #
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 211
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 426
+# File: module/b2b/view/b2b/reservations/index.phtml, line: 805
+msgid "View Ticket"
+msgstr ""
+#
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 214
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 429
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 808
-msgid "View/Issue Tickets"
+msgid "Issue Tickets"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 215
@@ -16602,10 +16605,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 688
 msgid "Channel"
-msgstr ""
-#
-# File: module/b2b/view/b2b/reservations/index.phtml, line: 808
-msgid "Issue Tickets"
 msgstr ""
 #
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 915
