@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-24 02:32-0500\n"
+"POT-Creation-Date: 2025-03-05 12:29-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11415,6 +11415,10 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/booking/index.phtml, line: 713
 msgid "Are you sure you want to cancel this item?"
+msgstr ""
+#
+# File: module/b2b/view/b2b/booking/index.phtml, line: 752
+msgid "eAgent is not properly configured. Please contact customer support or your account executive to correctly set up eAgent!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/booking/sendpaymentnotice.phtml, line: 16
