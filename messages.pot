@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-01 16:20-0400\n"
+"POT-Creation-Date: 2025-05-01 16:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2176,6 +2176,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 57
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 67
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 80
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 23
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 200
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 753
@@ -2291,6 +2292,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 81
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 167
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 82
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 24
 # File: module/b2b/view/b2b/cart/cart.phtml, line: 190
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 755
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 834
@@ -3753,6 +3755,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 192
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1082
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 75
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 49
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 138
@@ -5498,6 +5501,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 14
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 55
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 157
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 14
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1050
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 243
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 103
@@ -7489,6 +7493,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 90
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 168
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 456
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 758
 # File: module/b2b/view/b2b/flights/calendar.phtml, line: 71
@@ -10417,6 +10422,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 25
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 82
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 168
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 25
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 758
 # File: module/b2b/view/b2b/flights/checkout.phtml, line: 207
 # File: module/b2b/view/b2b/flights/checkoutconfirmeddepartures.phtml, line: 221
@@ -11602,6 +11608,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 15
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 56
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 158
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 46
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 75
 # File: module/b2b/view/b2b/flights/results.phtml, line: 75
@@ -11620,6 +11627,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 16
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 57
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 159
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 16
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 48
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 77
 # File: module/b2b/view/b2b/flights/results.phtml, line: 77
@@ -11674,6 +11682,11 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 175
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 179
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 183
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 18
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 28
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 32
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 36
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 40
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 51
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 80
 # File: module/b2b/view/b2b/flights/results.phtml, line: 80
@@ -11740,6 +11753,11 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 176
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 180
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 184
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 19
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 29
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 33
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 37
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 41
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 52
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 81
 # File: module/b2b/view/b2b/flights/results.phtml, line: 81
@@ -11822,6 +11840,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 202
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 204
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1079
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 21
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 30
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 34
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 38
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 42
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 54
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 440
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 12
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 8
@@ -11876,6 +11900,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 203
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 205
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1080
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 22
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 55
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 9
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 15
@@ -11900,6 +11926,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 44
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 108
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 187
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 44
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 108
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 187
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 92
@@ -11914,6 +11941,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 191
+# File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 48
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 191
 msgid "Compare GDS"
 msgstr ""
@@ -17877,6 +17905,18 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/searching.phtml, line: 44
 msgid "Searching transfers"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 79
+msgid "REPORTES"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 105
+msgid "CTM MAYORISTA"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 114
+msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
 # File: module/b2b/view/layout/admin.phtml, line: 72
