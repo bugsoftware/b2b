@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-12 12:34-0400\n"
+"POT-Creation-Date: 2025-08-13 02:47-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7204,11 +7204,11 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/b2b/src/Controller/AgentsController.php, line: 462
+# File: module/b2b/src/Controller/AgentsController.php, line: 467
 msgid "Email/account already exists. Please contact agent support or use different agency email address."
 msgstr ""
 #
-# File: module/b2b/src/Controller/AgentsController.php, line: 465
+# File: module/b2b/src/Controller/AgentsController.php, line: 470
 # File: module/b2b/src/Controller/CustomersController.php, line: 539
 # File: module/b2b/src/Controller/CustomersController.php, line: 687
 # File: module/b2b/src/Controller/CustomersController.php, line: 976
@@ -7216,7 +7216,7 @@ msgstr ""
 msgid "Invalid email address. Please input valid email address."
 msgstr ""
 #
-# File: module/b2b/src/Controller/AgentsController.php, line: 470
+# File: module/b2b/src/Controller/AgentsController.php, line: 475
 msgid "Unable to create agent."
 msgstr ""
 #
