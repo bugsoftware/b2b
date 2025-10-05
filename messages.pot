@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-29 14:41-0400\n"
+"POT-Creation-Date: 2025-10-05 01:05-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6762,7 +6762,9 @@ msgid "Home"
 msgstr ""
 #
 # File: module/b2b/b2b2c/layout/layout.phtml, line: 194
-# File: module/b2b/view/b2b/index/index.phtml, line: 277
+# File: module/b2b/view/b2b/index/index.phtml, line: 276
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 266
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 266
 msgid "Contact us"
 msgstr ""
 #
@@ -6804,6 +6806,8 @@ msgstr ""
 # File: module/b2b/b2b2c/login/index.phtml, line: 209
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 78
 # File: module/b2b/view/b2b/index/index.phtml, line: 124
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 124
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 124
 # File: module/b2b/view/login/googleauthenticator.phtml, line: 72
 # File: module/b2b/view/login/index.phtml, line: 72
 # File: module/b2b/view/login/otptwostep.phtml, line: 72
@@ -9009,6 +9013,8 @@ msgstr ""
 # File: module/b2b/view/b2b/admin/languages.phtml, line: 97
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 80
 # File: module/b2b/view/b2b/index/index.phtml, line: 126
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 126
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 126
 # File: module/b2b/view/login/googleauthenticator.phtml, line: 74
 # File: module/b2b/view/login/index.phtml, line: 74
 # File: module/b2b/view/login/otptwostep.phtml, line: 74
@@ -15231,6 +15237,8 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 30
 # File: module/b2b/view/b2b/index/index.phtml, line: 76
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 76
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 76
 # File: module/b2b/view/login/googleauthenticator.phtml, line: 24
 # File: module/b2b/view/login/index.phtml, line: 24
 # File: module/b2b/view/login/otptwostep.phtml, line: 24
@@ -15933,90 +15941,134 @@ msgid "Read more"
 msgstr ""
 #
 # File: module/b2b/view/b2b/index/index.phtml, line: 168
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 158
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 158
 msgid "Leading flight inventory across more than 100 airlines globally provides great selection and value for consumers."
 msgstr ""
 #
 # File: module/b2b/view/b2b/index/index.phtml, line: 177
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 167
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 167
 msgid "Global supply of 830,784 hotels worldwide with standalone, retail and package rates."
 msgstr ""
 #
 # File: module/b2b/view/b2b/index/index.phtml, line: 186
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 176
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 176
 msgid "More than 10,000+ travel professionals trust our system to book the best and lowest rates for their customers."
 msgstr ""
 #
 # File: module/b2b/view/b2b/index/index.phtml, line: 195
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 185
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 185
 msgid "24/7 SUPPORT"
 msgstr ""
 #
 # File: module/b2b/view/b2b/index/index.phtml, line: 196
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 186
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 186
 msgid "Our Support Service is available 24 hours a day, 7 days a week to help you buy your tickets."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 202
+# File: module/b2b/view/b2b/index/index.phtml, line: 201
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 191
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 191
 msgid "Obtain access to net wholesale rates and real time inventory"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 210
+# File: module/b2b/view/b2b/index/index.phtml, line: 209
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 199
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 199
 msgid "INTEGRITY"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 211
+# File: module/b2b/view/b2b/index/index.phtml, line: 210
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 200
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 200
 msgid "Being a dependable and trustworthy business partner We'll help you design a travel program and policy that delivers measurable results."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 218
+# File: module/b2b/view/b2b/index/index.phtml, line: 217
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 207
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 207
 msgid "RELIABILITY"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 219
+# File: module/b2b/view/b2b/index/index.phtml, line: 218
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 208
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 208
 msgid "Our dynamic package booking engine delivers any combination of air, hotel, activities, transfers and car inventory to your customers."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 226
+# File: module/b2b/view/b2b/index/index.phtml, line: 225
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 215
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 215
 msgid "CUSTOMER CARE"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 227
+# File: module/b2b/view/b2b/index/index.phtml, line: 226
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 216
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 216
 msgid "Give your travelers access to the most and best hotels for business travel, no matter how they book."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 237
+# File: module/b2b/view/b2b/index/index.phtml, line: 236
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 226
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 226
 msgid "Commitment to excellence"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 238
+# File: module/b2b/view/b2b/index/index.phtml, line: 237
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 227
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 227
 msgid "Building productive, long standing relationships by always doing what's right. We'll help you balance the needs of your company with the services that keep travelers happy."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 239
+# File: module/b2b/view/b2b/index/index.phtml, line: 238
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 228
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 228
 msgid "We are a leading global online travel company that uses innovative technology to enable leisure and business travelers to search for, plan and book a broad range of travel products and services including airline tickets, hotels, car rentals, cruises, and vacation packages. With 4 different kind of collaborations, we do our best to give everyone a chance to make this partnership a success: - B2B Access - B2C Access - XML integration - White Label"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 280
+# File: module/b2b/view/b2b/index/index.phtml, line: 279
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 269
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 269
 msgid "Through the perfect blend of people and technology, we deliver the most seamless, personalized and integrated experiences."
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 292
+# File: module/b2b/view/b2b/index/index.phtml, line: 291
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 281
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 281
 msgid "name"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 293
+# File: module/b2b/view/b2b/index/index.phtml, line: 292
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 282
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 282
 msgid "email"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 294
+# File: module/b2b/view/b2b/index/index.phtml, line: 293
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 283
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 283
 msgid "phone"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 295
+# File: module/b2b/view/b2b/index/index.phtml, line: 294
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 284
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 284
 msgid "subject"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 299
+# File: module/b2b/view/b2b/index/index.phtml, line: 298
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 288
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 288
 msgid "message"
 msgstr ""
 #
-# File: module/b2b/view/b2b/index/index.phtml, line: 300
+# File: module/b2b/view/b2b/index/index.phtml, line: 299
+# File: module/b2b/view/b2b/index/aboutus.phtml, line: 289
+# File: module/b2b/view/b2b/index/contactus.phtml, line: 289
 msgid "SEND MESSAGE"
 msgstr ""
 #
