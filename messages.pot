@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-08 09:55-0400\n"
+"POT-Creation-Date: 2025-10-13 16:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1064,12 +1064,12 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 54
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 203
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1083
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 205
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1096
 # File: module/b2b/view/b2b/btob/details.phtml, line: 527
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 94
 # File: module/b2b/view/b2b/btob/index.phtml, line: 34
 # File: module/b2b/view/b2b/btob/index.phtml, line: 35
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 94
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 239
 # File: module/b2b/view/b2b/cars/results.phtml, line: 492
 # File: module/b2b/view/b2b/cars/searching.phtml, line: 45
@@ -3752,8 +3752,8 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 146
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 194
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1084
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 196
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1097
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 75
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 49
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
@@ -11842,9 +11842,9 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 179
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 183
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 187
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 204
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 206
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1081
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 208
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1094
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 21
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 30
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 34
@@ -11902,9 +11902,9 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 58
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 64
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 167
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 205
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 207
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1082
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 209
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1095
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 22
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 55
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 15
@@ -11945,7 +11945,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesmexico.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 48
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 48
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 193
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 195
 # File: module/b2b/view/b2b/btob/airlines.old.phtml, line: 48
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 191
 msgid "Compare GDS"
@@ -12026,7 +12026,11 @@ msgstr ""
 msgid "+ Car"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1086
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 191
+msgid "Remove last flight"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1099
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
@@ -12035,7 +12039,7 @@ msgstr ""
 msgid "You can select a maximum of"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1086
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1099
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
@@ -12195,6 +12199,25 @@ msgstr ""
 msgid "Schedule"
 msgstr ""
 #
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 90
+msgid "Select Destination!"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 91
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
+msgid "Invalid Adult Age!"
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 92
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
+msgid "Trip Cost is required! Please input the total cost of the trip."
+msgstr ""
+#
+# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 93
+# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
+msgid "Please input adult age!"
+msgstr ""
+#
 # File: module/b2b/view/b2b/btob/index.phtml, line: 12
 # File: module/b2b/view/b2b/emits/emitibooking.phtml, line: 12
 # File: module/b2b/view/b2b/emits/index.phtml, line: 13
@@ -12270,25 +12293,6 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/btob/index.phtml, line: 1114
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 90
-msgid "Select Destination!"
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 91
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 93
-msgid "Invalid Adult Age!"
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 92
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 94
-msgid "Trip Cost is required! Please input the total cost of the trip."
-msgstr ""
-#
-# File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 93
-# File: module/b2b/view/b2b/shared/index_searchbox_insurances.phtml, line: 95
-msgid "Please input adult age!"
 msgstr ""
 #
 # File: module/b2b/view/b2b/cars/checkout.phtml, line: 10
@@ -17964,17 +17968,17 @@ msgstr ""
 msgid "Searching transfers"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 84
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 67
 # File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 85
 msgid "REPORTES"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 110
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 81
 # File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 111
 msgid "CTM MAYORISTA"
 msgstr ""
 #
-# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 119
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 90
 # File: module/b2b/view/b2b/custom/topmenu.old.phtml, line: 120
 msgid "INFORMACION DE USUARIO"
 msgstr ""
