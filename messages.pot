@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-03 16:31-0500\n"
+"POT-Creation-Date: 2025-11-09 02:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5208,7 +5208,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 243
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 103
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 474
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 506
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 504
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 56
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 90
 msgid "Round Trip"
@@ -5513,7 +5513,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_flights.phtml, line: 39
 # File: module/b2b/view/b2b/shared/index_searchbox_transfers.phtml, line: 113
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 474
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 506
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 504
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 56
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 90
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 131
@@ -7631,7 +7631,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/insurance.phtml, line: 175
 # File: module/b2b/view/b2b/tours/checkout.phtml, line: 190
 # File: module/b2b/view/b2b/tours/confirm.phtml, line: 73
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 515
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 513
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 103
 # File: module/b2b/view/shared/nav.phtml, line: 121
 # File: module/b2b/view/shared/nav.phtml, line: 133
@@ -11147,7 +11147,7 @@ msgstr ""
 # File: module/b2b/view/b2b/packages/details.phtml, line: 330
 # File: module/b2b/view/b2b/packages/details.phtml, line: 370
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 480
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 512
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 510
 msgid "Subtotal"
 msgstr ""
 #
@@ -11258,7 +11258,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/confirm.phtml, line: 237
 # File: module/b2b/view/b2b/packages/details.phtml, line: 300
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 468
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 500
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 498
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 50
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 84
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 358
@@ -12702,7 +12702,7 @@ msgstr ""
 # File: module/b2b/view/b2b/insurances/checkout.phtml, line: 491
 # File: module/b2b/view/b2b/packages/details.phtml, line: 305
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 473
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 505
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 503
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 55
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 89
 msgid "Passengers:"
@@ -13149,7 +13149,7 @@ msgstr ""
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 453
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 479
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 483
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 511
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 509
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 36
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 61
 # File: module/b2b/view/b2b/transfers/confirm.phtml, line: 70
@@ -13432,7 +13432,7 @@ msgstr ""
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 1078
 # File: module/b2b/view/b2b/insurances/checkout.phtml, line: 485
 # File: module/b2b/view/b2b/transfers/checkout.phtml, line: 467
-# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 499
+# File: module/b2b/view/b2b/transfers/checkout.phtml, line: 497
 msgid "Passenger(s)"
 msgstr ""
 #
