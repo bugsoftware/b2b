@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-02 09:12-0500\n"
+"POT-Creation-Date: 2025-12-08 08:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1115,7 +1115,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1235
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1242
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1248
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1462
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1474
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 673
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 201
 # File: module/b2b/view/b2b/insurances/airlinesusa.phtml, line: 1081
@@ -1828,7 +1828,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/checkout.phtml, line: 361
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1242
 # File: module/b2b/view/b2b/hotels/flightscheckout.phtml, line: 119
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1363
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1375
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 656
 # File: module/b2b/view/b2b/insurances/checkout.phtml, line: 450
 # File: module/b2b/view/b2b/packages/bookintel.phtml, line: 253
@@ -3051,7 +3051,7 @@ msgstr ""
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 267
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 392
 # File: module/b2b/view/b2b/flights/results.phtml, line: 365
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1398
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1410
 # File: module/b2b/view/b2b/hotels/results.phtml, line: 660
 # File: module/b2b/view/b2b/insurances/results.phtml, line: 277
 # File: module/b2b/view/b2b/transfers/results.phtml, line: 365
@@ -6599,14 +6599,14 @@ msgstr ""
 #
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1083
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1250
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1371
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1383
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 1083
 msgid "PARTIAL cancellation before"
 msgstr ""
 #
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1085
 # File: module/b2b/view/b2b/hotels/flights.phtml, line: 1252
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1373
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1385
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 1085
 msgid "Booking conditions and cancellation policies will be displayed in checkout."
 msgstr ""
@@ -6622,7 +6622,7 @@ msgstr ""
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 489
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 507
 # File: module/b2b/view/b2b/hotels/view.phtml, line: 1317
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1398
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1410
 # File: module/b2b/view/b2b/packages/view.phtml, line: 122
 # File: module/b2b/view/b2b/packages/view.phtml, line: 336
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 1106
@@ -15788,7 +15788,11 @@ msgstr ""
 msgid "On Request Rate"
 msgstr ""
 #
-# File: module/b2b/view/b2b/hotels/view.phtml, line: 1369
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1363
+msgid "Currency Exchange"
+msgstr ""
+#
+# File: module/b2b/view/b2b/hotels/view.phtml, line: 1381
 msgid "FREE cancellation until"
 msgstr ""
 #
