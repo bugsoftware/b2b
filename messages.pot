@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-14 08:44-0500\n"
+"POT-Creation-Date: 2025-12-19 16:27-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3774,7 +3774,7 @@ msgstr ""
 # File: module/b2b/view/b2b/shared/index_searchbox_packages.phtml, line: 46
 # File: module/b2b/view/b2b/shared/index_searchbox_tours.phtml, line: 104
 # File: module/b2b/view/b2c/hotels/view.phtml, line: 159
-# File: module/b2b/view/layout/admin.phtml, line: 274
+# File: module/b2b/view/layout/admin.phtml, line: 251
 msgid "Search"
 msgstr ""
 #
@@ -6149,7 +6149,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1234
 # File: module/b2b/view/b2b/activities/results.phtml, line: 139
 # File: module/b2b/view/b2b/btob/index.phtml, line: 533
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1114
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1165
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 71
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 98
 # File: module/b2b/view/b2b/packages/search.phtml, line: 183
@@ -6757,7 +6757,7 @@ msgstr ""
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 101
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 108
 # File: module/b2b/view/b2b/forgot-password/index.phtml, line: 115
-# File: module/b2b/view/layout/admin.phtml, line: 264
+# File: module/b2b/view/layout/admin.phtml, line: 241
 msgid "Home"
 msgstr ""
 #
@@ -6917,7 +6917,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 556
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 62
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 241
-# File: module/b2b/view/layout/admin.phtml, line: 193
+# File: module/b2b/view/layout/admin.phtml, line: 188
 msgid "Spanish"
 msgstr ""
 #
@@ -6927,7 +6927,7 @@ msgstr ""
 # File: module/b2b/view/b2b/activities/details.phtml, line: 568
 # File: module/b2b/view/b2b/booking/voucher.phtml, line: 70
 # File: module/b2b/view/b2b/cart/checkout.phtml, line: 250
-# File: module/b2b/view/layout/admin.phtml, line: 196
+# File: module/b2b/view/layout/admin.phtml, line: 189
 msgid "German"
 msgstr ""
 #
@@ -8359,7 +8359,7 @@ msgid "Unable to retreive booking code(s)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/index.phtml, line: 157
-# File: module/b2b/view/b2b/btob/index.phtml, line: 930
+# File: module/b2b/view/b2b/btob/index.phtml, line: 981
 # File: module/b2b/view/b2b/cars/index.phtml, line: 157
 # File: module/b2b/view/b2b/dp/index.phtml, line: 259
 # File: module/b2b/view/b2b/transfers/index.phtml, line: 157
@@ -10202,7 +10202,7 @@ msgstr ""
 # File: module/b2b/view/b2b/booking/addofflinetransfer.phtml, line: 78
 # File: module/b2b/view/b2b/booking/addpayment.phtml, line: 105
 # File: module/b2b/view/b2b/customers/addcustomercitypair.phtml, line: 55
-# File: module/b2b/view/layout/admin.phtml, line: 273
+# File: module/b2b/view/layout/admin.phtml, line: 250
 msgid "Add"
 msgstr ""
 #
@@ -11426,7 +11426,7 @@ msgstr ""
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 256
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 471
 # File: module/b2b/view/b2b/reservations/index.phtml, line: 857
-# File: module/b2b/view/layout/admin.phtml, line: 342
+# File: module/b2b/view/layout/admin.phtml, line: 319
 msgid "Invoice"
 msgstr ""
 #
@@ -12291,7 +12291,7 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1114
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1165
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
@@ -18043,91 +18043,91 @@ msgstr ""
 msgid "Full Screen"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 187
+# File: module/b2b/view/layout/admin.phtml, line: 186
 msgid "United States"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 190
+# File: module/b2b/view/layout/admin.phtml, line: 187
 msgid "France"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 199
+# File: module/b2b/view/layout/admin.phtml, line: 190
 msgid "Japan"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 202
+# File: module/b2b/view/layout/admin.phtml, line: 191
 msgid "China"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 205
+# File: module/b2b/view/layout/admin.phtml, line: 192
 msgid "Italy"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 208
+# File: module/b2b/view/layout/admin.phtml, line: 193
 msgid "Portugal"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 211
+# File: module/b2b/view/layout/admin.phtml, line: 194
 msgid "Russia"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 214
+# File: module/b2b/view/layout/admin.phtml, line: 195
 msgid "Korea"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 260
+# File: module/b2b/view/layout/admin.phtml, line: 237
 msgid "Warning! This will reset all your widget settings."
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 264
+# File: module/b2b/view/layout/admin.phtml, line: 241
 msgid "Dashboard"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 272
+# File: module/b2b/view/layout/admin.phtml, line: 249
 msgid "Change Grid"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 291
+# File: module/b2b/view/layout/admin.phtml, line: 268
 msgid "Last account activity"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 299
+# File: module/b2b/view/layout/admin.phtml, line: 276
 msgid "Download Progress"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 308
+# File: module/b2b/view/layout/admin.phtml, line: 285
 msgid "Server Load"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 317
+# File: module/b2b/view/layout/admin.phtml, line: 294
 msgid "Memory Load"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 317
+# File: module/b2b/view/layout/admin.phtml, line: 294
 msgid "*critical*"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 326
+# File: module/b2b/view/layout/admin.phtml, line: 303
 msgid "refresh"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 339
+# File: module/b2b/view/layout/admin.phtml, line: 316
 msgid "Mail"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 340
+# File: module/b2b/view/layout/admin.phtml, line: 317
 msgid "Calendar"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 341
+# File: module/b2b/view/layout/admin.phtml, line: 318
 msgid "Maps"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 343
+# File: module/b2b/view/layout/admin.phtml, line: 320
 msgid "Gallery"
 msgstr ""
 #
-# File: module/b2b/view/layout/admin.phtml, line: 344
+# File: module/b2b/view/layout/admin.phtml, line: 321
 msgid "My Profile"
 msgstr ""
 #
