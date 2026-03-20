@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-27 08:12-0500\n"
+"POT-Creation-Date: 2026-03-20 19:17-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1065,7 +1065,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinessantodomingo.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 54
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 205
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1096
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1095
 # File: module/b2b/view/b2b/btob/details.phtml, line: 527
 # File: module/b2b/view/b2b/btob/index.phtml, line: 34
 # File: module/b2b/view/b2b/btob/index.phtml, line: 35
@@ -3751,7 +3751,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.old.phtml, line: 49
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 146
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 196
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1097
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1096
 # File: module/b2b/view/b2b/btob/insurancesperu.phtml, line: 75
 # File: module/b2b/view/b2b/flights/confirmeddepartures.phtml, line: 14
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 75
@@ -6145,7 +6145,7 @@ msgstr ""
 # File: module/b2b/b2b2c/b2c/hotels/view.phtml, line: 1234
 # File: module/b2b/view/b2b/activities/results.phtml, line: 139
 # File: module/b2b/view/b2b/btob/index.phtml, line: 533
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1165
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1167
 # File: module/b2b/view/b2b/newsletters/index.phtml, line: 71
 # File: module/b2b/view/b2b/packages/listpackages.phtml, line: 98
 # File: module/b2b/view/b2b/packages/search.phtml, line: 183
@@ -8354,7 +8354,7 @@ msgid "Unable to retreive booking code(s)"
 msgstr ""
 #
 # File: module/b2b/view/b2b/activities/index.phtml, line: 157
-# File: module/b2b/view/b2b/btob/index.phtml, line: 981
+# File: module/b2b/view/b2b/btob/index.phtml, line: 983
 # File: module/b2b/view/b2b/cars/index.phtml, line: 157
 # File: module/b2b/view/b2b/dp/index.phtml, line: 259
 # File: module/b2b/view/b2b/transfers/index.phtml, line: 157
@@ -11826,7 +11826,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 187
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 206
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 208
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1094
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1093
 # File: module/b2b/view/b2b/cruises/search.phtml, line: 440
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 12
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 8
@@ -11880,7 +11880,7 @@ msgstr ""
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 167
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 207
 # File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 209
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1095
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1094
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 15
 # File: module/b2b/view/b2b/flights/multisearch.phtml, line: 9
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 15
@@ -12002,7 +12002,7 @@ msgstr ""
 msgid "Remove last flight"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1099
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1098
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
@@ -12011,7 +12011,7 @@ msgstr ""
 msgid "You can select a maximum of"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1099
+# File: module/b2b/view/b2b/btob/airlinesusa.phtml, line: 1098
 # File: module/b2b/view/b2b/flights/json_search.phtml, line: 33
 # File: module/b2b/view/b2b/flights/parallelresults.phtml, line: 33
 # File: module/b2b/view/b2b/flights/results.phtml, line: 33
@@ -12244,7 +12244,7 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: module/b2b/view/b2b/btob/index.phtml, line: 1165
+# File: module/b2b/view/b2b/btob/index.phtml, line: 1167
 msgid "Email address bounceback and it could not be delivered successfully to recipients of email."
 msgstr ""
 #
@@ -17951,6 +17951,18 @@ msgstr ""
 #
 # File: module/b2b/view/b2b/transfers/searching.phtml, line: 44
 msgid "Searching transfers"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 69
+msgid "REPORTES"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 83
+msgid "CTM MAYORISTA"
+msgstr ""
+#
+# File: module/b2b/view/b2b/custom/topmenu.phtml, line: 92
+msgid "INFORMACION DE USUARIO"
 msgstr ""
 #
 # File: module/b2b/view/layout/admin.phtml, line: 72
